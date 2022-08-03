@@ -1,0 +1,9 @@
+---
+name: extensions
+version: "2022-Jul-28"
+sort: by_weight
+use_preset_vocabulary: true
+
+# add extension dictionaries here
+import_tables:
+  - sogou

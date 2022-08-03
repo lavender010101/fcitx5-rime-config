@@ -1,0 +1,24 @@
+patch:
+  "menu/page_size": 9
+  schema_list:
+    - schema: luna_pinyin_simp
+
+  # key actions
+  switcher/save_options:
+    - full_shape
+    - ascii_punct
+    - simplification
+    - zh_hans
+    - emoji_suggestion
+  ascii_composer: # 设置caps、shift、control等键的作用
+    good_old_caps_lock: true # 若为true，caps只切换大小写
+    switch_key:
+      Shift_L: commit_code
+      Shift_R: noop
+      Control_L: noop
+      Control_R: noop
+      Caps_Lock: noop
+      Eisu_toggle: clear
+  # key_binder/bindings: # 设置哪些键可以翻页，需要哪个取消注释即可
+  #   - { when: composing, accept: Tab, send: Page_Up } # Tab 翻页
+translator/dictionary: dictionaries

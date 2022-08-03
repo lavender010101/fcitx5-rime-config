@@ -1,0 +1,8 @@
+---
+name: dictionaries
+version: "2022-Jul-28"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin_simp
+  - extensions
