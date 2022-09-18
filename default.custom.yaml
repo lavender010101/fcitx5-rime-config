@@ -1,24 +1,25 @@
+# customization:
+#   distribution_code_name: Weasel
+#   distribution_version: 0.14.3
+#   generator: "Rime::SwitcherSettings"
+#   modified_time: "Mon Feb 22 16:51:30 2021"
+#   rime_version: 1.7.3
+
 patch:
   "menu/page_size": 9
   schema_list:
-    - schema: luna_pinyin_simp
+    # - { schema: luna_pinyin }
+    # - { schema: double_pinyin_flypy }
+    - { schema: luna_pinyin_simp }
 
-  # key actions
-  switcher/save_options:
-    - full_shape
-    - ascii_punct
-    - simplification
-    - zh_hans
-    - emoji_suggestion
-  ascii_composer: # 设置caps、shift、control等键的作用
-    good_old_caps_lock: true # 若为true，caps只切换大小写
-    switch_key:
-      Shift_L: commit_code
-      Shift_R: noop
-      Control_L: noop
-      Control_R: noop
-      Caps_Lock: noop
-      Eisu_toggle: clear
-  # key_binder/bindings: # 设置哪些键可以翻页，需要哪个取消注释即可
-  #   - { when: composing, accept: Tab, send: Page_Up } # Tab 翻页
-translator/dictionary: dictionaries
+  # "switcher/hotkeys": # 这个列表里每项定义一个快捷键，使哪个都中
+  #   #- "Control+s"     # 添加 Ctrl+s
+  #   - "Control+grave" # 你看写法并不是 Ctrl+` 而是与 IBus 一致的表示法
+  #   - "Control+F3"
+  switch_key:
+    Shift_L: commit_code
+    Shift_R: noop
+    Control_L: noop
+    Control_R: noop
+    Caps_Lock: noop
+    Eisu_toggle: clear
