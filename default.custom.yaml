@@ -1,21 +1,8 @@
-# customization:
-#   distribution_code_name: Weasel
-#   distribution_version: 0.14.3
-#   generator: "Rime::SwitcherSettings"
-#   modified_time: "Mon Feb 22 16:51:30 2021"
-#   rime_version: 1.7.3
-
 patch:
   "menu/page_size": 9
   schema_list:
-    # - { schema: luna_pinyin }
-    # - { schema: double_pinyin_flypy }
-    - { schema: luna_pinyin_simp }
+    - schema: luna_pinyin_simp
 
-  # "switcher/hotkeys": # 这个列表里每项定义一个快捷键，使哪个都中
-  #   #- "Control+s"     # 添加 Ctrl+s
-  #   - "Control+grave" # 你看写法并不是 Ctrl+` 而是与 IBus 一致的表示法
-  #   - "Control+F3"
   switch_key:
     Shift_L: commit_code
     Shift_R: noop
