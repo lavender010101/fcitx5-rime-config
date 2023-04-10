@@ -1,15 +1,17 @@
 ---
 name: custom_dict.all ##注意name和文件名一致
-version: "2020.6.7"
+version: "Apr. 10th, 2023"
 sort: by_weight
 use_preset_vocabulary: true
 # 此处为 输入法所用到的词库，既补充拓展词库的地方
 import_tables:
   - luna_pinyin
-  - dicts/luna_pinyin.chaizi # 拆字词库
-  - dicts/custom_simple # 自定义
-  - dicts/luna_pinyin.sg.xdhy  # 搜狗词库和现代汉语合并
-  - dicts/se_words # 互联网网络词汇
-  - dicts/luna_pinyin.biaoqing # 表情
-  - dicts/luna_pinyin.emoji # emoji Ext
+  - dicts/base/split # 拆字词库
+  - dicts/sougou/modern_chinese  # 搜狗词库和现代汉语合并
+  - dicts/symbols/emoji # emoji Ext
+  - dicts/extended/computer_science # 互联网网络词汇
+  - dicts/extended/THUOCL_finance_economics # 财经
+  - dicts/extended/THUOCL_food # 食物
+  - dicts/extended/THUOCL_localtions # 地名
+  - dicts/extended/THUOCL_phrase # 成语
 ...
