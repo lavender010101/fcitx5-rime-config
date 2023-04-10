@@ -1,0 +1,11 @@
+# build folders
+build
+*.userdb
+
+# build files
+user.yaml
+installation.yaml
+
+# themes
+weasel.custom.yaml
+squirrel.custom.yaml

@@ -1,191 +1,91 @@
-# luna_pinyin.custom.yaml
-#
-# 将朙月拼音的词库修改为朙月拼音扩充词库
-#
-# https://github.com/ASC8384/myRime
-# mailto:ASC_8384@foxmail.com
-# 有参考
-#
-# 部署位置：
-# ~/.config/ibus/rime  (Linux)
-# ~/Library/Rime  (Mac OS)
-# %APPDATA%\Rime  (Windows)
-#
-# 重新部署即可
-#
-
-patch:
-  # 翻页
-  #"key_binder/bindings":
-  #  - { when: paging, accept: bracketleft, send: Page_Up }
-  #  - { when: has_menu, accept: bracketright, send: Page_Down }
-  "switches/@0/reset": 1  #表示将 switcher 列表中的第一个元素（即 ascii_mode 开关）的初始值重设为状态1（即“英文”）。
-  #表情'/'输入
-  punctuator/import_preset: symbols #表情
-  recognizer/patterns/punct: "^\\\\([a-z]+|[0-9])$" #输入‘/’
-  # "^/([a-z]+|[0-9])$"
-  # end
-  # 自定义符号
-  #punctuator/full_shape:
-    #"/" : "／", "÷", "、"
-  #punctuator/half_shape:
-    #"/" : "/", "／", "÷", "、"
-  # end
-  # 活用标点创建自定义词组
-  #recognizer/patterns/reverse_lookup: #作用是关闭 ` 键的反查功能
-  #punctuator/half_shape: 
-  #  '`': [ '`', 'ASC_8384', 'ASC_8384@foxmail.com']
-  # end
-  # 扩充词库
-  translator/dictionary: luna_pinyin.extended
-  # 改寫拼寫運算，使得含西文的詞彙（位於 luna_pinyin.cn_en.dict.yaml 中）不影響簡拼功能
-  "speller/algebra/@before 0": xform/^([b-df-np-z])$/$1_/
-  # end
-  # 加載 easy_en 依賴，英文聯想輸入
-  "schema/dependencies/@next": easy_en
-  # 載入翻譯英文的碼表翻譯器，取名爲 english
-  "engine/translators/@next": table_translator@english
-  # english 翻譯器的設定項
-  english:
-    dictionary: easy_en
-    spelling_hints: 9
-    enable_completion: true
-    enable_sentence: false
-    initial_quality: -1
-  # end
-  #模糊音
-  #'speller/algebra':
-    #- derive/^([zcs])h/$1/             # zh, ch, sh => z, c, s
-    #- derive/^([zcs])([^h])/$1h$2/     # z, c, s => zh, ch, sh
-    #- derive/^n/l/                     # n => l
-    #- derive/^l/n/                     # l => n
-    #- derive/^r/l/                     # r => l
-    #- derive/^ren/yin/                 # ren => yin, reng => ying
-    #- derive/^shen/sehn/
-    #- derive/^r/y/                     # r => y
-    #- derive/^hu$/fu/                  # hu => fu
-    #- derive/^hong$/feng/              # hong => feng
-    #- derive/^hu([in])$/fe$1/          # hui => fei, hun => fen
-    #- derive/^hu([ao])/f$1/            # hua => fa, ...
-    #- derive/^fu$/hu/                  # fu => hu
-    #- derive/^feng$/hong/              # feng => hong
-    #- derive/^fe([in])$/hu$1/          # fei => hui, fen => hun
-    #- derive/^f([ao])/hu$1/            # fa => hua, ...
-    #- derive/^([bpmf])eng$/$1ong/      # meng = mong, ...
-    #- derive/([ei])n$/$1ng/            # en => eng, in => ing
-    #- derive/([ei])ng$/$1n/            # eng => en, ing => in
-    #- derive/au$/ua/                    # hau => hua, ...
-    #- derive/([aeiou])ng$/$1gn/        # dagn => dang
-    #- derive/([dtngkhrzcs])o(u|ng)$/$1o/  # zho => zhong|zhou
-    #- derive/ong$/on/                  # zhonguo => zhong guo
-    #- derive/ao$/oa/                   # hoa => hao
-    #- derive/([iu])a(o|ng?)$/a$1$2/    # tain => tian
-  #突然发现定制指南里有
-  peller/algebra':
-    - erase/^xx$/                      # 第一行保留
-
-    # 模糊音定义
-    # 需要哪组就删去行首的 # 号，单双向任选
-    #- derive/^([zcs])h/$1/             # zh, ch, sh => z, c, s
-    #- derive/^([zcs])([^h])/$1h$2/     # z, c, s => zh, ch, sh
-
-    #- derive/^n/l/                     # n => l
-    #- derive/^l/n/                     # l => n
-
-    # 这两组一般是单向的
-    #- derive/^r/l/                     # r => l
-
-    #- derive/^ren/yin/                 # ren => yin, reng => ying
-    #- derive/^r/y/                     # r => y
-
-    # 下面 hu <=> f 这组写法复杂一些，分情况讨论
-    #- derive/^hu$/fu/                  # hu => fu
-    #- derive/^hong$/feng/              # hong => feng
-    #- derive/^hu([in])$/fe$1/          # hui => fei, hun => fen
-    #- derive/^hu([ao])/f$1/            # hua => fa, ...
-
-    #- derive/^fu$/hu/                  # fu => hu
-    #- derive/^feng$/hong/              # feng => hong
-    #- derive/^fe([in])$/hu$1/          # fei => hui, fen => hun
-    #- derive/^f([ao])/hu$1/            # fa => hua, ...
-
-    # 韵母部份
-    #- derive/^([bpmf])eng$/$1ong/      # meng = mong, ...
-    #- derive/([ei])n$/$1ng/            # en => eng, in => ing
-    #- derive/([ei])ng$/$1n/            # eng => en, ing => in
-
-    # 样例足够了，其他请自己总结……
-
-    # 反模糊音？
-    # 谁说方言没有普通话精确、有模糊音，就能有反模糊音。
-    # 示例为分尖团的中原官话：
-    #- derive/^ji$/zii/   # 在设计者安排下鸠占鹊巢，尖音i只好双写了
-    #- derive/^qi$/cii/
-    #- derive/^xi$/sii/
-    #- derive/^ji/zi/
-    #- derive/^qi/ci/
-    #- derive/^xi/si/
-    #- derive/^ju/zv/
-    #- derive/^qu/cv/
-    #- derive/^xu/sv/
-    # 韵母部份，只能从大面上覆盖
-    #- derive/^([bpm])o$/$1eh/          # bo => beh, ...
-    #- derive/(^|[dtnlgkhzcs]h?)e$/$1eh/  # ge => geh, se => sheh, ...
-    #- derive/^([gkh])uo$/$1ue/         # guo => gue, ...
-    #- derive/^([gkh])e$/$1uo/          # he => huo, ...
-    #- derive/([uv])e$/$1o/             # jue => juo, lve => lvo, ...
-    #- derive/^fei$/fi/                 # fei => fi
-    #- derive/^wei$/vi/                 # wei => vi
-    #- derive/^([nl])ei$/$1ui/          # nei => nui, lei => lui
-    #- derive/^([nlzcs])un$/$1vn/       # lun => lvn, zun => zvn, ... 
-    #- derive/^([nlzcs])ong$/$1iong/    # long => liong, song => siong, ...
-    # 这个办法虽从拼写上做出了区分，然而受词典制约，候选字仍是混的。
-    # 只有真正的方音输入方案才能做到！但“反模糊音”这个玩法快速而有效！
-
-    # 模糊音定义先于简拼定义，方可令简拼支持以上模糊音
-    - abbrev/^([a-z]).+$/$1/           # 简拼（首字母）
-    - abbrev/^([zcs]h).+$/$1/          # 简拼（zh, ch, sh）
-
-    # 以下是一组容错拼写，《汉语拼音》方案以前者为正
-    - derive/^([nl])ve$/$1ue/          # nve = nue, lve = lue
-    - derive/^([jqxy])u/$1v/           # ju = jv,
-    - derive/un$/uen/                  # gun = guen,
-    - derive/ui$/uei/                  # gui = guei,
-    - derive/iu$/iou/                  # jiu = jiou,
-
-    # 自动纠正一些常见的按键错误
-    - derive/([aeiou])ng$/$1gn/        # dagn => dang 
+# encoding: utf-8
+patch: 
+  'translator/dictionary': custom_dict.all
+  'speller/algebra': 
+    - erase/^xx$/
+    - derive/^([zcs])h/$1/ # zh, ch, sh => z, c, s
+    - derive/^([zcs])([^h])/$1h$2/ # z, c, s => zh, ch, sh
+    - derive/([aei])n$/$1ng/ # en => eng, in => ing
+    - derive/([aei])ng$/$1n/ # eng => en, ing => in
+    - derive/([iu])an$/$lang/ # ian => iang, uan => uang
+    - derive/([iu])ang$/$lan/ # iang => ian, uang => uan
+    - derive/([aeiou])ng$/$1gn/        # dagn => dang
     - derive/([dtngkhrzcs])o(u|ng)$/$1o/  # zho => zhong|zhou
     - derive/ong$/on/                  # zhonguo => zhong guo
     - derive/ao$/oa/                   # hoa => hao
     - derive/([iu])a(o|ng?)$/a$1$2/    # tain => tian
-
-  # 分尖团后 v => ü 的改写条件也要相应地扩充：
-  #'translator/preedit_format':
-  #  - "xform/([nljqxyzcs])v/$1ü/"#模糊音
-  #'speller/algebra':
-    #- derive/^([zcs])h/$1/             # zh, ch, sh => z, c, s
-    #- derive/^([zcs])([^h])/$1h$2/     # z, c, s => zh, ch, sh
-    #- derive/^n/l/                     # n => l
-    #- derive/^l/n/                     # l => n
-    #- derive/^r/l/                     # r => l
-    #- derive/^ren/yin/                 # ren => yin, reng => ying
-    #- derive/^shen/sehn/
-    #- derive/^r/y/                     # r => y
-    #- derive/^hu$/fu/                  # hu => fu
-    #- derive/^hong$/feng/              # hong => feng
-    #- derive/^hu([in])$/fe$1/          # hui => fei, hun => fen
-    #- derive/^hu([ao])/f$1/            # hua => fa, ...
-    #- derive/^fu$/hu/                  # fu => hu
-    #- derive/^feng$/hong/              # feng => hong
-    #- derive/^fe([in])$/hu$1/          # fei => hui, fen => hun
-    #- derive/^f([ao])/hu$1/            # fa => hua, ...
-    #- derive/^([bpmf])eng$/$1ong/      # meng = mong, ...
-    #- derive/([ei])n$/$1ng/            # en => eng, in => ing
-    #- derive/([ei])ng$/$1n/            # eng => en, ing => in
-    #- derive/au$/ua/                    # hau => hua, ...
-    #- derive/([aeiou])ng$/$1gn/        # dagn => dang
-    #- derive/([dtngkhrzcs])o(u|ng)$/$1o/  # zho => zhong|zhou
-    #- derive/ong$/on/                  # zhonguo => zhong guo
-    #- derive/ao$/oa/                   # hoa => hao
-    #- derive/([iu])a(o|ng?)$/a$1$2/    # tain => tian
+    - abbrev/^([a-z]).+$/$1/ #简拼（首字母）
+    - abbrev/^([zcs]h).+$/$1/ #简拼（zh, ch, sh）
+  switches:
+    - name: ascii_mode
+      reset: 0
+      states: [ 中文, 英文 ]
+    - name: emoji_suggestion
+      reset: 1
+      states: [ "😣️","😁️"]
+    - name: full_shape
+      states: [ 半角, 全角 ]
+    - name: simplification
+      reset: 1
+      states: [ 繁体, 简体 ]
+    - name: ascii_punct
+      states: [ 。，, ．， ]
+  engine/translators:
+    # - lua_translator@date_translator
+    # - lua_translator@week_translator
+    - punct_translator
+    - script_translator
+    - table_translator@custom_phrase
+  engine/filters:
+    - simplifier@emoji_suggestion
+    #- simplifier@zh_simp
+    - simplifier
+    - uniquifier
+    #- charset_filter@gbk
+    #- single_char_filter
+  engine/processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  # engine/segmentors:
+  #   - ascii_segmentor
+  #   - matcher
+  #   - abc_segmentor
+  #   - punct_segmentor
+  #   - fallback_segmentor
+  emoji_suggestion:
+    opencc_config: emoji.json
+    option_name: emoji_suggestion
+    # tips: all
+  reverse_lookup: {}
+  
+  punctuator:
+    import_preset: symbols
+    # 自定义快捷符号输入
+    # symbols:
+    #   "/fs": [½, ‰, ¼, ⅓, ⅔, ¾, ⅒ ]
+    half_shape:
+      "#": "#"
+      "*": "*"
+      '.' : ["。"]
+      "`": "`"
+      "~": "~"
+      "@": "@"
+      "=": "="
+      "/": ["/", "÷",]
+      '\': "、"
+      "_" : "──"
+      "'": {pair: ["「", "」"]}
+      "[": ["【", "["]
+      "]": ["】", "]"]
+      "$": ["¥", "$", "€", "£", "¢", "¤"]
+      "<": ["《", "〈", "«", "<"]
+      ">": ["》", "〉", "»", ">"]
+  # 关闭EasyEN造句功能
+  'easy_en/enable_sentence': false
+  recognizer/patterns/punct: "^/([0-9]0?|[A-Za-z]+)$"
