@@ -1,6 +1,7 @@
 # build folders
 build
 *.userdb
+sync
 
 # build files
 user.yaml
