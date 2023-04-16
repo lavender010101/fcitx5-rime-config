@@ -14,7 +14,7 @@ sort: by_weight
 南方	nan fang	256007
 市政府	shi zheng fu	247487
 公安	gong an	243740
-公安局	gong an ju	232177
+公安局	gong an jv	232177
 派出所	pai chu suo	226373
 酒店	jiu dian	201212
 广场	guang chang	200272
@@ -95,7 +95,7 @@ sort: by_weight
 县政府	xian zheng fu	61959
 楼房	lou fang	60449
 南京市	nan jing shi	60063
-旅游局	lv you ju	59056
+旅游局	lv you jv	59056
 航空公司	hang kong gong si	58993
 成都市	cheng du shi	58244
 码头	ma tou	57381
@@ -110,7 +110,7 @@ sort: by_weight
 楼下	lou xia	54169
 大洋	da yang	53500
 北京大学	bei jing da xue	53165
-俱乐部	ju le bu	52991
+俱乐部	jv le bu	52991
 大会堂	da hui tang	52908
 华西	hua xi	52831
 河北省	he bei sheng	52633
@@ -119,7 +119,7 @@ sort: by_weight
 上都	shang dou	51677
 车厢	che xiang	50988
 花园	hua yuan	50885
-公安分局	gong an fen ju	50318
+公安分局	gong an fen jv	50318
 海关	hai guan	50242
 大都	da du	50134
 省人大	sheng ren da	49892
@@ -147,17 +147,17 @@ sort: by_weight
 管委会	guan wei hui	42655
 河流	he liu	41973
 振兴	zhen xing	41928
-民政局	min zheng ju	41184
+民政局	min zheng jv	41184
 龙头	long tou	40393
-工商局	gong shang ju	40220
+工商局	gong shang jv	40220
 国际机场	guo ji ji chang	40201
 西北部	xi bei bu	39269
-居委会	ju wei hui	38061
+居委会	jv wei hui	38061
 北大	bei da	37718
-市公安局	shi gong an ju	37155
+市公安局	shi gong an jv	37155
 保险公司	bao xian gong si	37103
 出版社	chu ban she	36484
-卫生局	wei sheng ju	36392
+卫生局	wei sheng jv	36392
 印尼	yin ni	36365
 京城	jing cheng	36168
 收费站	shou fei zhan	35901
@@ -186,7 +186,7 @@ sort: by_weight
 台上	tai shang	29756
 辽宁省	liao ning sheng	29726
 云集	yun ji	29359
-财政局	cai zheng ju	29140
+财政局	cai zheng jv	29140
 经济带	jing ji dai	29093
 向北	xiang bei	29008
 吉林省	ji lin sheng	28944
@@ -210,7 +210,7 @@ sort: by_weight
 卫生厅	wei sheng ting	26149
 黑龙江省	hei long jiang sheng	26118
 株洲	zhu zhou	25882
-铁路局	tie lu ju	25678
+铁路局	tie lu jv	25678
 青岛市	qing dao shi	25247
 艺术学院	yi shu xue yuan	25040
 消防支队	xiao fang zhi dui	24615
@@ -235,14 +235,14 @@ sort: by_weight
 立交桥	li jiao qiao	21988
 关口	guan kou	21984
 北美	bei mei	21980
-林业局	lin ye ju	21924
+林业局	lin ye jv	21924
 产业园区	chan ye yuan qu	21786
 发售	fa shou	21682
 菜市场	cai shi chang	21452
 动物园	dong wu yuan	21318
 厂区	chang qu	21238
 香港特区	xiang gang te qu	21215
-司法局	si fa ju	21100
+司法局	si fa jv	21100
 高雄	gao xiong	20842
 镇政府	zhen zheng fu	20792
 海淀	hai dian	20666
@@ -276,22 +276,22 @@ sort: by_weight
 中山市	zhong shan shi	18081
 小店	xiao dian	17987
 巴勒斯坦	ba le si tan	17725
-气象局	qi xiang ju	17674
+气象局	qi xiang jv	17674
 大山	da shan	17600
-剧院	ju yuan	17396
+剧院	jv yuan	17396
 中心区	zhong xin qu	17375
 南站	nan zhan	17279
 教学楼	jiao xue lou	17273
 福田	fu tian	17227
 二站	er zhan	17129
-执法局	zhi fa ju	17061
+执法局	zhi fa jv	17061
 海底	hai di	16986
 殡仪馆	bin yi guan	16914
 青海省	qing hai sheng	16869
 东城	dong cheng	16771
 市里	shi li	16722
 步行街	bu xing jie	16648
-地税局	di shui ju	16636
+地税局	di shui jv	16636
 金陵	jin ling	16536
 天河	tian he	16406
 桥下	qiao xia	16405
@@ -325,12 +325,12 @@ sort: by_weight
 沙滩	sha tan	14977
 热带风暴	re dai feng bao	14891
 医科大学	yi ke da xue	14882
-安全局	an quan ju	14879
+安全局	an quan jv	14879
 电影院	dian ying yuan	14843
 温州市	wen zhou shi	14825
 邵阳	shao yang	14727
 住宅小区	zhu zhai xiao qu	14697
-交通局	jiao tong ju	14607
+交通局	jiao tong jv	14607
 敬老院	jing lao yuan	14538
 海口市	hai kou shi	14466
 山林	shan lin	14452
@@ -342,9 +342,9 @@ sort: by_weight
 桥面	qiao mian	14347
 新风	xin feng	14270
 遗迹	yi ji	14222
-国税局	guo shui ju	14219
+国税局	guo shui jv	14219
 中心医院	zhong xin yi yuan	14213
-军营	jun ying	14187
+军营	jvn ying	14187
 青山	qing shan	14075
 林地	lin di	14033
 武汉大学	wu han da xue	14023
@@ -363,7 +363,7 @@ sort: by_weight
 丰台	feng tai	13612
 儿童医院	er tong yi yuan	13398
 经开区	jing kai qu	13380
-国土资源局	guo tu zi yuan ju	13376
+国土资源局	guo tu zi yuan jv	13376
 南门	nan men	13339
 商业街	shang ye jie	13202
 黎巴嫩	li ba nen	13150
@@ -376,7 +376,7 @@ sort: by_weight
 海滨	hai bin	12889
 城北	cheng bei	12887
 区委常委	qu wei chang wei	12795
-建设局	jian she ju	12744
+建设局	jian she jv	12744
 新开	xin kai	12699
 南疆	nan jiang	12673
 工商银行	gong shang yin hang	12640
@@ -397,7 +397,7 @@ sort: by_weight
 展览馆	zhan lan guan	12092
 福州市	fu zhou shi	12045
 东站	dong zhan	12036
-农业局	nong ye ju	12027
+农业局	nong ye jv	12027
 大坝	da ba	12006
 交通大学	jiao tong da xue	11982
 城郊	cheng jiao	11922
@@ -405,7 +405,7 @@ sort: by_weight
 团市委	tuan shi wei	11907
 村口	cun kou	11895
 四楼	si lou	11894
-安监局	an jian ju	11790
+安监局	an jian jv	11790
 体育中心	ti yu zhong xin	11741
 增城	zeng cheng	11734
 公交公司	gong jiao gong si	11691
@@ -441,10 +441,10 @@ sort: by_weight
 南美	nan mei	10718
 植物园	zhi wu yuan	10551
 房山	fang shan	10544
-消防局	xiao fang ju	10456
+消防局	xiao fang jv	10456
 乡政府	xiang zheng fu	10427
 东门	dong men	10426
-国家工商总局	guo jia gong shang zong ju	10409
+国家工商总局	guo jia gong shang zong jv	10409
 丝路	si lu	10402
 分店	fen dian	10353
 水厂	shui chang	10353
@@ -456,7 +456,7 @@ sort: by_weight
 交通银行	jiao tong yin hang	10229
 虹桥	hong qiao	10198
 湘潭市	xiang tan shi	10198
-邮局	you ju	10169
+邮局	you jv	10169
 北路	bei lu	10151
 呼和浩特市	hu he hao te shi	10137
 越秀	yue xiu	10112
@@ -470,7 +470,7 @@ sort: by_weight
 大胜	da sheng	9807
 江边	jiang bian	9805
 房地产公司	fang di chan gong si	9790
-税务局	shui wu ju	9785
+税务局	shui wu jv	9785
 苏州市	su zhou shi	9747
 深山	shen shan	9737
 建筑设计	jian zhu she ji	9730
@@ -496,7 +496,7 @@ sort: by_weight
 石油公司	shi you gong si	9080
 天安门广场	tian an men guang chang	9080
 家乐福	jia le fu	9068
-市工商局	shi gong shang ju	9015
+市工商局	shi gong shang jv	9015
 桥头	qiao tou	8984
 泵站	beng zhan	8966
 沿河	yan he	8947
@@ -506,7 +506,7 @@ sort: by_weight
 水井	shui jing	8915
 三市	san shi	8904
 稻田	dao tian	8899
-县公安局	xian gong an ju	8898
+县公安局	xian gong an jv	8898
 扶贫办	fu pin ban	8860
 高雄市	gao xiong shi	8829
 火山	huo shan	8792
@@ -531,7 +531,7 @@ sort: by_weight
 道口	dao kou	8328
 生活区	sheng huo qu	8303
 附中	fu zhong	8237
-商务局	shang wu ju	8218
+商务局	shang wu jv	8218
 山坡上	shan po shang	8193
 美术学院	mei shu xue yuan	8170
 墨尔本	mo er ben	8152
@@ -542,7 +542,7 @@ sort: by_weight
 华中科技大学	hua zhong ke ji da xue	8017
 市检察院	shi jian cha yuan	8003
 大连市	da lian shi	7993
-地震局	di zhen ju	7988
+地震局	di zhen jv	7988
 外滩	wai tan	7933
 特拉维夫	te la wei fu	7915
 雅安市	ya an shi	7888
@@ -573,7 +573,7 @@ sort: by_weight
 北岸	bei an	7602
 中南大学	zhong nan da xue	7589
 舟山	zhou shan	7581
-邮政局	you zheng ju	7569
+邮政局	you zheng jv	7569
 化工厂	hua gong chang	7562
 城东	cheng dong	7560
 二环路	er huan lu	7554
@@ -594,7 +594,7 @@ sort: by_weight
 南开大学	nan kai da xue	7329
 楼里	lou li	7303
 富士康	fu shi kang	7272
-省军区	sheng jun qu	7269
+省军区	sheng jvn qu	7269
 台中市	tai zhong shi	7252
 葫芦	hu lu	7244
 洼地	wa di	7217
@@ -603,7 +603,7 @@ sort: by_weight
 苗族	miao zu	7173
 经济学院	jing ji xue yuan	7165
 中兴	zhong xing	7162
-省物价局	sheng wu jia ju	7150
+省物价局	sheng wu jia jv	7150
 密云	mi yun	7143
 新街口	xin jie kou	7139
 中山路	zhong shan lu	7135
@@ -633,7 +633,7 @@ sort: by_weight
 泉水	quan shui	6780
 舟曲	zhou qu	6759
 训练基地	xun lian ji di	6754
-供电局	gong dian ju	6735
+供电局	gong dian jv	6735
 王府井	wang fu jing	6720
 国际会议中心	guo ji hui yi zhong xin	6717
 轮渡	lun du	6712
@@ -681,7 +681,7 @@ sort: by_weight
 肿瘤医院	zhong liu yi yuan	6269
 咸阳市	xian yang shi	6266
 伊犁	yi li	6234
-科技局	ke ji ju	6220
+科技局	ke ji jv	6220
 新华书店	xin hua shu dian	6217
 自治县	zi zhi xian	6198
 东岸	dong an	6141
@@ -728,7 +728,7 @@ sort: by_weight
 北京路	bei jing lu	5712
 保定市	bao ding shi	5691
 政府办	zheng fu ban	5679
-市规划局	shi gui hua ju	5667
+市规划局	shi gui hua jv	5667
 黄浦	huang pu	5643
 南京路	nan jing lu	5628
 浦东机场	pu dong ji chang	5624
@@ -759,7 +759,7 @@ sort: by_weight
 西南角	xi nan jiao	5324
 台东	tai dong	5323
 西江	xi jiang	5322
-审计局	shen ji ju	5321
+审计局	shen ji jv	5321
 淄博市	zi bo shi	5310
 南洋	nan yang	5300
 吉林市	ji lin shi	5295
@@ -786,7 +786,7 @@ sort: by_weight
 麦田	mai tian	5172
 韶关市	shao guan shi	5149
 梅州市	mei zhou shi	5148
-市物价局	shi wu jia ju	5141
+市物价局	shi wu jia jv	5141
 华侨城	hua qiao cheng	5128
 龙湖	long hu	5122
 俄国	e guo	5119
@@ -803,7 +803,7 @@ sort: by_weight
 西单	xi dan	4951
 北郊	bei jiao	4948
 复建	fu jian	4948
-广电局	guang dian ju	4928
+广电局	guang dian jv	4928
 中心城	zhong xin cheng	4927
 紫金山	zi jin shan	4927
 水田	shui tian	4921
@@ -815,8 +815,8 @@ sort: by_weight
 农科院	nong ke yuan	4894
 国家公园	guo jia gong yuan	4891
 白云山	bai yun shan	4882
-市气象局	shi qi xiang ju	4876
-档案局	dang an ju	4866
+市气象局	shi qi xiang jv	4876
+档案局	dang an jv	4866
 西关	xi guan	4865
 花园小区	hua yuan xiao qu	4859
 教育集团	jiao yu ji tuan	4849
@@ -837,7 +837,7 @@ sort: by_weight
 湖中	hu zhong	4774
 淮安市	huai an shi	4773
 交警队	jiao jing dui	4773
-药监局	yao jian ju	4769
+药监局	yao jian jv	4769
 苗圃	miao pu	4752
 塞拉利昂	sai la li ang	4751
 秦淮	qin huai	4732
@@ -923,12 +923,12 @@ sort: by_weight
 扬州市	yang zhou shi	4182
 北京南站	bei jing nan zhan	4180
 九龙坡	jiu long po	4174
-招商局	zhao shang ju	4174
+招商局	zhao shang jv	4174
 协和	xie he	4166
 江夏	jiang xia	4163
 黄山市	huang shan shi	4145
 理工学院	li gong xue yuan	4145
-公路局	gong lu ju	4141
+公路局	gong lu jv	4141
 盐城市	yan cheng shi	4141
 燕山	yan shan	4136
 戒毒所	jie du suo	4133
@@ -946,7 +946,7 @@ sort: by_weight
 水后	shui hou	4080
 公社	gong she	4078
 供销社	gong xiao she	4053
-县教育局	xian jiao yu ju	4053
+县教育局	xian jiao yu jv	4053
 修理厂	xiu li chang	4041
 检测站	jian ce zhan	4040
 行政服务中心	xing zheng fu wu zhong xin	4038
@@ -1003,7 +1003,7 @@ sort: by_weight
 造船厂	zao chuan chang	3787
 光华	guang hua	3784
 黄花	huang hua	3783
-发改局	fa gai ju	3780
+发改局	fa gai jv	3780
 本溪	ben xi	3777
 商厦	shang sha	3765
 农产品市场	nong chan pin shi chang	3763
@@ -1078,7 +1078,7 @@ sort: by_weight
 库尔勒市	ku er lei shi	3551
 加气站	jia qi zhan	3550
 彰化	zhang hua	3545
-计生局	ji sheng ju	3544
+计生局	ji sheng jv	3544
 三大队	san da dui	3539
 泰州市	tai zhou shi	3529
 安阳市	an yang shi	3518
@@ -1109,7 +1109,7 @@ sort: by_weight
 咸宁市	xian ning shi	3409
 湘乡市	xiang xiang shi	3409
 东四	dong si	3393
-房产局	fang chan ju	3391
+房产局	fang chan jv	3391
 兵营	bing ying	3386
 东风路	dong feng lu	3385
 晋城市	jin cheng shi	3384
@@ -1156,7 +1156,7 @@ sort: by_weight
 小桥	xiao qiao	3249
 硚口	qiao kou	3240
 人寿保险	ren shou bao xian	3239
-居民点	ju min dian	3236
+居民点	jv min dian	3236
 周口市	zhou kou shi	3236
 商洛市	shang luo shi	3230
 公交总公司	gong jiao zong gong si	3229
@@ -1192,7 +1192,7 @@ sort: by_weight
 神木	shen mu	3147
 槟榔	bing lang	3147
 黄兴	huang xing	3147
-军事科学院	jun shi ke xue yuan	3142
+军事科学院	jvn shi ke xue yuan	3142
 热电厂	re dian chang	3141
 东非	dong fei	3141
 五路	wu lu	3140
@@ -1233,7 +1233,7 @@ sort: by_weight
 金城	jin cheng	3049
 兰考	lan kao	3046
 苍南	cang nan	3045
-综合执法局	zong he zhi fa ju	3044
+综合执法局	zong he zhi fa jv	3044
 解放广场	jie fang guang chang	3038
 酉阳	you yang	3035
 农业示范区	nong ye shi fan qu	3032
@@ -1246,16 +1246,16 @@ sort: by_weight
 华工	hua gong	3021
 柴油车	chai you che	3019
 永嘉	yong jia	3013
-巨龙	ju long	3012
+巨龙	jv long	3012
 东方明珠	dong fang ming zhu	3004
 临潼	lin tong	3003
-影剧院	ying ju yuan	3002
+影剧院	ying jv yuan	3002
 泰安市	tai an shi	2997
 涟源市	lian yuan shi	2997
 国家图书馆	guo jia tu shu guan	2996
 疗养院	liao yang yuan	2990
 荷塘	he tang	2987
-畜牧局	xu mu ju	2986
+畜牧局	xu mu jv	2986
 江东	jiang dong	2984
 西北大学	xi bei da xue	2983
 师范学校	shi fan xue xiao	2982
@@ -1459,7 +1459,7 @@ sort: by_weight
 华大	hua da	2573
 过段	guo duan	2573
 朔州市	shuo zhou shi	2571
-文体局	wen ti ju	2570
+文体局	wen ti jv	2570
 马赛	ma sai	2569
 李华	li hua	2568
 台子	tai zi	2565
@@ -1508,7 +1508,7 @@ sort: by_weight
 半山	ban shan	2462
 皇岗	huang gang	2462
 朝天门	chao tian men	2462
-局机关	ju ji guan	2461
+局机关	jv ji guan	2461
 工商学院	gong shang xue yuan	2449
 新塘	xin tang	2446
 章丘市	zhang qiu shi	2441
@@ -1582,7 +1582,7 @@ sort: by_weight
 执法中队	zhi fa zhong dui	2326
 飞机场	fei ji chang	2325
 淮北市	huai bei shi	2322
-劳动局	lao dong ju	2321
+劳动局	lao dong jv	2321
 联华	lian hua	2317
 新华路	xin hua lu	2317
 巴彦淖尔市	ba yan nao er shi	2314
@@ -1641,7 +1641,7 @@ sort: by_weight
 闸口	zha kou	2215
 四房	si fang	2214
 九华山	jiu hua shan	2214
-橘子洲	ju zi zhou	2213
+橘子洲	jv zi zhou	2213
 莆田市	pu tian shi	2212
 新疆各族人民	xin jiang ge zu ren min	2208
 宜春市	yi chun shi	2208
@@ -1701,7 +1701,7 @@ sort: by_weight
 人民南路	ren min nan lu	2123
 儿童乐园	er tong le yuan	2122
 小商品市场	xiao shang pin shi chang	2121
-环卫局	huan wei ju	2121
+环卫局	huan wei jv	2121
 武陵	wu ling	2120
 安顺市	an shun shi	2116
 英德市	ying de shi	2110
@@ -1905,7 +1905,7 @@ sort: by_weight
 外环线	wai huan xian	1782
 弹唱	dan chang	1782
 荷花池	he hua chi	1781
-尖沙咀	jian sha ju	1779
+尖沙咀	jian sha jv	1779
 抚顺市	fu shun shi	1779
 鱼池	yu chi	1779
 北京林业大学	bei jing lin ye da xue	1778
@@ -1927,7 +1927,7 @@ sort: by_weight
 相关文章	xiang guan wen zhang	1758
 皇岗口岸	huang gang kou an	1757
 汾河	fen he	1753
-军事博物馆	jun shi bo wu guan	1750
+军事博物馆	jvn shi bo wu guan	1750
 孔庙	kong miao	1749
 六盘水市	liu pan shui shi	1749
 中沙	zhong sha	1745
@@ -1943,7 +1943,7 @@ sort: by_weight
 客运总站	ke yun zong zhan	1730
 溆浦	xu pu	1729
 安仁	an ren	1727
-电业局	dian ye ju	1727
+电业局	dian ye jv	1727
 家属区	jia shu qu	1726
 六中	liu zhong	1725
 石桥铺	shi qiao pu	1724
@@ -2012,7 +2012,7 @@ sort: by_weight
 科技学院	ke ji xue yuan	1664
 江上	jiang shang	1664
 亚欧大陆桥	ya ou da lu qiao	1663
-公交分局	gong jiao fen ju	1663
+公交分局	gong jiao fen jv	1663
 浮桥	fu qiao	1660
 水产市场	shui chan shi chang	1660
 岔路口	cha lu kou	1659
@@ -2021,7 +2021,7 @@ sort: by_weight
 慈利	ci li	1658
 思源	si yuan	1654
 千佛山	qian fo shan	1654
-老干部局	lao gan bu ju	1653
+老干部局	lao gan bu jv	1653
 舟山市	zhou shan shi	1653
 庐江	lu jiang	1653
 路易斯安那州	lu yi si an na zhou	1653
@@ -2045,7 +2045,7 @@ sort: by_weight
 北洋	bei yang	1628
 旅游学院	lv you xue yuan	1628
 江浦	jiang pu	1626
-马军	ma jun	1625
+马军	ma jvn	1625
 龙泉驿	long quan yi	1624
 桐乡	tong xiang	1622
 康涅狄格州	kang nie di ge zhou	1620
@@ -2123,7 +2123,7 @@ sort: by_weight
 山一	shan yi	1554
 檀香山	tan xiang shan	1554
 槐荫	huai yin	1553
-市国税局	shi guo shui ju	1553
+市国税局	shi guo shui jv	1553
 阿拉斯加州	a la si jia zhou	1551
 省图书馆	sheng tu shu guan	1551
 磁器口	ci qi kou	1551
@@ -2186,7 +2186,7 @@ sort: by_weight
 教工	jiao gong	1483
 印第安纳州	yin di an na zhou	1482
 陈村	chen cun	1480
-卫生监督局	wei sheng jian du ju	1480
+卫生监督局	wei sheng jian du jv	1480
 塞舌尔	sai she er	1480
 北海公园	bei hai gong yuan	1479
 凤阳	feng yang	1479
@@ -2195,7 +2195,7 @@ sort: by_weight
 第二中学	di er zhong xue	1475
 琼中	qiong zhong	1473
 市二医院	shi er yi yuan	1473
-港务局	gang wu ju	1472
+港务局	gang wu jv	1472
 桥北	qiao bei	1471
 东洋	dong yang	1470
 中南路	zhong nan lu	1468
@@ -2297,7 +2297,7 @@ sort: by_weight
 桥东	qiao dong	1371
 较场口	jiao chang kou	1370
 普照	pu zhao	1369
-工程局	gong cheng ju	1369
+工程局	gong cheng jv	1369
 沙湖	sha hu	1368
 湖南路	hu nan lu	1365
 马鞍	ma an	1365
@@ -2306,7 +2306,7 @@ sort: by_weight
 九千	jiu qian	1360
 区委办	qu wei ban	1360
 通道县	tong dao xian	1359
-家具市场	jia ju shi chang	1356
+家具市场	jia jv shi chang	1356
 文山州	wen shan zhou	1355
 和合	he he	1355
 西南交大	xi nan jiao da	1354
@@ -2326,7 +2326,7 @@ sort: by_weight
 枫林	feng lin	1345
 大塘	da tang	1345
 江阴市	jiang yin shi	1344
-省新闻出版局	sheng xin wen chu ban ju	1344
+省新闻出版局	sheng xin wen chu ban jv	1344
 柏树	bai shu	1344
 西丽	xi li	1342
 拱北口岸	gong bei kou an	1339
@@ -2345,7 +2345,7 @@ sort: by_weight
 烈士纪念碑	lie shi ji nian bei	1327
 库车	ku che	1326
 莘庄	xin zhuang	1326
-电力局	dian li ju	1324
+电力局	dian li jv	1324
 凤翔	feng xiang	1323
 红星路二段	hong xing lu er duan	1323
 促进社区	cu jin she qu	1321
@@ -2355,7 +2355,7 @@ sort: by_weight
 农工商	nong gong shang	1319
 阳朔	yang shuo	1318
 一票制	yi piao zhi	1317
-空军部队	kong jun bu dui	1317
+空军部队	kong jvn bu dui	1317
 韩城市	han cheng shi	1315
 白头	bai tou	1313
 北滘	bei jiao	1312
@@ -2582,7 +2582,7 @@ sort: by_weight
 河北省张家口市	he bei sheng zhang jia kou shi	1153
 安乡	an xiang	1153
 钢材市场	gang cai shi chang	1153
-矿务局	kuang wu ju	1152
+矿务局	kuang wu jv	1152
 南桥	nan qiao	1152
 李家沱	li jia tuo	1151
 职教中心	zhi jiao zhong xin	1151
@@ -2678,7 +2678,7 @@ sort: by_weight
 清水塘	qing shui tang	1087
 大悟	da wu	1085
 永清	yong qing	1085
-管局	guan ju	1085
+管局	guan jv	1085
 城建集团	cheng jian ji tuan	1084
 蕲春	qi chun	1083
 泗洪	si hong	1083
@@ -2770,7 +2770,7 @@ sort: by_weight
 晓庄	xiao zhuang	1035
 安装公司	an zhuang gong si	1035
 三和	san he	1035
-仙居	xian ju	1035
+仙居	xian jv	1035
 同文	tong wen	1035
 阿尔卑斯	a er bei si	1035
 新沂市	xin yi shi	1034
@@ -2860,7 +2860,7 @@ sort: by_weight
 金海	jin hai	993
 望江路	wang jiang lu	992
 国际花园	guo ji hua yuan	992
-海军司令部	hai jun si ling bu	990
+海军司令部	hai jvn si ling bu	990
 蒙牛乳业	meng niu ru ye	990
 威宁	wei ning	989
 嵩山路	song shan lu	988
@@ -3030,7 +3030,7 @@ sort: by_weight
 尖峰	jian feng	906
 白虎	bai hu	905
 锦里	jin li	904
-悉尼歌剧院	xi ni ge ju yuan	904
+悉尼歌剧院	xi ni ge jv yuan	904
 世界遗产委员会	shi jie yi chan wei yuan hui	903
 九中	jiu zhong	902
 桑树	sang shu	901
@@ -3062,7 +3062,7 @@ sort: by_weight
 长寿路	chang shou lu	888
 检验站	jian yan zhan	888
 安宁市	an ning shi	887
-橘子洲头	ju zi zhou tou	887
+橘子洲头	jv zi zhou tou	887
 香蜜湖	xiang mi hu	887
 陆港	lu gang	886
 东正教	dong zheng jiao	886
@@ -3121,7 +3121,7 @@ sort: by_weight
 白城市	bai cheng shi	861
 涟水	lian shui	861
 启智	qi zhi	861
-句容市	ju rong shi	860
+句容市	jv rong shi	860
 睢宁	sui ning	860
 宜都市	yi du shi	859
 中创	zhong chuang	858
@@ -3212,7 +3212,7 @@ sort: by_weight
 上南路	shang nan lu	820
 浠水	xi shui	820
 农展馆	nong zhan guan	819
-军区总医院	jun qu zong yi yuan	819
+军区总医院	jvn qu zong yi yuan	819
 达县	da xian	818
 南市	nan shi	818
 蒙大拿州	meng da na zhou	818
@@ -3467,7 +3467,7 @@ sort: by_weight
 富阳市	fu yang shi	732
 材料厂	cai liao chang	732
 健康路	jian kang lu	732
-农牧局	nong mu ju	730
+农牧局	nong mu jv	730
 岳麓大道	yue lu da dao	730
 墨脱	mo tuo	730
 街心花园	jie xin hua yuan	729
@@ -3483,7 +3483,7 @@ sort: by_weight
 云台	yun tai	726
 银湖	yin hu	726
 四会市	si hui shi	726
-边防局	bian fang ju	726
+边防局	bian fang jv	726
 新百	xin bai	726
 涞源	lai yuan	725
 淮阳	huai yang	725
@@ -3527,7 +3527,7 @@ sort: by_weight
 西塘	xi tang	712
 辽宁省抚顺市	liao ning sheng fu shun shi	710
 新寨	xin zhai	708
-邮电局	you dian ju	708
+邮电局	you dian jv	708
 解放东路	jie fang dong lu	708
 文艺路	wen yi lu	708
 树德	shu de	707
@@ -3558,7 +3558,7 @@ sort: by_weight
 火车西站	huo che xi zhan	699
 华宝	hua bao	698
 西工大	xi gong da	698
-橘子洲大桥	ju zi zhou da qiao	698
+橘子洲大桥	jv zi zhou da qiao	698
 木浦	mu pu	697
 三医院	san yi yuan	697
 应城市	ying cheng shi	697
@@ -3745,7 +3745,7 @@ sort: by_weight
 鸡鸣	ji ming	641
 抚远	fu yuan	641
 中阳	zhong yang	641
-马驹桥	ma ju qiao	641
+马驹桥	ma jv qiao	641
 口前	kou qian	641
 胡家庙	hu jia miao	641
 金河	jin he	641
@@ -3835,7 +3835,7 @@ sort: by_weight
 南岭村	nan ling cun	618
 北楼	bei lou	617
 建水	jian shui	617
-军工路	jun gong lu	616
+军工路	jvn gong lu	616
 新泰市	xin tai shi	615
 天连	tian lian	615
 天长市	tian zhang shi	615
@@ -3926,7 +3926,7 @@ sort: by_weight
 古猗园	gu yi yuan	594
 瓦窑	wa yao	594
 双碑	shuang bei	594
-市建设局	shi jian she ju	593
+市建设局	shi jian she jv	593
 浦东南路	pu dong nan lu	593
 澳门路	ao men lu	593
 茶坊	cha fang	593
@@ -4014,11 +4014,11 @@ sort: by_weight
 扬中市	yang zhong shi	570
 吉祥路	ji xiang lu	570
 曹家巷	cao jia xiang	570
-公路分局	gong lu fen ju	570
+公路分局	gong lu fen jv	570
 临川	lin chuan	570
 漕河泾	cao he jing	569
 宜州市	yi zhou shi	569
-水上分局	shui shang fen ju	569
+水上分局	shui shang fen jv	569
 正宁	zheng ning	569
 孔府	kong fu	568
 九里	jiu li	568
@@ -4063,7 +4063,7 @@ sort: by_weight
 梅岭	mei ling	560
 八里桥	ba li qiao	560
 沂源	yi yuan	560
-周建军	zhou jian jun	560
+周建军	zhou jian jvn	560
 六都	liu dou	559
 香樟路	xiang zhang lu	558
 泸定	lu ding	558
@@ -4144,7 +4144,7 @@ sort: by_weight
 兵站	bing zhan	544
 总府路	zong fu lu	544
 建康	jian kang	544
-新城分局	xin cheng fen ju	544
+新城分局	xin cheng fen jv	544
 江南西	jiang nan xi	544
 柞水	zha shui	544
 大沟	da gou	543
@@ -4160,11 +4160,11 @@ sort: by_weight
 两河口	liang he kou	543
 安福	an fu	542
 河南路	he nan lu	542
-空军指挥学院	kong jun zhi hui xue yuan	542
+空军指挥学院	kong jvn zhi hui xue yuan	542
 城南客运站	cheng nan ke yun zhan	542
 阿克拉	a ke la	542
 儿童医学中心	er tong yi xue zhong xin	542
-广州军区总医院	guang zhou jun qu zong yi yuan	541
+广州军区总医院	guang zhou jvn qu zong yi yuan	541
 永福	yong fu	541
 江安	jiang an	541
 商业学校	shang ye xue xiao	541
@@ -4191,7 +4191,7 @@ sort: by_weight
 湘江路	xiang jiang lu	536
 旬邑	xun yi	536
 西湾	xi wan	536
-将军山	jiang jun shan	536
+将军山	jiang jvn shan	536
 龙陵	long ling	536
 爱达荷州	ai da he zhou	534
 九龙山	jiu long shan	534
@@ -4353,7 +4353,7 @@ sort: by_weight
 明星村	ming xing cun	503
 杨家山	yang jia shan	502
 毡房	zhan fang	502
-巨野	ju ye	502
+巨野	jv ye	502
 太白山	tai bai shan	502
 灵溪	ling xi	502
 食品城	shi pin cheng	502
@@ -4455,7 +4455,7 @@ sort: by_weight
 小岗	xiao gang	483
 袁家岗	yuan jia gang	482
 丹巴	dan ba	482
-质量监督局	zhi liang jian du ju	482
+质量监督局	zhi liang jian du jv	482
 府西街	fu xi jie	482
 斋堂	zhai tang	482
 美西	mei xi	482
@@ -4518,10 +4518,10 @@ sort: by_weight
 小青岛	xiao qing dao	473
 万年场	wan nian chang	473
 棉纺厂	mian fang chang	473
-区交通局	qu jiao tong ju	473
+区交通局	qu jiao tong jv	473
 九台市	jiu tai shi	472
 医学院附属医院	yi xue yuan fu shu yi yuan	472
-居庸关长城	ju yong guan chang cheng	472
+居庸关长城	jv yong guan chang cheng	472
 信丰	xin feng	472
 洛浦	luo pu	472
 顺安	shun an	472
@@ -4564,7 +4564,7 @@ sort: by_weight
 凉水河	liang shui he	465
 清华学堂	qing hua xue tang	465
 龙华路	long hua lu	465
-老军营	lao jun ying	465
+老军营	lao jvn ying	465
 人才大厦	ren cai da sha	465
 鑫源	xin yuan	464
 向华	xiang hua	464
@@ -4593,7 +4593,7 @@ sort: by_weight
 石岛	shi dao	460
 大坦沙	da tan sha	460
 北新桥	bei xin qiao	460
-七局	qi ju	460
+七局	qi jv	460
 后村	hou cun	459
 陈庄	chen zhuang	459
 中心花园	zhong xin hua yuan	459
@@ -4659,7 +4659,7 @@ sort: by_weight
 大社	da she	448
 红岩村	hong yan cun	447
 宝山路	bao shan lu	447
-铁路分局	tie lu fen ju	447
+铁路分局	tie lu fen jv	447
 半岛酒店	ban dao jiu dian	447
 大雁塔北广场	da yan ta bei guang chang	447
 洪山路	hong shan lu	446
@@ -4764,7 +4764,7 @@ sort: by_weight
 蒙阴	meng yin	430
 二厅	er ting	430
 十四中	shi si zhong	430
-将军路	jiang jun lu	430
+将军路	jiang jvn lu	430
 龙阳路	long yang lu	430
 察布查尔县	cha bu cha er xian	430
 西湖公园	xi hu gong yuan	430
@@ -4852,7 +4852,7 @@ sort: by_weight
 桂林路	gui lin lu	419
 鄄城	juan cheng	419
 菜市口	cai shi kou	419
-民航管理局	min hang guan li ju	419
+民航管理局	min hang guan li jv	419
 树木岭	shu mu ling	419
 太白路	tai bai lu	418
 华瑞	hua rui	418
@@ -4867,7 +4867,7 @@ sort: by_weight
 天星	tian xing	416
 波密	bo mi	416
 集里	ji li	416
-芍药居	shao yao ju	416
+芍药居	shao yao jv	416
 河口县	he kou xian	416
 清镇市	qing zhen shi	416
 珞狮路	luo shi lu	416
@@ -4895,7 +4895,7 @@ sort: by_weight
 寻乌	xun wu	414
 市公积金中心	shi gong ji jin zhong xin	414
 南陵	nan ling	413
-聚龙	ju long	413
+聚龙	jv long	413
 永靖	yong jing	413
 德意志联邦共和国	de yi zhi lian bang gong he guo	413
 凭祥市	ping xiang shi	413
@@ -4932,7 +4932,7 @@ sort: by_weight
 湖南烈士公园	hu nan lie shi gong yuan	408
 赛里木湖	sai li mu hu	408
 田家炳中学	tian jia bing zhong xue	408
-西局	xi ju	408
+西局	xi jv	408
 团岛	tuan dao	408
 雷锋大道	lei feng da dao	408
 大沽河	da gu he	407
@@ -4975,7 +4975,7 @@ sort: by_weight
 含光门	han guang men	401
 四惠桥	si hui qiao	401
 河滩路	he tan lu	401
-南山公安分局	nan shan gong an fen ju	401
+南山公安分局	nan shan gong an fen jv	401
 四惠站	si hui zhan	401
 岗上	gang shang	400
 平桥	ping qiao	400
@@ -5217,7 +5217,7 @@ sort: by_weight
 新城市广场	xin cheng shi guang chang	371
 周家嘴路	zhou jia zui lu	371
 肺科医院	fei ke yi yuan	371
-莒南	ju nan	371
+莒南	jv nan	371
 一马路	yi ma lu	371
 长江村	chang jiang cun	371
 蓬安	peng an	371
@@ -5229,7 +5229,7 @@ sort: by_weight
 惠民路	hui min lu	370
 大黄山	dai huang shan	370
 杏园	xing yuan	369
-军山	jun shan	369
+军山	jvn shan	369
 春江	chun jiang	369
 肃宁	su ning	369
 潞河医院	lu he yi yuan	369
@@ -5292,7 +5292,7 @@ sort: by_weight
 西单站	xi dan zhan	362
 水富	shui fu	362
 玉泉营	yu quan ying	362
-乡镇企业局	xiang zhen qi ye ju	361
+乡镇企业局	xiang zhen qi ye jv	361
 青山路	qing shan lu	361
 开元寺	kai yuan si	361
 澄城	cheng cheng	361
@@ -5344,7 +5344,7 @@ sort: by_weight
 华侨新村	hua qiao xin cun	355
 实验站	shi yan zhan	355
 观音堂	guan yin tang	355
-五路居	wu lu ju	354
+五路居	wu lu jv	354
 门源	men yuan	354
 乾陵	qian ling	354
 国际航空港	guo ji hang kong gang	354
@@ -5398,7 +5398,7 @@ sort: by_weight
 万胜围	wan sheng wei	349
 张家堡	zhang jia bao	349
 省体育场	sheng ti yu chang	349
-内蒙古军区	nei meng gu jun qu	349
+内蒙古军区	nei meng gu jvn qu	349
 丰乐路	feng le lu	349
 朱雀门	zhu que men	349
 和龙市	he long shi	349
@@ -5524,7 +5524,7 @@ sort: by_weight
 三溪村	san xi cun	337
 桂花路	gui hua lu	336
 武林门	wu lin men	336
-安居小区	an ju xiao qu	336
+安居小区	an jv xiao qu	336
 定南	ding nan	336
 橡胶厂	xiang jiao chang	336
 袁家岭	yuan jia ling	336
@@ -5562,7 +5562,7 @@ sort: by_weight
 婺城	wu cheng	332
 七里山	qi li shan	332
 防城	fang cheng	332
-深圳大剧院	shen zhen da ju yuan	332
+深圳大剧院	shen zhen da jv yuan	332
 定西路	ding xi lu	332
 利津	li jin	332
 中山广场	zhong shan guang chang	331
@@ -5834,7 +5834,7 @@ sort: by_weight
 公和	gong he	305
 社旗	she qi	305
 金色阳光	jin se yang guang	305
-空军医院	kong jun yi yuan	305
+空军医院	kong jvn yi yuan	305
 宝龙城市广场	bao long cheng shi guang chang	305
 凤鸣	feng ming	305
 农药厂	nong yao chang	304
@@ -5907,7 +5907,7 @@ sort: by_weight
 京福高速	jing fu gao su	299
 民航路	min hang lu	299
 临河街	lin he jie	298
-呼铁局	hu tie ju	298
+呼铁局	hu tie jv	298
 沪闵路	hu min lu	298
 山根	shan gen	297
 鹭江	lu jiang	297
@@ -5942,7 +5942,7 @@ sort: by_weight
 喇叭口	la ba kou	295
 余家头	yu jia tou	295
 曹庄	cao zhuang	295
-云居寺	yun ju si	295
+云居寺	yun jv si	295
 罗庄	luo zhuang	295
 向阳路	xiang yang lu	295
 大流	da liu	294
@@ -6103,7 +6103,7 @@ sort: by_weight
 园林路	yuan lin lu	280
 安康医院	an kang yi yuan	280
 钱江二桥	qian jiang er qiao	280
-巨化	ju hua	280
+巨化	jv hua	280
 纳雍	na yong	280
 灯塔市	deng ta shi	280
 贾鲁河	jia lu he	280
@@ -6131,7 +6131,7 @@ sort: by_weight
 永固	yong gu	278
 热河路	re he lu	278
 选煤厂	xuan mei chang	278
-宜君	yi jun	278
+宜君	yi jvn	278
 富民路	fu min lu	278
 四美	si mei	278
 临桂县	lin gui xian	278
@@ -6170,7 +6170,7 @@ sort: by_weight
 金穗路	jin sui lu	275
 七道湾	qi dao wan	275
 水木清华	shui mu qing hua	275
-富春山居	fu chun shan ju	275
+富春山居	fu chun shan jv	275
 化龙	hua long	275
 高山族	gao shan zu	275
 隆德	long de	275
@@ -6224,7 +6224,7 @@ sort: by_weight
 镇原	zhen yuan	270
 安义	an yi	270
 多伦	duo lun	270
-东郡	dong jun	270
+东郡	dong jvn	270
 曲院风荷	qu yuan feng he	270
 二塘	er tang	270
 界牌	jie pai	270
@@ -6415,7 +6415,7 @@ sort: by_weight
 四围	si wei	256
 吴天明	wu tian ming	256
 润和	run he	256
-工人俱乐部	gong ren ju le bu	256
+工人俱乐部	gong ren jv le bu	256
 碣石	jie shi	256
 多伦路	duo lun lu	256
 艾提尕尔清真寺	ai ti ga er qing zhen si	255
@@ -6467,7 +6467,7 @@ sort: by_weight
 火车站西	huo che zhan xi	252
 木里	mu li	252
 湖南涉外经济学院	hu nan she wai jing ji xue yuan	252
-军区总院	jun qu zong yuan	252
+军区总院	jvn qu zong yuan	252
 薛城	xue cheng	252
 抚松	fu song	252
 东石	dong shi	252
@@ -6486,7 +6486,7 @@ sort: by_weight
 和平新村	he ping xin cun	252
 铁东	tie dong	252
 修武	xiu wu	251
-巨鹿	ju lu	251
+巨鹿	jv lu	251
 南丫	nan ya	251
 灵川	ling chuan	251
 宁启铁路	ning qi tie lu	251
@@ -6519,7 +6519,7 @@ sort: by_weight
 东风中路	dong feng zhong lu	249
 凤凰街	feng huang jie	249
 政通路	zheng tong lu	249
-铁四局	tie si ju	249
+铁四局	tie si jv	249
 明珠路	ming zhu lu	249
 华严寺	hua yan si	249
 敦煌路	dun huang lu	249
@@ -6560,7 +6560,7 @@ sort: by_weight
 合兴	he xing	246
 伟创力	wei chuang li	246
 海北州	hai bei zhou	246
-玩具公司	wan ju gong si	246
+玩具公司	wan jv gong si	246
 向山区	xiang shan qu	246
 芒康	mang kang	246
 瞻园	zhan yuan	246
@@ -6621,9 +6621,9 @@ sort: by_weight
 清美	qing mei	241
 峨边	e bian	241
 北京南路	bei jing nan lu	241
-桃源居	tao yuan ju	241
+桃源居	tao yuan jv	241
 木作	mu zuo	241
-八路军办事处	ba lu jun ban shi chu	241
+八路军办事处	ba lu jvn ban shi chu	241
 高等职业技术学院	gao deng zhi ye ji shu xue yuan	241
 统景	tong jing	241
 格内	ge nei	241
@@ -6661,7 +6661,7 @@ sort: by_weight
 关山村	guan shan cun	238
 龙山寺	long shan si	238
 宁陵	ning ling	238
-雅居乐花园	ya ju le hua yuan	238
+雅居乐花园	ya jv le hua yuan	238
 板塘	ban tang	238
 堆头	dui tou	238
 松溪	song xi	238
@@ -6706,7 +6706,7 @@ sort: by_weight
 泰康路	tai kang lu	234
 瑞祥	rui xiang	234
 蒲州	pu zhou	234
-巨峰路	ju feng lu	234
+巨峰路	jv feng lu	234
 旧县	jiu xian	234
 新城路	xin cheng lu	234
 官桥	guan qiao	234
@@ -6760,7 +6760,7 @@ sort: by_weight
 平舆	ping yu	231
 水上世界	shui shang shi jie	231
 江西省都昌县	jiang xi sheng dou chang xian	231
-顺义公安分局	shun yi gong an fen ju	231
+顺义公安分局	shun yi gong an fen jv	231
 辽大	liao da	231
 大汶口	da wen kou	231
 繁昌	fan chang	231
@@ -6877,7 +6877,7 @@ sort: by_weight
 凌河	ling he	222
 陇川	long chuan	222
 鸡公山	ji gong shan	222
-省话剧院	sheng hua ju yuan	222
+省话剧院	sheng hua jv yuan	222
 真北路	zhen bei lu	222
 莱阳路	lai yang lu	222
 经九路	jing jiu lu	221
@@ -6948,7 +6948,7 @@ sort: by_weight
 复兴东路	fu xing dong lu	217
 北宅	bei zhai	217
 卫星广场	wei xing guang chang	217
-火炬路	huo ju lu	217
+火炬路	huo jv lu	217
 文海	wen hai	217
 白马河	bai ma he	217
 定安路	ding an lu	217
@@ -7156,7 +7156,7 @@ sort: by_weight
 上云	shang yun	205
 龙山路	long shan lu	204
 石龙路	shi long lu	204
-大庆石油管理局	da qing shi you guan li ju	204
+大庆石油管理局	da qing shi you guan li jv	204
 三里亭	san li ting	204
 营城子	ying cheng zi	204
 加格达奇	jia ge da qi	204
@@ -7282,7 +7282,7 @@ sort: by_weight
 后勤学院	hou qin xue yuan	197
 浮石	fu shi	197
 漕溪北路	cao xi bei lu	197
-将军庙	jiang jun miao	197
+将军庙	jiang jvn miao	197
 偏关	pian guan	197
 浙江省平阳县	zhe jiang sheng ping yang xian	197
 五里亭	wu li ting	197
@@ -7560,7 +7560,7 @@ sort: by_weight
 伊吾	yi wu	180
 毛家湾	mao jia wan	180
 新华印刷厂	xin hua yin shua chang	180
-新居里	xin ju li	179
+新居里	xin jv li	179
 东小区	dong xiao qu	179
 崇山路	chong shan lu	179
 吉山	ji shan	179
@@ -7792,9 +7792,9 @@ sort: by_weight
 环湖东路	huan hu dong lu	169
 德胜门内	de sheng men nei	169
 长林	zhang lin	168
-江北公安分局	jiang bei gong an fen ju	168
+江北公安分局	jiang bei gong an fen jv	168
 后勤工程学院	hou qin gong cheng xue yuan	168
-制造局	zhi zao ju	168
+制造局	zhi zao jv	168
 流溪河国家森林公园	liu xi he guo jia sen lin gong yuan	168
 海林市	hai lin shi	168
 市青少年活动中心	shi qing shao nian huo dong zhong xin	168
@@ -8057,7 +8057,7 @@ sort: by_weight
 武夷花园	wu yi hua yuan	155
 永丰立交桥	yong feng li jiao qiao	155
 防城港市防城区	fang cheng gang shi fang cheng qu	155
-虎踞北路	hu ju bei lu	155
+虎踞北路	hu jv bei lu	155
 吴淞路	wu song lu	155
 芳草路	fang cao lu	155
 南湖南路	nan hu nan lu	155
@@ -8106,7 +8106,7 @@ sort: by_weight
 博社	bo she	152
 黄县	huang xian	152
 东风路街道	dong feng lu jie dao	152
-水电七局	shui dian qi ju	152
+水电七局	shui dian qi jv	152
 前张	qian zhang	152
 瀍河区	chan he qu	152
 百花广场	bai hua guang chang	152
@@ -8139,7 +8139,7 @@ sort: by_weight
 杨家埠	yang jia bu	150
 朱家村	zhu jia cun	150
 团结东路	tuan jie dong lu	150
-军供站	jun gong zhan	150
+军供站	jvn gong zhan	150
 共和村	gong he cun	150
 搬运公司	ban yun gong si	150
 梅林路	mei lin lu	150
@@ -8231,7 +8231,7 @@ sort: by_weight
 娄桥	lou qiao	147
 金花村	jin hua cun	147
 南山市场	nan shan shi chang	146
-天峻	tian jun	146
+天峻	tian jvn	146
 晓园	xiao yuan	146
 幻术	huan shu	146
 后内	hou nei	146
@@ -8266,7 +8266,7 @@ sort: by_weight
 东府	dong fu	145
 乌海市海勃湾区	wu hai shi hai bo wan qu	145
 磁窑	ci yao	145
-崔军	cui jun	145
+崔军	cui jvn	145
 赤石	chi shi	145
 五通桥	wu tong qiao	145
 虬江路	qiu jiang lu	145
@@ -8314,7 +8314,7 @@ sort: by_weight
 大青	da qing	143
 嘉宾路	jia bin lu	143
 肥乡	fei xiang	143
-菊园	ju yuan	143
+菊园	jv yuan	143
 雕刻时光	diao ke shi guang	143
 福新	fu xin	143
 汇龙	hui long	143
@@ -8358,7 +8358,7 @@ sort: by_weight
 安第斯山	an di si shan	142
 西环城路	xi huan cheng lu	142
 淞沪路	song hu lu	142
-富森美家居	fu sen mei jia ju	141
+富森美家居	fu sen mei jia jv	141
 博野	bo ye	141
 后福	hou fu	141
 茅箭	mao jian	141
@@ -8479,7 +8479,7 @@ sort: by_weight
 宣大高速	xuan da gao su	138
 琯头	guan tou	138
 板桥河	ban qiao he	138
-点军	dian jun	138
+点军	dian jvn	138
 农机市场	nong ji shi chang	138
 都察院	du cha yuan	138
 潭边	tan bian	138
@@ -8496,7 +8496,7 @@ sort: by_weight
 沔阳	mian yang	138
 州城	zhou cheng	138
 王埠	wang bu	138
-北京市地震局	bei jing shi di zhen ju	138
+北京市地震局	bei jing shi di zhen jv	138
 册亨	ce heng	138
 和林格尔	he lin ge er	138
 良乡医院	liang xiang yi yuan	138
@@ -8522,7 +8522,7 @@ sort: by_weight
 察哈尔路	cha ha er lu	137
 银沙滩	yin sha tan	137
 延庆县政府	yan qing xian zheng fu	137
-交通俱乐部	jiao tong ju le bu	137
+交通俱乐部	jiao tong jv le bu	137
 梅市口路	mei shi kou lu	137
 浙大紫金港校区	zhe da zi jin gang xiao qu	137
 马连洼	ma lian wa	137
@@ -8576,7 +8576,7 @@ sort: by_weight
 上中路	shang zhong lu	135
 半淞园路	ban song yuan lu	135
 学堂坡	xue tang po	135
-云居	yun ju	135
+云居	yun jv	135
 羊子	yang zi	135
 灰面	hui mian	135
 延长路	yan chang lu	135
@@ -8748,7 +8748,7 @@ sort: by_weight
 广深公路	guang shen gong lu	130
 大方巷	da fang xiang	130
 麦岛路	mai dao lu	130
-电报局	dian bao ju	130
+电报局	dian bao jv	130
 新城国际	xin cheng guo ji	130
 西虹东路	xi hong dong lu	130
 兴国路	xing guo lu	130
@@ -8803,7 +8803,7 @@ sort: by_weight
 玲珑路	ling long lu	129
 柳州路	liu zhou lu	128
 刘家坪	liu jia ping	128
-刃具立交	ren ju li jiao	128
+刃具立交	ren jv li jiao	128
 错那	cuo na	128
 油尖旺区	you jian wang qu	128
 月坛北街	yue tan bei jie	128
@@ -8860,7 +8860,7 @@ sort: by_weight
 滨湖公园	bin hu gong yuan	127
 栗山	li shan	127
 枫泾镇	feng jing zhen	127
-军马场	jun ma chang	127
+军马场	jvn ma chang	127
 茶棚	cha peng	127
 泥河	ni he	127
 湖田	hu tian	127
@@ -8970,8 +8970,8 @@ sort: by_weight
 锦源	jin yuan	124
 新滘	xin jiao	124
 大水井	da shui jing	123
-军屯	jun tun	123
-南郡	nan jun	123
+军屯	jvn tun	123
+南郡	nan jvn	123
 芷江西路	zhi jiang xi lu	123
 洼里	wa li	123
 皮村	pi cun	123
@@ -9057,7 +9057,7 @@ sort: by_weight
 潘桥	pan qiao	121
 西瓜霜	xi gua shuang	121
 大远	da yuan	121
-军训基地	jun xun ji di	121
+军训基地	jvn xun ji di	121
 仁风	ren feng	121
 八一大	ba yi da	121
 洪桥	hong qiao	121
@@ -9082,7 +9082,7 @@ sort: by_weight
 幸福中路	xing fu zhong lu	121
 三角花园	san jiao hua yuan	121
 深河	shen he	120
-白桦林居	bai hua lin ju	120
+白桦林居	bai hua lin jv	120
 曲园	qu yuan	120
 横山村	heng shan cun	120
 麻塘	ma tang	120
@@ -9112,7 +9112,7 @@ sort: by_weight
 雁行	yan hang	120
 金基	jin ji	120
 梯门	ti men	120
-海军潜艇学院	hai jun qian ting xue yuan	120
+海军潜艇学院	hai jvn qian ting xue yuan	120
 大经路	da jing lu	120
 东门桥	dong men qiao	120
 经济大厦	jing ji da sha	120
@@ -9181,7 +9181,7 @@ sort: by_weight
 新闸	xin zha	118
 新开铺路	xin kai pu lu	118
 龙王山	long wang shan	118
-龙居	long ju	118
+龙居	long jv	118
 盛世才	sheng shi cai	118
 美属萨摩亚	mei shu sa mo ya	118
 科技六路	ke ji liu lu	118
@@ -9340,7 +9340,7 @@ sort: by_weight
 群众路	qun zhong lu	115
 东昌府	dong chang fu	115
 路头	lu tou	114
-工具厂	gong ju chang	114
+工具厂	gong jv chang	114
 樱花路	ying hua lu	114
 杨凌区	yang ling qu	114
 麒麟路	qi lin lu	114
@@ -9369,7 +9369,7 @@ sort: by_weight
 学苑路	xue yuan lu	114
 莲花小区	lian hua xiao qu	114
 狮子岭	shi zi ling	114
-石狮市公安局	shi shi shi gong an ju	114
+石狮市公安局	shi shi shi gong an jv	114
 大北门	da bei men	114
 同江市	tong jiang shi	114
 沙岭	sha ling	113
@@ -9451,7 +9451,7 @@ sort: by_weight
 蒙古帝国	meng gu di guo	112
 双美	shuang mei	112
 东海花园	dong hai hua yuan	112
-制造局路	zhi zao ju lu	112
+制造局路	zhi zao jv lu	112
 大连西路	da lian xi lu	112
 沙河口	sha he kou	112
 清华东路	qing hua dong lu	112
@@ -9502,7 +9502,7 @@ sort: by_weight
 周建玲	zhou jian ling	111
 林源	lin yuan	111
 航道处	hang dao chu	111
-古崖居	gu ya ju	111
+古崖居	gu ya jv	111
 通泰街	tong tai jie	111
 文德桥	wen de qiao	111
 山东省禹城市	shan dong sheng yu cheng shi	111
@@ -9526,7 +9526,7 @@ sort: by_weight
 永定门内	yong ding men nei	110
 长乐坡	chang le po	110
 联盟村	lian meng cun	110
-聚星	ju xing	110
+聚星	jv xing	110
 黄寺	huang si	110
 接待寺	jie dai si	110
 郑店街	zheng dian jie	110
@@ -9822,10 +9822,10 @@ sort: by_weight
 航中路	hang zhong lu	103
 珞瑜路	luo yu lu	103
 湖笔	hu bi	103
-居巢区	ju chao qu	103
+居巢区	jv chao qu	103
 曹家村	cao jia cun	103
 龙潭河	long tan he	103
-菊花园	ju hua yuan	103
+菊花园	jv hua yuan	103
 长白路	zhang bai lu	103
 大灰厂	da hui chang	103
 永和村	yong he cun	103
@@ -9849,7 +9849,7 @@ sort: by_weight
 赵家沟	zhao jia gou	103
 景园小区	jing yuan xiao qu	103
 滕县	teng xian	102
-宋君	song jun	102
+宋君	song jvn	102
 文锦北路	wen jin bei lu	102
 赤峰路	chi feng lu	102
 百合园	bai he yuan	102
@@ -9916,7 +9916,7 @@ sort: by_weight
 沙坪村	sha ping cun	101
 乌山路	wu shan lu	101
 莱太花卉	lai tai hua hui	101
-石咀	shi ju	101
+石咀	shi jv	101
 瑞东	rui dong	101
 锅烧	guo shao	101
 蓝桥	lan qiao	101
@@ -9933,7 +9933,7 @@ sort: by_weight
 五一小学	wu yi xiao xue	101
 三经街	san jing jie	100
 深涌	shen yong	100
-美居物流园	mei ju wu liu yuan	100
+美居物流园	mei jv wu liu yuan	100
 方村	fang cun	100
 五堡	wu bao	100
 贺斌	he bin	100
@@ -10206,12 +10206,12 @@ sort: by_weight
 港边	gang bian	94
 女娃子	nv wa zi	94
 瓦日乡	wa ri xiang	94
-曹建军	cao jian jun	94
+曹建军	cao jian jvn	94
 逢简	feng jian	94
-聚龙湾	ju long wan	94
+聚龙湾	jv long wan	94
 夹岗	jia gang	94
 月姑娘	yue gu niang	94
-谭俊	tan jun	94
+谭俊	tan jvn	94
 角里	jiao li	94
 永泰路	yong tai lu	94
 惠工街	hui gong jie	94
@@ -10348,7 +10348,7 @@ sort: by_weight
 健康村	jian kang cun	92
 峨山县	e shan xian	92
 宽仁	kuan ren	92
-菊儿胡同	ju er hu tong	92
+菊儿胡同	jv er hu tong	92
 飞虹路	fei hong lu	92
 松风路	song feng lu	92
 黉门街	hong men jie	92
@@ -10383,7 +10383,7 @@ sort: by_weight
 云岭路	yun ling lu	91
 湖滨花园	hu bin hua yuan	91
 凤山路	feng shan lu	91
-胡雪岩故居	hu xue yan gu ju	91
+胡雪岩故居	hu xue yan gu jv	91
 双林中横路	shuang lin zhong heng lu	91
 刘屋	liu wu	91
 金胜	jin sheng	91
@@ -10427,7 +10427,7 @@ sort: by_weight
 张文广	zhang wen guang	90
 香堂	xiang tang	90
 灵狮	ling shi	90
-省荣军医院	sheng rong jun yi yuan	90
+省荣军医院	sheng rong jvn yi yuan	90
 九龙路	jiu long lu	90
 长坪村	zhang ping cun	90
 黄埔花园	huang pu hua yuan	90
@@ -10680,7 +10680,7 @@ sort: by_weight
 桂林公园	gui lin gong yuan	86
 五里堆	wu li dui	86
 齿轮厂	chi lun chang	86
-老君	lao jun	86
+老君	lao jvn	86
 鱼峰	yu feng	86
 柳林路	liu lin lu	86
 赛格电脑城	sai ge dian nao cheng	86
@@ -10855,7 +10855,7 @@ sort: by_weight
 光明农场	guang ming nong chang	83
 摩托车厂	mo tuo che chang	83
 棉麻公司	mian ma gong si	83
-火炬大厦	huo ju da sha	83
+火炬大厦	huo jv da sha	83
 鸣凤	ming feng	83
 杜村	du cun	83
 紫金路	zi jin lu	83
@@ -10922,7 +10922,7 @@ sort: by_weight
 边疆宾馆	bian jiang bin guan	81
 樱花广场	ying hua guang chang	81
 肖厝	xiao cuo	81
-周恩来故居	zhou en lai gu ju	81
+周恩来故居	zhou en lai gu jv	81
 灵石路	ling shi lu	81
 栖山路	qi shan lu	81
 后渚	hou zhu	81
@@ -10954,7 +10954,7 @@ sort: by_weight
 城南市场	cheng nan shi chang	81
 榆次市	yu ci shi	81
 马巷	ma xiang	81
-东峻广场	dong jun guang chang	81
+东峻广场	dong jvn guang chang	81
 假村	jia cun	81
 清源山	qing yuan shan	81
 唐家村	tang jia cun	81
@@ -11098,7 +11098,7 @@ sort: by_weight
 小城之春	xiao cheng zhi chun	79
 煤矿医院	mei kuang yi yuan	79
 和卓	he zhuo	79
-鲤城公安分局	li cheng gong an fen ju	79
+鲤城公安分局	li cheng gong an fen jv	79
 霞阳	xia yang	79
 津泰路	jin tai lu	79
 李遂	li sui	79
@@ -11142,7 +11142,7 @@ sort: by_weight
 兰田	lan tian	78
 小海子	xiao hai zi	78
 江苏省宝应县	jiang su sheng bao ying xian	78
-君兰	jun lan	78
+君兰	jvn lan	78
 徐东村	xu dong cun	78
 文峰路	wen feng lu	78
 白泥坑	bai ni keng	78
@@ -11214,7 +11214,7 @@ sort: by_weight
 富川县	fu chuan xian	77
 大连民族学院	da lian min zu xue yuan	77
 文昌北路	wen chang bei lu	77
-蜀郡	shu jun	77
+蜀郡	shu jvn	77
 新发路	xin fa lu	77
 长松寺	zhang song si	77
 新昌路	xin chang lu	77
@@ -11473,7 +11473,7 @@ sort: by_weight
 港湾路	gang wan lu	73
 新城宾馆	xin cheng bin guan	73
 建国路口	jian guo lu kou	73
-桔园小区	ju yuan xiao qu	73
+桔园小区	jv yuan xiao qu	73
 外环西路	wai huan xi lu	73
 龙潭沟	long tan gou	73
 戴云	dai yun	73
@@ -11550,7 +11550,7 @@ sort: by_weight
 新大路	xin da lu	72
 许昌路	xu chang lu	72
 海游路	hai you lu	72
-龙居寺	long ju si	72
+龙居寺	long jv si	72
 工业大道中	gong ye da dao zhong	72
 金塘村	jin tang cun	72
 大尖山	da jian shan	72
@@ -11688,7 +11688,7 @@ sort: by_weight
 河南街	he nan jie	70
 白竹	bai zhu	70
 公明镇	gong ming zhen	70
-菌柄	jun bing	70
+菌柄	jvn bing	70
 布伦	bu lun	70
 荔香公园	li xiang gong yuan	70
 白叶	bai ye	70
@@ -11820,7 +11820,7 @@ sort: by_weight
 南海实验中学	nan hai shi yan zhong xue	68
 红豆树	hong dou shu	68
 碧海云天	bi hai yun tian	68
-上郡	shang jun	68
+上郡	shang jvn	68
 溪南	xi nan	68
 净月大街	jing yue da jie	68
 梅列	mei lie	68
@@ -11926,7 +11926,7 @@ sort: by_weight
 曲江管委会	qu jiang guan wei hui	67
 快活林	kuai huo lin	67
 学田	xue tian	67
-聚福园	ju fu yuan	67
+聚福园	jv fu yuan	67
 双联村	shuang lian cun	67
 店子村	dian zi cun	67
 同三高速公路	tong san gao su gong lu	67
@@ -11946,7 +11946,7 @@ sort: by_weight
 达德	da de	67
 朱继平	zhu ji ping	67
 坡里	po li	67
-咀头	ju tou	67
+咀头	jv tou	67
 高明市	gao ming shi	67
 哲里木盟	zhe li mu meng	67
 光明街	guang ming jie	67
@@ -12007,7 +12007,7 @@ sort: by_weight
 直埠	zhi bu	66
 下西	xia xi	66
 何厝	he cuo	66
-君平街	jun ping jie	66
+君平街	jvn ping jie	66
 学院街	xue yuan jie	66
 杨晶晶	yang jing jing	66
 九眼	jiu yan	66
@@ -12172,7 +12172,7 @@ sort: by_weight
 北蜂窝路	bei feng wo lu	64
 茶子山路	cha zi shan lu	64
 桂格	gui ge	64
-军埔	jun pu	64
+军埔	jvn pu	64
 河坎	he kan	64
 青杠坡	qing gang po	64
 董家村	dong jia cun	64
@@ -12191,11 +12191,11 @@ sort: by_weight
 余龙	yu long	64
 木林	mu lin	64
 临清县	lin qing xian	64
-冯君	feng jun	64
+冯君	feng jvn	64
 东莞庄路	dong guan zhuang lu	64
 公利医院	gong li yi yuan	64
 锦绣大地市场	jin xiu da di shi chang	64
-胜利剧院	sheng li ju yuan	64
+胜利剧院	sheng li jv yuan	64
 新东村	xin dong cun	64
 桃子湖路	tao zi hu lu	64
 双栅子街	shuang zha zi jie	64
@@ -12209,7 +12209,7 @@ sort: by_weight
 官田村	guan tian cun	64
 东湖港	dong hu gang	64
 半扇门	ban shan men	64
-延平郡王祠	yan ping jun wang ci	64
+延平郡王祠	yan ping jvn wang ci	64
 白云索道	bai yun suo dao	64
 地铁八宝山站	di tie ba bao shan zhan	64
 马鞍北路	ma an bei lu	64
@@ -12222,7 +12222,7 @@ sort: by_weight
 陈杨寨	chen yang zhai	64
 李容	li rong	64
 中康路	zhong kang lu	64
-老君堂	lao jun tang	64
+老君堂	lao jvn tang	64
 沙美	sha mei	64
 水风井	shui feng jing	64
 严伟	yan wei	64
@@ -12266,7 +12266,7 @@ sort: by_weight
 昌盛路	chang sheng lu	63
 张永健	zhang yong jian	63
 财院	cai yuan	63
-军庄	jun zhuang	63
+军庄	jvn zhuang	63
 光荣村	guang rong cun	63
 东华西路	dong hua xi lu	63
 狄寨	di zhai	63
@@ -12599,8 +12599,8 @@ sort: by_weight
 灞桥区政府	ba qiao qu zheng fu	60
 猫儿石	mao er shi	60
 石窝	shi wo	60
-阿伯丁郡	a bo ding jun	60
-将军碑	jiang jun bei	60
+阿伯丁郡	a bo ding jvn	60
+将军碑	jiang jvn bei	60
 县府街	xian fu jie	60
 煤炭中心医院	mei tan zhong xin yi yuan	60
 伞塔路	san ta lu	60
@@ -12695,7 +12695,7 @@ sort: by_weight
 李楼村	li lou cun	59
 青年农场	qing nian nong chang	59
 青果巷	qing guo xiang	59
-将军桥	jiang jun qiao	59
+将军桥	jiang jvn qiao	59
 花溪公园	hua xi gong yuan	59
 花塘	hua tang	59
 社港	she gang	59
@@ -12787,7 +12787,7 @@ sort: by_weight
 蛇窝	she wo	58
 白龙桥	bai long qiao	58
 东门社区	dong men she qu	58
-秋瑾故居	qiu jin gu ju	58
+秋瑾故居	qiu jin gu jv	58
 闸桥	zha qiao	58
 宝塔河	bao ta he	58
 铜仁路	tong ren lu	58
@@ -12842,7 +12842,7 @@ sort: by_weight
 蟹岛度假村	xie dao du jia cun	57
 大屿	da yu	57
 七厂十字	qi chang shi zi	57
-州司法局	zhou si fa ju	57
+州司法局	zhou si fa jv	57
 新民中街	xin min zhong jie	57
 西直门外南路	xi zhi men wai nan lu	57
 凤凰公园	feng huang gong yuan	57
@@ -12886,7 +12886,7 @@ sort: by_weight
 龙沙	long sha	57
 永川县	yong chuan xian	57
 联芳花园	lian fang hua yuan	57
-军地坪街道	jun di ping jie dao	57
+军地坪街道	jvn di ping jie dao	57
 双井村	shuang jing cun	57
 塘湾	tang wan	57
 前城	qian cheng	57
@@ -13075,7 +13075,7 @@ sort: by_weight
 田头村	tian tou cun	55
 北京工业大学耿丹学院	bei jing gong ye da xue geng dan xue yuan	55
 青山祠	qing shan ci	55
-均安交通中心	jun an jiao tong zhong xin	55
+均安交通中心	jvn an jiao tong zhong xin	55
 石棉矿	shi mian kuang	55
 翠苑一区	cui yuan yi qu	55
 鹅埠	e bu	55
@@ -13098,7 +13098,7 @@ sort: by_weight
 小涌	xiao yong	55
 总管塘	zong guan tang	55
 羊山公园	yang shan gong yuan	55
-省话剧团	sheng hua ju tuan	55
+省话剧团	sheng hua jv tuan	55
 南通中学	nan tong zhong xue	55
 逊克	xun ke	55
 青麦	qing mai	55
@@ -13191,7 +13191,7 @@ sort: by_weight
 梧桐村	wu tong cun	54
 文教路	wen jiao lu	54
 遥观	yao guan	54
-巨山	ju shan	54
+巨山	jv shan	54
 昂仁	ang ren	54
 上钢三厂	shang gang san chang	54
 玛沁	ma qin	54
@@ -13305,7 +13305,7 @@ sort: by_weight
 佛陈路	fu chen lu	53
 地坛西门	de tan xi men	53
 东体育会路	dong ti yu hui lu	53
-句容县	ju rong xian	53
+句容县	jv rong xian	53
 海潮路	hai chao lu	53
 丹阳路	dan yang lu	53
 路口村	lu kou cun	53
@@ -13466,13 +13466,13 @@ sort: by_weight
 竹围	zhu wei	51
 胭脂河	yan zhi he	51
 六里桥南	liu li qiao nan	51
-汪清林业局	wang qing lin ye ju	51
+汪清林业局	wang qing lin ye jv	51
 瑞金县	rui jin xian	51
 龙门涧	long men jian	51
 吉利大学	ji li da xue	51
 阿弥岭	a mi ling	51
 玉山村	yu shan cun	51
-新区国税局	xin qu guo shui ju	51
+新区国税局	xin qu guo shui jv	51
 大山下	da shan xia	51
 露天集市	lu tian ji shi	51
 福溪	fu xi	51
@@ -13494,7 +13494,7 @@ sort: by_weight
 十陵镇	shi ling zhen	51
 马巍	ma wei	51
 襄阳县	xiang yang xian	51
-将军村	jiang jun cun	51
+将军村	jiang jvn cun	51
 前巷	qian xiang	51
 省会合肥市	sheng hui he fei shi	51
 马于	ma yu	51
@@ -13547,7 +13547,7 @@ sort: by_weight
 芳城园	fang cheng yuan	50
 河站	he zhan	50
 夷陵广场	yi ling guang chang	50
-静居寺路	jing ju si lu	50
+静居寺路	jing jv si lu	50
 罗家沟	luo jia gou	50
 簕竹镇	le zhu zhen	50
 曙光里	shu guang li	50
@@ -13682,7 +13682,7 @@ sort: by_weight
 红卫桥	hong wei qiao	49
 西解放立交桥	xi jie fang li jiao qiao	49
 代群	dai qun	49
-军区大院	jun qu da yuan	49
+军区大院	jvn qu da yuan	49
 长岗村	zhang gang cun	49
 安平桥	an ping qiao	49
 岐山村	qi shan cun	49
@@ -13703,7 +13703,7 @@ sort: by_weight
 松山村	song shan cun	49
 福州高级中学	fu zhou gao ji zhong xue	49
 龙伏	long fu	49
-虎踞关	hu ju guan	49
+虎踞关	hu jv guan	49
 星辉东路	xing hui dong lu	49
 西沙屯	xi sha tun	49
 飞新	fei xin	49
@@ -13873,7 +13873,7 @@ sort: by_weight
 南关岭	nan guan ling	48
 莫比尔	mo bi er	48
 姜宇	jiang yu	48
-三路居	san lu ju	48
+三路居	san lu jv	48
 幕府山庄	mu fu shan zhuang	48
 弓箭坊	gong jian fang	48
 金窝	jin wo	48
@@ -13952,7 +13952,7 @@ sort: by_weight
 道吾山	dao wu shan	47
 金泉路	jin quan lu	47
 月牙河	yue ya he	47
-中小企业发展局	zhong xiao qi ye fa zhan ju	47
+中小企业发展局	zhong xiao qi ye fa zhan jv	47
 春秀路	chun xiu lu	47
 福乐智慧	fu le zhi hui	47
 南张村	nan zhang cun	47
@@ -14010,7 +14010,7 @@ sort: by_weight
 嘉泽	jia ze	47
 虎林路	hu lin lu	47
 新墩	xin dun	47
-聚宝门	ju bao men	47
+聚宝门	jv bao men	47
 国防大厦	guo fang da sha	47
 曹二	cao er	47
 汽车研究所	qi che yan jiu suo	47
@@ -14028,7 +14028,7 @@ sort: by_weight
 莘庄地铁南广场	xin zhuang di tie nan guang chang	46
 油田总医院	you tian zong yi yuan	46
 东八家户	dong ba jia hu	46
-具厂	ju chang	46
+具厂	jv chang	46
 绿东村街道	lv dong cun jie dao	46
 递铺	di pu	46
 中华新路	zhong hua xin lu	46
@@ -14087,7 +14087,7 @@ sort: by_weight
 罗文辉	luo wen hui	46
 花庄	hua zhuang	46
 寨口	zhai kou	46
-铁五局	tie wu ju	46
+铁五局	tie wu jv	46
 马提尼克	ma ti ni ke	46
 灵源	ling yuan	46
 大木桥	da mu qiao	46
@@ -14173,7 +14173,7 @@ sort: by_weight
 寺儿沟	si er gou	45
 张兑	zhang dui	45
 新城公馆	xin cheng gong guan	45
-居家桥路	ju jia qiao lu	45
+居家桥路	jv jia qiao lu	45
 上坂	shang ban	45
 田王	tian wang	45
 德都	de dou	45
@@ -14224,7 +14224,7 @@ sort: by_weight
 郭家湾	guo jia wan	45
 杨楼村	yang lou cun	45
 沙龙路	sha long lu	45
-巨各庄	ju ge zhuang	45
+巨各庄	jv ge zhuang	45
 七角井	qi jiao jing	45
 周家湾	zhou jia wan	45
 美洲花园	mei zhou hua yuan	45
@@ -14377,7 +14377,7 @@ sort: by_weight
 陈世杰	chen shi jie	44
 大周村	da zhou cun	44
 马塘	ma tang	44
-解放军政治学院	jie fang jun zheng zhi xue yuan	44
+解放军政治学院	jie fang jvn zheng zhi xue yuan	44
 土地前	tu di qian	44
 连江南路	lian jiang nan lu	44
 西北饭店	xi bei fan dian	44
@@ -14395,7 +14395,7 @@ sort: by_weight
 雨花村	yu hua cun	44
 体育馆西路	ti yu guan xi lu	44
 西由	xi you	44
-康居小区	kang ju xiao qu	44
+康居小区	kang jv xiao qu	44
 大寨沟	da zhai gou	44
 调景岭	diao jing ling	44
 围头村	wei tou cun	44
@@ -14413,7 +14413,7 @@ sort: by_weight
 人民村	ren min cun	43
 神前	shen qian	43
 东城水岸	dong cheng shui an	43
-长沙郡	chang sha jun	43
+长沙郡	chang sha jvn	43
 兴汉路	xing han lu	43
 长寿桥	chang shou qiao	43
 大同街	da tong jie	43
@@ -14451,7 +14451,7 @@ sort: by_weight
 上护	shang hu	43
 如皋中学	ru gao zhong xue	43
 苏安	su an	43
-州工商局	zhou gong shang ju	43
+州工商局	zhou gong shang jv	43
 温泉风景区	wen quan feng jing qu	43
 八号桥	ba hao qiao	43
 万科光明城市	wan ke guang ming cheng shi	43
@@ -14586,7 +14586,7 @@ sort: by_weight
 新秀路	xin xiu lu	42
 湖新	hu xin	42
 侯家庄	hou jia zhuang	42
-乡企局	xiang qi ju	42
+乡企局	xiang qi jv	42
 三点金	san dian jin	42
 西太平	xi tai ping	42
 南梁坡	nan liang po	42
@@ -14773,7 +14773,7 @@ sort: by_weight
 湘江南路	xiang jiang nan lu	41
 中坪村	zhong ping cun	41
 洛阳村	luo yang cun	41
-明珠家居	ming zhu jia ju	41
+明珠家居	ming zhu jia jv	41
 分水坳	fen shui ao	41
 葛家庄	ge jia zhuang	41
 湘乡县	xiang xiang xian	41
@@ -14975,7 +14975,7 @@ sort: by_weight
 人民北路一段	ren min bei lu yi duan	39
 省会南京市	sheng hui nan jing shi	39
 基建队	ji jian dui	39
-大明宫建材家居城	da ming gong jian cai jia ju cheng	39
+大明宫建材家居城	da ming gong jian cai jia jv cheng	39
 鹭洲	lu zhou	39
 机动车辆管理所	ji dong che liang guan li suo	39
 贡觉	gong jue	39
@@ -15224,7 +15224,7 @@ sort: by_weight
 山边村	shan bian cun	38
 大车家巷	da che jia xiang	38
 樊家川乡	fan jia chuan xiang	38
-老君岩	lao jun yan	38
+老君岩	lao jvn yan	38
 桂林医学院	gui lin yi xue yuan	38
 长河路	chang he lu	38
 都市家园	du shi jia yuan	38
@@ -15324,7 +15324,7 @@ sort: by_weight
 北一东路	bei yi dong lu	37
 阳安铁路	yang an tie lu	37
 厂北路口	chang bei lu kou	37
-东方天郡	dong fang tian jun	37
+东方天郡	dong fang tian jvn	37
 石泉路	shi quan lu	37
 蝉街	chan jie	37
 鹏峰	peng feng	37
@@ -15401,7 +15401,7 @@ sort: by_weight
 金唐	jin tang	37
 浙大科技园	zhe da ke ji yuan	37
 晓月苑小区	xiao yue yuan xiao qu	37
-局前街	ju qian jie	37
+局前街	jv qian jie	37
 永定街道	yong ding jie dao	37
 云峰街	yun feng jie	37
 培黎街道	pei li jie dao	37
@@ -15451,7 +15451,7 @@ sort: by_weight
 泸定路	lu ding lu	36
 东三楼	dong san lou	36
 水口寺	shui kou si	36
-白鹭郡	bai lu jun	36
+白鹭郡	bai lu jvn	36
 向韶村	xiang shao cun	36
 英才路	ying cai lu	36
 偕乐桥	xie le qiao	36
@@ -15471,7 +15471,7 @@ sort: by_weight
 深水塘	shen shui tang	36
 潍坊新村	wei fang xin cun	36
 九茹村	jiu ru cun	36
-阳光雅居	yang guang ya ju	36
+阳光雅居	yang guang ya jv	36
 马家堡路	ma jia bao lu	36
 下南路	xia nan lu	36
 云门山	yun men shan	36
@@ -15574,7 +15574,7 @@ sort: by_weight
 十六浦	shi liu pu	36
 鞍山新村	an shan xin cun	36
 青云街	qing yun jie	36
-将军帽	jiang jun mao	36
+将军帽	jiang jvn mao	36
 凹桥	ao qiao	36
 北山门	bei shan men	36
 园林基地	yuan lin ji di	36
@@ -15674,7 +15674,7 @@ sort: by_weight
 西桃园	xi tao yuan	35
 南池	nan chi	35
 东升街	dong sheng jie	35
-军粮城	jun liang cheng	35
+军粮城	jvn liang cheng	35
 新型建材厂	xin xing jian cai chang	35
 溧阳县	li yang xian	35
 瑶台村	yao tai cun	35
@@ -15723,7 +15723,7 @@ sort: by_weight
 大湖村	da hu cun	35
 龙方	long fang	35
 任家口	ren jia kou	35
-九三分局	jiu san fen ju	35
+九三分局	jiu san fen jv	35
 砂山街	sha shan jie	35
 东百集团	dong bai ji tuan	35
 北潞园	bei lu yuan	35
@@ -15784,7 +15784,7 @@ sort: by_weight
 金泰小区	jin tai xiao qu	35
 志丹路	zhi dan lu	35
 复康路	fu kang lu	35
-涿郡	zhuo jun	35
+涿郡	zhuo jvn	35
 韩国拌饭	han guo ban fan	35
 东安南路	dong an nan lu	35
 珠林桥	zhu lin qiao	35
@@ -15811,7 +15811,7 @@ sort: by_weight
 东台路	dong tai lu	34
 横街村	heng jie cun	34
 麻池	ma chi	34
-具城	ju cheng	34
+具城	jv cheng	34
 神堂	shen tang	34
 万家花城	wan jia hua cheng	34
 省女子劳教所	sheng nv zi lao jiao suo	34
@@ -15838,11 +15838,11 @@ sort: by_weight
 岛里	dao li	34
 西岸村	xi an cun	34
 龙山社区	long shan she qu	34
-马文军	ma wen jun	34
+马文军	ma wen jvn	34
 杏石口	xing shi kou	34
 向婷婷	xiang ting ting	34
 回民村	hui min cun	34
-汇贤居	hui xian ju	34
+汇贤居	hui xian jv	34
 尚志县	shang zhi xian	34
 莲花池长途汽车站	lian hua chi chang tu qi che zhan	34
 小圣庙	xiao sheng miao	34
@@ -15898,7 +15898,7 @@ sort: by_weight
 清华东门	qing hua dong men	34
 望江路街道	wang jiang lu jie dao	34
 碧波花园	bi bo hua yuan	34
-桃园居	tao yuan ju	34
+桃园居	tao yuan jv	34
 石盘村	shi pan cun	34
 明星里	ming xing li	34
 群英路	qun ying lu	34
@@ -15951,9 +15951,9 @@ sort: by_weight
 外贸学校	wai mao xue xiao	34
 沿河城	yan he cheng	34
 麓天路	lu tian lu	34
-安徽省白湖监狱管理分局	an hui sheng bai hu jian yu guan li fen ju	34
-嘉兴大剧院	jia xing da ju yuan	34
-巴郡	ba jun	34
+安徽省白湖监狱管理分局	an hui sheng bai hu jian yu guan li fen jv	34
+嘉兴大剧院	jia xing da jv yuan	34
+巴郡	ba jvn	34
 新厅	xin ting	34
 吕家营	lv jia ying	34
 荣邦	rong bang	34
@@ -15965,7 +15965,7 @@ sort: by_weight
 张辛庄	zhang xin zhuang	34
 中林路	zhong lin lu	34
 大唐芙蓉园西门	da tang fu rong yuan xi men	34
-华东家具市场	hua dong jia ju shi chang	34
+华东家具市场	hua dong jia jv shi chang	34
 泉秀	quan xiu	34
 洮北	tao bei	34
 黄鹂新村	huang li xin cun	34
@@ -15973,7 +15973,7 @@ sort: by_weight
 山雅	shan ya	34
 小东沟	xiao dong gou	33
 山东省五莲县	shan dong sheng wu lian xian	33
-州气象局	zhou qi xiang ju	33
+州气象局	zhou qi xiang jv	33
 长江路九号	chang jiang lu jiu hao	33
 石花尖垦殖场	shi hua jian ken zhi chang	33
 龙渣瑶族乡	long zha yao zu xiang	33
@@ -15983,8 +15983,8 @@ sort: by_weight
 山西北路	shan xi bei lu	33
 长风桥东	zhang feng qiao dong	33
 贺田	he tian	33
-南十里居	nan shi li ju	33
-均安牛仔	jun an niu zai	33
+南十里居	nan shi li jv	33
+均安牛仔	jvn an niu zai	33
 刘家河	liu jia he	33
 盐店街	yan dian jie	33
 石河村	shi he cun	33
@@ -15999,7 +15999,7 @@ sort: by_weight
 翠薇	cui wei	33
 树德里	shu de li	33
 杭州汽车城	hang zhou qi che cheng	33
-橘园洲大桥	ju yuan zhou da qiao	33
+橘园洲大桥	jv yuan zhou da qiao	33
 朝晖九区	zhao hui jiu qu	33
 时代超市	shi dai chao shi	33
 磁各庄	ci ge zhuang	33
@@ -16048,7 +16048,7 @@ sort: by_weight
 宋都美域	song dou mei yu	33
 八宝前街	ba bao qian jie	33
 平政路街道	ping zheng lu jie dao	33
-餐具厂	can ju chang	33
+餐具厂	can jv chang	33
 微山路	wei shan lu	33
 靛厂新村	dian chang xin cun	33
 朝阳体育馆	zhao yang ti yu guan	33
@@ -16061,7 +16061,7 @@ sort: by_weight
 六教	liu jiao	33
 伦教街道办	lun jiao jie dao ban	33
 青龙胡同	qing long hu tong	33
-军田	jun tian	33
+军田	jvn tian	33
 宝地园	bao di yuan	33
 牛婆塘	niu po tang	33
 桥梁名称	qiao liang ming cheng	33
@@ -16119,7 +16119,7 @@ sort: by_weight
 崔各庄乡政府	cui ge zhuang xiang zheng fu	33
 碣石湾	jie shi wan	33
 花露岗	hua lu gang	33
-将军关	jiang jun guan	33
+将军关	jiang jvn guan	33
 松江县	song jiang xian	33
 祥华	xiang hua	33
 街街道	jie jie dao	33
@@ -16230,12 +16230,12 @@ sort: by_weight
 德田	de tian	32
 洛溪桥脚	luo xi qiao jiao	32
 河北省宽城县	he bei sheng kuan cheng xian	32
-橘子洲尾	ju zi zhou wei	32
+橘子洲尾	jv zi zhou wei	32
 嘉兴一中	jia xing yi zhong	32
 香山美墅	xiang shan mei shu	32
 民主新村	min zhu xin cun	32
 小西关	xiao xi guan	32
-巨轮街道	ju lun jie dao	32
+巨轮街道	jv lun jie dao	32
 淞宝路	song bao lu	32
 北冶	bei ye	32
 巴格艾日克乡	ba ge ai ri ke xiang	32
@@ -16282,7 +16282,7 @@ sort: by_weight
 昂昂溪	ang ang xi	32
 解放大街	jie fang da jie	32
 劳村	lao cun	32
-君临国际	jun lin guo ji	32
+君临国际	jvn lin guo ji	32
 庆丰桥	qing feng qiao	32
 北港村	bei gang cun	32
 敦操乡	dun cao xiang	32
@@ -16452,7 +16452,7 @@ sort: by_weight
 白堆子	bai dui zi	31
 百高	bai gao	31
 清华阳光	qing hua yang guang	31
-神驹	shen ju	31
+神驹	shen jv	31
 长浜路	zhang bang lu	31
 社坛	she tan	31
 红山西路	hong shan xi lu	31
@@ -16465,7 +16465,7 @@ sort: by_weight
 翠屏湖	cui ping hu	31
 亦庄站	yi zhuang zhan	31
 文灶	wen zao	31
-居家桥	ju jia qiao	31
+居家桥	jv jia qiao	31
 明皇蜡像宫	ming huang la xiang gong	31
 板樟山	ban zhang shan	31
 椑南乡	bei nan xiang	31
@@ -16496,13 +16496,13 @@ sort: by_weight
 杨家山村	yang jia shan cun	31
 山坪	shan ping	31
 交大电脑城	jiao da dian nao cheng	31
-吴郡	wu jun	31
+吴郡	wu jvn	31
 翠苑二区	cui yuan er qu	31
 苏白	su bai	31
 曹各庄	cao ge zhuang	31
 过油肉拌面	guo you rou ban mian	31
 万县市	wan xian shi	31
-华口居委会	hua kou ju wei hui	31
+华口居委会	hua kou jv wei hui	31
 芥园西道	jie yuan xi dao	31
 箭弓山	jian gong shan	31
 城康	cheng kang	31
@@ -16708,7 +16708,7 @@ sort: by_weight
 萨尔图	sa er tu	30
 包江桥	bao jiang qiao	30
 延庆火车站	yan qing huo che zhan	30
-山水居	shan shui ju	30
+山水居	shan shui jv	30
 建港路	jian gang lu	30
 汇林绿洲	hui lin lv zhou	30
 魏家胡同	wei jia hu tong	30
@@ -16733,7 +16733,7 @@ sort: by_weight
 黄草梁	huang cao liang	30
 穆家	mu jia	30
 公安大楼	gong an da lou	30
-省老干局	sheng lao gan ju	30
+省老干局	sheng lao gan jv	30
 颐和园新建宫门	yi he yuan xin jian gong men	30
 四明路	si ming lu	30
 都市华庭	du shi hua ting	30
@@ -16744,7 +16744,7 @@ sort: by_weight
 史德镇	shi de zhen	30
 扫把塘	sao ba tang	30
 后坑村	hou keng cun	30
-居住主题公园	ju zhu zhu ti gong yuan	30
+居住主题公园	jv zhu zhu ti gong yuan	30
 边家	bian jia	30
 曹家沟	cao jia gou	30
 重阳路	chong yang lu	30
@@ -16810,7 +16810,7 @@ sort: by_weight
 东明村	dong ming cun	29
 阅城国际花园	yue cheng guo ji hua yuan	29
 海滨社区	hai bin she qu	29
-军桥	jun qiao	29
+军桥	jvn qiao	29
 东屿村	dong yu cun	29
 上河村	shang he cun	29
 梅岙	mei ao	29
@@ -16848,7 +16848,7 @@ sort: by_weight
 上祝	shang zhu	29
 三水县	san shui xian	29
 南家	nan jia	29
-军区招待所	jun qu zhao dai suo	29
+军区招待所	jvn qu zhao dai suo	29
 六郎庄村	liu lang zhuang cun	29
 沈家桥	shen jia qiao	29
 城内街道	cheng nei jie dao	29
@@ -16935,7 +16935,7 @@ sort: by_weight
 青云桥	qing yun qiao	29
 杨庄社区	yang zhuang she qu	29
 岐岭	qi ling	29
-新区公安局	xin qu gong an ju	29
+新区公安局	xin qu gong an jv	29
 乔虹苑	qiao hong yuan	29
 茶亭公园	cha ting gong yuan	29
 曙光新村	shu guang xin cun	29
@@ -16954,7 +16954,7 @@ sort: by_weight
 青林村	qing lin cun	29
 南山园	nan shan yuan	29
 昌平二中	chang ping er zhong	29
-橘园洲	ju yuan zhou	29
+橘园洲	jv yuan zhou	29
 万松岭路口	wan song ling lu kou	29
 塘坑村	tang keng cun	29
 放鹤路	fang he lu	29
@@ -16989,7 +16989,7 @@ sort: by_weight
 巴彦木仁苏木	ba yan mu ren su mu	28
 贾光乡	jia guang xiang	28
 梓潼桥西街	zi tong qiao xi jie	28
-香河家具城	xiang he jia ju cheng	28
+香河家具城	xiang he jia jv cheng	28
 保田	bao tian	28
 石化路口	shi hua lu kou	28
 拱宸桥东	gong chen qiao dong	28
@@ -17036,7 +17036,7 @@ sort: by_weight
 丰益桥南	feng yi qiao nan	28
 弘燕路	hong yan lu	28
 下库	xia ku	28
-县乡镇企业局	xian xiang zhen qi ye ju	28
+县乡镇企业局	xian xiang zhen qi ye jv	28
 员山	yuan shan	28
 长沟峪	zhang gou yu	28
 爱民街	ai min jie	28
@@ -17051,7 +17051,7 @@ sort: by_weight
 西四北六条	xi si bei liu tiao	28
 洋头口	yang tou kou	28
 汪家桥街道	wang jia qiao jie dao	28
-中国人民解放军第一野战军	zhong guo ren min jie fang jun di yi ye zhan jun	28
+中国人民解放军第一野战军	zhong guo ren min jie fang jvn di yi ye zhan jvn	28
 张宅	zhang zhai	28
 东井亭	dong jing ting	28
 浣纱路口	huan sha lu kou	28
@@ -17126,7 +17126,7 @@ sort: by_weight
 埔田	pu tian	28
 全球通大厦	quan qiu tong da sha	28
 经华南路	jing hua nan lu	28
-采菊东篱	cai ju dong li	28
+采菊东篱	cai jv dong li	28
 金汇路	jin hui lu	28
 美山	mei shan	28
 下斜街	xia xie jie	28
@@ -17162,7 +17162,7 @@ sort: by_weight
 郑常庄	zheng chang zhuang	28
 高柳	gao liu	28
 青墩	qing dun	28
-李俊贤	li jun xian	28
+李俊贤	li jvn xian	28
 兰园社区	lan yuan she qu	28
 柑园	gan yuan	28
 南窑头	nan yao tou	28
@@ -17192,7 +17192,7 @@ sort: by_weight
 吉布库镇	ji bu ku zhen	28
 首峰	shou feng	28
 雅荷花园	ya he hua yuan	28
-会稽郡	hui ji jun	28
+会稽郡	hui ji jvn	28
 苏家湾	su jia wan	28
 灞桥热电厂	ba qiao re dian chang	28
 水楼	shui lou	28
@@ -17288,7 +17288,7 @@ sort: by_weight
 安贞桥东	an zhen qiao dong	27
 井沟村	jing gou cun	27
 仁恒翠竹园	ren heng cui zhu yuan	27
-新兴骏景园	xin xing jun jing yuan	27
+新兴骏景园	xin xing jvn jing yuan	27
 翠园路	cui yuan lu	27
 海棠公园	hai tang gong yuan	27
 新青工业园	xin qing gong ye yuan	27
@@ -17312,7 +17312,7 @@ sort: by_weight
 当代城市家园	dang dai cheng shi jia yuan	27
 无锡县	wu xi xian	27
 绵中	mian zhong	27
-安居园	an ju yuan	27
+安居园	an jv yuan	27
 生命科学馆	sheng ming ke xue guan	27
 三高路	san gao lu	27
 涡阳路	wo yang lu	27
@@ -17412,7 +17412,7 @@ sort: by_weight
 三合庄	san he zhuang	27
 双寨	shuang zhai	27
 东城根上街	dong cheng gen shang jie	27
-三将军	san jiang jun	27
+三将军	san jiang jvn	27
 界桥	jie qiao	27
 中联村	zhong lian cun	27
 塔寺	ta si	27
@@ -17420,7 +17420,7 @@ sort: by_weight
 坳下	ao xia	27
 沱江里	tuo jiang li	27
 安定广场	an ding guang chang	27
-居仁	ju ren	27
+居仁	jv ren	27
 汉桥	han qiao	27
 三给村	san gei cun	27
 荷村	he cun	27
@@ -17438,8 +17438,8 @@ sort: by_weight
 万宁县	wan ning xian	27
 碧水庄园	bi shui zhuang yuan	27
 东马棚街	dong ma peng jie	27
-矩阵小区	ju zhen xiao qu	27
-巨野路	ju ye lu	27
+矩阵小区	jv zhen xiao qu	27
+巨野路	jv ye lu	27
 廊桥水岸	lang qiao shui an	27
 虾扎乡	xia zha xiang	27
 雨花大道	yu hua da dao	27
@@ -17476,7 +17476,7 @@ sort: by_weight
 吕庄村	lv zhuang cun	27
 罗宗	luo zong	27
 宣闸	xuan zha	27
-莱茵东郡	lai yin dong jun	27
+莱茵东郡	lai yin dong jvn	27
 柴棚	chai peng	27
 小车桥	xiao che qiao	27
 尹各庄村	yin ge zhuang cun	27
@@ -17563,7 +17563,7 @@ sort: by_weight
 新泰路	xin tai lu	26
 导生	dao sheng	26
 西山庙	xi shan miao	26
-皂君庙	zao jun miao	26
+皂君庙	zao jvn miao	26
 青年路小区	qing nian lu xiao qu	26
 后坝村	hou ba cun	26
 春江花园	chun jiang hua yuan	26
@@ -17581,7 +17581,7 @@ sort: by_weight
 财粮	cai liang	26
 绿城西子	lv cheng xi zi	26
 头道沟	tou dao gou	26
-西部家具城	xi bu jia ju cheng	26
+西部家具城	xi bu jia jv cheng	26
 西文庙坪	xi wen miao ping	26
 夏镇	xia zhen	26
 开锋	kai feng	26
@@ -17740,7 +17740,7 @@ sort: by_weight
 会立乡	hui li xiang	26
 号院社区	hao yuan she qu	26
 书阁	shu ge	26
-空军疗养院	kong jun liao yang yuan	26
+空军疗养院	kong jvn liao yang yuan	26
 卫津南路	wei jin nan lu	26
 东四四条	dong si si tiao	26
 商埠街	shang bu jie	26
@@ -17784,7 +17784,7 @@ sort: by_weight
 骊山路	li shan lu	25
 姜庄湖	jiang zhuang hu	25
 味道江湖	wei dao jiang hu	25
-白菊路	bai ju lu	25
+白菊路	bai jv lu	25
 紫南家园	zi nan jia yuan	25
 金鸡山公园	jin ji shan gong yuan	25
 迎春桥	ying chun qiao	25
@@ -17808,7 +17808,7 @@ sort: by_weight
 玉三	yu san	25
 东城花园	dong cheng hua yuan	25
 华阴县	hua yin xian	25
-驹子房	ju zi fang	25
+驹子房	jv zi fang	25
 下湄桥街道	xia mei qiao jie dao	25
 梅庄	mei zhuang	25
 世界地热博览园	shi jie di re bo lan yuan	25
@@ -17902,7 +17902,7 @@ sort: by_weight
 新秀村	xin xiu cun	25
 北京大兴区黄村镇	bei jing da xing qu huang cun zhen	25
 龙涓	long juan	25
-河东郡	he dong jun	25
+河东郡	he dong jvn	25
 亿嘉	yi jia	25
 龙下	long xia	25
 陶然亭公园北门	tao ran ting gong yuan bei men	25
@@ -17981,7 +17981,7 @@ sort: by_weight
 育群胡同	yu qun hu tong	25
 大庄科	da zhuang ke	25
 上新村	shang xin cun	25
-桦南林业局	hua nan lin ye ju	25
+桦南林业局	hua nan lin ye jv	25
 广新路	guang xin lu	25
 彩云间	cai yun jian	25
 丰台路口	feng tai lu kou	25
@@ -18053,7 +18053,7 @@ sort: by_weight
 啤酒路	pi jiu lu	24
 中海塞纳丽舍	zhong hai sai na li she	24
 朝晖三区	zhao hui san qu	24
-康居里	kang ju li	24
+康居里	kang jv li	24
 玉田路	yu tian lu	24
 舍必崖乡	she bi ya xiang	24
 胡杨林场	hu yang lin chang	24
@@ -18066,7 +18066,7 @@ sort: by_weight
 交通技校	jiao tong ji xiao	24
 怡康花园	yi kang hua yuan	24
 水塔街道	shui ta jie dao	24
-典雅居	dian ya ju	24
+典雅居	dian ya jv	24
 甲根坝	jia gen ba	24
 楼田	lou tian	24
 南郊三公里	nan jiao san gong li	24
@@ -18154,7 +18154,7 @@ sort: by_weight
 亢山广场	kang shan guang chang	24
 卧里屯	wo li tun	24
 西亭	xi ting	24
-高句丽王城	gao ju li wang cheng	24
+高句丽王城	gao jv li wang cheng	24
 夏集	xia ji	24
 徐家寨	xu jia zhai	24
 京原路口	jing yuan lu kou	24
@@ -18235,9 +18235,9 @@ sort: by_weight
 锦官驿街	jin guan yi jie	24
 阿多乡	a duo xiang	24
 杨台	yang tai	24
-将军第	jiang jun di	24
+将军第	jiang jvn di	24
 风华苑	feng hua yuan	24
-将军祠	jiang jun ci	24
+将军祠	jiang jvn ci	24
 旅顺开发区	lv shun kai fa qu	24
 湾仔沙	wan zai sha	24
 稻田村	dao tian cun	24
@@ -18246,7 +18246,7 @@ sort: by_weight
 东风里	dong feng li	24
 延陵西路	yan ling xi lu	24
 张家畔镇	zhang jia pan zhen	24
-均县	jun xian	24
+均县	jvn xian	24
 罗家碾	luo jia nian	24
 温村	wen cun	24
 汕尾职业技术学院	shan wei zhi ye ji shu xue yuan	24
@@ -18467,8 +18467,8 @@ sort: by_weight
 公沟	gong gou	23
 飞山街	fei shan jie	23
 汉桥村	han qiao cun	23
-铁工局	tie gong ju	23
-马驹桥新桥	ma ju qiao xin qiao	23
+铁工局	tie gong jv	23
+马驹桥新桥	ma jv qiao xin qiao	23
 紫微星	zi wei xing	23
 天山南路	tian shan nan lu	23
 下苇甸	xia wei dian	23
@@ -18503,11 +18503,11 @@ sort: by_weight
 双峰路	shuang feng lu	23
 坪顶	ping ding	23
 大纱帽胡同	da sha mao hu tong	23
-三森国际家居	san sen guo ji jia ju	23
+三森国际家居	san sen guo ji jia jv	23
 向阳店	xiang yang dian	23
 东方时代广场	dong fang shi dai guang chang	23
 礼门	li men	23
-火药局	huo yao ju	23
+火药局	huo yao jv	23
 五通村	wu tong cun	23
 水木秦淮	shui mu qin huai	23
 曾家湾	ceng jia wan	23
@@ -18744,7 +18744,7 @@ sort: by_weight
 桃子园	tao zi yuan	22
 江厝路	jiang cuo lu	22
 热加	re jia	22
-军山街道	jun shan jie dao	22
+军山街道	jvn shan jie dao	22
 天和苑	tian he yuan	22
 东岙	dong ao	22
 北艾路	bei ai lu	22
@@ -18765,7 +18765,7 @@ sort: by_weight
 新基路	xin ji lu	22
 枪厂	qiang chang	22
 刘西	liu xi	22
-居仁门	ju ren men	22
+居仁门	jv ren men	22
 蛟潭	jiao tan	22
 淮海食品城	huai hai shi pin cheng	22
 墩下	dun xia	22
@@ -18791,7 +18791,7 @@ sort: by_weight
 项村	xiang cun	22
 海湾大酒店	hai wan da jiu dian	22
 眉蕉	mei jiao	22
-南阳郡	nan yang jun	22
+南阳郡	nan yang jvn	22
 南湖桥	nan hu qiao	22
 咸宁侯村	xian ning hou cun	22
 潮白陵园	chao bai ling yuan	22
@@ -19274,7 +19274,7 @@ sort: by_weight
 石板河	shi ban he	20
 玉双路口	yu shuang lu kou	20
 溜下	liu xia	20
-顺义工商分局	shun yi gong shang fen ju	20
+顺义工商分局	shun yi gong shang fen jv	20
 建德花园	jian de hua yuan	20
 半湘街	ban xiang jie	20
 白搞	bai gao	20
@@ -19302,7 +19302,7 @@ sort: by_weight
 小湖村	xiao hu cun	20
 妫川广场	gui chuan guang chang	20
 叶村	ye cun	20
-良乡影剧院	liang xiang ying ju yuan	20
+良乡影剧院	liang xiang ying jv yuan	20
 呼玛路	hu ma lu	20
 方玉	fang yu	20
 大桥道	da qiao dao	20
@@ -19319,7 +19319,7 @@ sort: by_weight
 汤岗子	tang gang zi	20
 江岸水城	jiang an shui cheng	20
 南宫县	nan gong xian	20
-军寨	jun zhai	20
+军寨	jvn zhai	20
 到湾	dao wan	20
 南苑北里	nan yuan bei li	20
 时代庄园	shi dai zhuang yuan	20
@@ -19430,7 +19430,7 @@ sort: by_weight
 峰南	feng nan	20
 清水营	qing shui ying	20
 越山路	yue shan lu	20
-秦园居	qin yuan ju	20
+秦园居	qin yuan jv	20
 永固村	yong gu cun	20
 灰地	hui de	20
 毛井乡	mao jing xiang	20
@@ -19449,7 +19449,7 @@ sort: by_weight
 奥辉	ao hui	20
 内洞	nei dong	20
 海东社区	hai dong she qu	20
-阳光聚宝山庄	yang guang ju bao shan zhuang	20
+阳光聚宝山庄	yang guang jv bao shan zhuang	20
 蘑菇亭	mo gu ting	20
 福山县	fu shan xian	20
 澄潭	cheng tan	20
@@ -19532,7 +19532,7 @@ sort: by_weight
 七渡	qi du	20
 齐勒乌泽克乡	qi lei wu ze ke xiang	20
 曹家庄	cao jia zhuang	20
-家俱城	jia ju cheng	20
+家俱城	jia jv cheng	20
 海兴路	hai xing lu	20
 五三农场	wu san nong chang	20
 下马石	xia ma shi	20
@@ -19732,7 +19732,7 @@ sort: by_weight
 黎明大学	li ming da xue	19
 仙友	xian you	19
 百春园街道	bai chun yuan jie dao	19
-燕山影剧院	yan shan ying ju yuan	19
+燕山影剧院	yan shan ying jv yuan	19
 总站路	zong zhan lu	19
 翠苑五区	cui yuan wu qu	19
 西张	xi zhang	19
@@ -19759,7 +19759,7 @@ sort: by_weight
 付水平	fu shui ping	19
 东场	dong chang	19
 翠花胡同	cui hua hu tong	19
-大军山	da jun shan	19
+大军山	da jvn shan	19
 白岗	bai gang	19
 南口铁路医院	nan kou tie lu yi yuan	19
 内溪乡	nei xi xiang	19
@@ -19767,7 +19767,7 @@ sort: by_weight
 卡坝乡	ka ba xiang	19
 大竹园村	da zhu yuan cun	19
 七道堰	qi dao yan	19
-北京供电局	bei jing gong dian ju	19
+北京供电局	bei jing gong dian jv	19
 金鹏路	jin peng lu	19
 东厂胡同	dong chang hu tong	19
 民主东街	min zhu dong jie	19
@@ -19923,7 +19923,7 @@ sort: by_weight
 京都苑	jing du yuan	19
 徐州道	xu zhou dao	19
 莲溪路	lian xi lu	19
-沙洋监狱管理局	sha yang jian yu guan li ju	19
+沙洋监狱管理局	sha yang jian yu guan li jv	19
 仙山村	xian shan cun	19
 翠峦	cui luan	19
 甲子路	jia zi lu	19
@@ -20150,7 +20150,7 @@ sort: by_weight
 怀德南路	huai de nan lu	18
 和安村	he an cun	18
 天津港保税区扩展区	tian jin gang bao shui qu kuo zhan qu	18
-招商局漳州开发区	zhao shang ju zhang zhou kai fa qu	18
+招商局漳州开发区	zhao shang jv zhang zhou kai fa qu	18
 大山庄	da shan zhuang	18
 洛河桥	luo he qiao	18
 陶家湾	tao jia wan	18
@@ -20158,7 +20158,7 @@ sort: by_weight
 外贸仓库	wai mao cang ku	18
 上海春城	shang hai chun cheng	18
 长椿街路口西	zhang chun jie lu kou xi	18
-普君墟	pu jun xu	18
+普君墟	pu jvn xu	18
 鹏程三路	peng cheng san lu	18
 嘉禾国际	jia he guo ji	18
 田贝一路	tian bei yi lu	18
@@ -20187,7 +20187,7 @@ sort: by_weight
 东小门	dong xiao men	18
 大堡村	da bao cun	18
 西安桥	xi an qiao	18
-右江矿务局	you jiang kuang wu ju	18
+右江矿务局	you jiang kuang wu jv	18
 葛岸村	ge an cun	18
 大众公交	da zhong gong jiao	18
 梅丽路	mei li lu	18
@@ -20302,7 +20302,7 @@ sort: by_weight
 穗香	sui xiang	18
 八道湾胡同	ba dao wan hu tong	18
 世茂滨江新城	shi mao bin jiang xin cheng	18
-凤凰剧院	feng huang ju yuan	18
+凤凰剧院	feng huang jv yuan	18
 苏地	su de	18
 湖头村	hu tou cun	18
 厂洼	chang wa	18
@@ -20386,12 +20386,12 @@ sort: by_weight
 通州中医院	tong zhou zhong yi yuan	18
 大关南苑	da guan nan yuan	18
 伟士	wei shi	18
-菊花里	ju hua li	18
+菊花里	jv hua li	18
 邻玉街道	lin yu jie dao	18
 南京路外滩	nan jing lu wai tan	18
 今典花园	jin dian hua yuan	18
 黑岱沟	hei dai gou	18
-九成监狱管理分局	jiu cheng jian yu guan li fen ju	18
+九成监狱管理分局	jiu cheng jian yu guan li fen jv	18
 吉林省梅河口	ji lin sheng mei he kou	18
 西福	xi fu	18
 邾城街道	zhu cheng jie dao	18
@@ -20415,7 +20415,7 @@ sort: by_weight
 金山寺村	jin shan si cun	17
 青塔小区	qing ta xiao qu	17
 山峰村	shan feng cun	17
-豫章郡	yu zhang jun	17
+豫章郡	yu zhang jvn	17
 金广路	jin guang lu	17
 四福巷	si fu xiang	17
 药物园	yao wu yuan	17
@@ -20491,7 +20491,7 @@ sort: by_weight
 和田街街道	he tian jie jie dao	17
 金鱼井	jin yu jing	17
 窦村	dou cun	17
-驹子房村	ju zi fang cun	17
+驹子房村	jv zi fang cun	17
 朗溪	lang xi	17
 沙吓村	sha xia cun	17
 柳薄乡	liu bao xiang	17
@@ -20664,7 +20664,7 @@ sort: by_weight
 下山村	xia shan cun	17
 西莲乡	xi lian xiang	17
 瑞金中路	rui jin zhong lu	17
-马峻	ma jun	17
+马峻	ma jvn	17
 化机厂	hua ji chang	17
 吕村村委会	lv cun cun wei hui	17
 辛置	xin zhi	17
@@ -20695,7 +20695,7 @@ sort: by_weight
 石步	shi bu	17
 福溪街道	fu xi jie dao	17
 帝豪酒店	di hao jiu dian	17
-南海公安局	nan hai gong an ju	17
+南海公安局	nan hai gong an jv	17
 祯祥	zhen xiang	17
 四间房村	si jian fang cun	17
 乳山县	ru shan xian	17
@@ -20775,7 +20775,7 @@ sort: by_weight
 胡舟	hu zhou	17
 下沙小学	xia sha xiao xue	17
 大饭铺	da fan pu	17
-马驹桥一号桥	ma ju qiao yi hao qiao	17
+马驹桥一号桥	ma jv qiao yi hao qiao	17
 江景园	jiang jing yuan	17
 双水磨	shuang shui mo	17
 银河大街	yin he da jie	17
@@ -20828,7 +20828,7 @@ sort: by_weight
 后勤装备部	hou qin zhuang bei bu	17
 培民	pei min	17
 仓田村	cang tian cun	17
-金马剧院	jin ma ju yuan	17
+金马剧院	jin ma jv yuan	17
 大路街	da lu jie	17
 出花园	chu hua yuan	17
 银川路街道	yin chuan lu jie dao	17
@@ -20955,7 +20955,7 @@ sort: by_weight
 振富	zhen fu	16
 上堰	shang yan	16
 镇郊村	zhen jiao cun	16
-龙聚山庄	long ju shan zhuang	16
+龙聚山庄	long jv shan zhuang	16
 韩洋	han yang	16
 西瀛里	xi ying li	16
 文运街	wen yun jie	16
@@ -20983,7 +20983,7 @@ sort: by_weight
 大基头	da ji tou	16
 迈皋桥街	mai gao qiao jie	16
 八角西街	ba jiao xi jie	16
-举溪	ju xi	16
+举溪	jv xi	16
 丹凤新寓	dan feng xin yu	16
 白石二道	bai shi er dao	16
 双井桥东	shuang jing qiao dong	16
@@ -21097,7 +21097,7 @@ sort: by_weight
 连江中路	lian jiang zhong lu	16
 响山	xiang shan	16
 热索乡	re suo xiang	16
-八一家具城	ba yi jia ju cheng	16
+八一家具城	ba yi jia jv cheng	16
 天龙路	tian long lu	16
 江南豪园	jiang nan hao yuan	16
 通州三中	tong zhou san zhong	16
@@ -21183,15 +21183,15 @@ sort: by_weight
 石观音	shi guan yin	16
 万泉路	wan quan lu	16
 郫县客运中心	pi xian ke yun zhong xin	16
-小居安村	xiao ju an cun	16
+小居安村	xiao jv an cun	16
 送果盘	song guo pan	16
 永济县	yong ji xian	16
 临半路口	lin ban lu kou	16
-将军坟	jiang jun fen	16
+将军坟	jiang jvn fen	16
 合成氨厂	he cheng an chang	16
 甘家湖牧场	gan jia hu mu chang	16
 巴音小区	ba yin xiao qu	16
-彭湃故居	peng pai gu ju	16
+彭湃故居	peng pai gu jv	16
 和平东桥南	he ping dong qiao nan	16
 皋亭坝	gao ting ba	16
 运乔建材城	yun qiao jian cai cheng	16
@@ -21215,7 +21215,7 @@ sort: by_weight
 梅林联检站	mei lin lian jian zhan	16
 上陡门住宅区	shang dou men zhu zhai qu	16
 东方明珠花园	dong fang ming zhu hua yuan	16
-龙居路	long ju lu	16
+龙居路	long jv lu	16
 滔溪镇	tao xi zhen	16
 广花一路	guang hua yi lu	16
 小沛	xiao pei	16
@@ -21271,7 +21271,7 @@ sort: by_weight
 康西	kang xi	16
 南京东路外滩	nan jing dong lu wai tan	16
 金色嘉园	jin se jia yuan	16
-武陵郡	wu ling jun	16
+武陵郡	wu ling jvn	16
 东方县	dong fang xian	16
 新民门	xin min men	16
 正月半	zheng yue ban	16
@@ -21295,7 +21295,7 @@ sort: by_weight
 于都人	yu dou ren	16
 则约乡	ze yue xiang	16
 明星城	ming xing cheng	16
-宝泉岭分局	bao quan ling fen ju	16
+宝泉岭分局	bao quan ling fen jv	16
 王石凹街道	wang shi ao jie dao	16
 后圆恩寺胡同	hou yuan en si hu tong	16
 西区汽车站	xi qu qi che zhan	16
@@ -21330,7 +21330,7 @@ sort: by_weight
 安乐街	an le jie	15
 定福黄庄村	ding fu huang zhuang cun	15
 船路	chuan lu	15
-东街居委会	dong jie ju wei hui	15
+东街居委会	dong jie jv wei hui	15
 通兴	tong xing	15
 天津大学电子信息	tian jin da xue dian zi xin xi	15
 木江坪镇	mu jiang ping zhen	15
@@ -21365,7 +21365,7 @@ sort: by_weight
 汉口道	han kou dao	15
 后伏	hou fu	15
 灭火处	mie huo chu	15
-炮局胡同	pao ju hu tong	15
+炮局胡同	pao jv hu tong	15
 芷江路	zhi jiang lu	15
 高望界乡	gao wang jie xiang	15
 东八里村	dong ba li cun	15
@@ -21374,7 +21374,7 @@ sort: by_weight
 西凤路	xi feng lu	15
 机神新村	ji shen xin cun	15
 故宫路	gu gong lu	15
-炮局	pao ju	15
+炮局	pao jv	15
 玉虚观	yu xu guan	15
 水潦彝族乡	shui lao yi zu xiang	15
 岭坡	ling po	15
@@ -21402,7 +21402,7 @@ sort: by_weight
 厉家寨	li jia zhai	15
 龙美村	long mei cun	15
 美政桥	mei zheng qiao	15
-广陵郡	guang ling jun	15
+广陵郡	guang ling jvn	15
 驿坂	yi ban	15
 凉风顶	liang feng ding	15
 前鼓楼苑	qian gu lou yuan	15
@@ -21418,7 +21418,7 @@ sort: by_weight
 石围塘街道	shi wei tang jie dao	15
 田背	tian bei	15
 碧云山庄	bi yun shan zhuang	15
-桔城路	ju cheng lu	15
+桔城路	jv cheng lu	15
 宝麓山庄	bao lu shan zhuang	15
 黄杉木店	huang sha mu dian	15
 天通苑东三区	tian tong yuan dong san qu	15
@@ -21471,7 +21471,7 @@ sort: by_weight
 田界	tian jie	15
 镇中村	zhen zhong cun	15
 哈尔姆斯塔德	ha er mu si ta de	15
-居乐园	ju le yuan	15
+居乐园	jv le yuan	15
 琉璃河检查站	liu li he jian cha zhan	15
 管公	guan gong	15
 空工院	kong gong yuan	15
@@ -21564,7 +21564,7 @@ sort: by_weight
 翁垟镇	weng yang zhen	15
 后洋村	hou yang cun	15
 桑周	sang zhou	15
-军城镇	jun cheng zhen	15
+军城镇	jvn cheng zhen	15
 磴槽	deng cao	15
 围仔	wei zai	15
 金东海	jin dong hai	15
@@ -21600,7 +21600,7 @@ sort: by_weight
 北京奥林匹克花园	bei jing ao lin pi ke hua yuan	15
 团河北村	tuan he bei cun	15
 太湖花园	tai hu hua yuan	15
-居安里	ju an li	15
+居安里	jv an li	15
 半藏	ban cang	15
 殷庄村	yin zhuang cun	15
 眼气	yan qi	15
@@ -21654,8 +21654,8 @@ sort: by_weight
 曲库乎乡	qu ku hu xiang	15
 赵文亮	zhao wen liang	15
 峰尾镇	feng wei zhen	15
-谯郡	qiao jun	15
-划船俱乐部	hua chuan ju le bu	15
+谯郡	qiao jvn	15
+划船俱乐部	hua chuan jv le bu	15
 御青路	yu qing lu	15
 大坪社区	da ping she qu	15
 澄海县	cheng hai xian	15
@@ -21699,7 +21699,7 @@ sort: by_weight
 公交宿舍	gong jiao su she	15
 北京世界公园	bei jing shi jie gong yuan	15
 田溪村	tian xi cun	15
-蔡氏古民居	cai shi gu min ju	15
+蔡氏古民居	cai shi gu min jv	15
 南华市场	nan hua shi chang	15
 长河中学	chang he zhong xue	15
 杨辛	yang xin	15
@@ -21815,7 +21815,7 @@ sort: by_weight
 东风仪表厂	dong feng yi biao chang	15
 长风停车场	zhang feng ting che chang	15
 西平庄	xi ping zhuang	15
-水云居	shui yun ju	14
+水云居	shui yun jv	14
 西田阳村	xi tian yang cun	14
 高家坪	gao jia ping	14
 第一农场	di yi nong chang	14
@@ -21835,7 +21835,7 @@ sort: by_weight
 后洋	hou yang	14
 广州南路	guang zhou nan lu	14
 半边桥	ban bian qiao	14
-马驹桥商业街	ma ju qiao shang ye jie	14
+马驹桥商业街	ma jv qiao shang ye jie	14
 坑梓镇	keng zi zhen	14
 拉加镇	la jia zhen	14
 夏口	xia kou	14
@@ -21862,7 +21862,7 @@ sort: by_weight
 小溪口	xiao xi kou	14
 南关村村委会	nan guan cun cun wei hui	14
 通州杨庄	tong zhou yang zhuang	14
-骏城	jun cheng	14
+骏城	jvn cheng	14
 郑家磨村	zheng jia mo cun	14
 金陵寺	jin ling si	14
 太平村委会	tai ping cun wei hui	14
@@ -21881,7 +21881,7 @@ sort: by_weight
 雪峰寺	xue feng si	14
 西林寺	xi lin si	14
 南小河	nan xiao he	14
-零陵郡	ling ling jun	14
+零陵郡	ling ling jvn	14
 清源西路	qing yuan xi lu	14
 正学路	zheng xue lu	14
 东菜园	dong cai yuan	14
@@ -22004,7 +22004,7 @@ sort: by_weight
 弼教	bi jiao	14
 辟才胡同西口	pi cai hu tong xi kou	14
 金坪村	jin ping cun	14
-塘工局	tang gong ju	14
+塘工局	tang gong jv	14
 鲁迅小学	lu xun xiao xue	14
 华清村	hua qing cun	14
 福建晋江市安海镇	fu jian jin jiang shi an hai zhen	14
@@ -22032,7 +22032,7 @@ sort: by_weight
 保利红棉花园	bao li hong mian hua yuan	14
 杨家营	yang jia ying	14
 大溪头	da xi tou	14
-国有林场管理局	guo you lin chang guan li ju	14
+国有林场管理局	guo you lin chang guan li jv	14
 龙潭工业区	long tan gong ye qu	14
 西山下	xi shan xia	14
 天目山路学院路口	tian mu shan lu xue yuan lu kou	14
@@ -22109,7 +22109,7 @@ sort: by_weight
 桃花井	tao hua jing	14
 黄沙路	huang sha lu	14
 良乡南关	liang xiang nan guan	14
-顺义交通局	shun yi jiao tong ju	14
+顺义交通局	shun yi jiao tong jv	14
 丁楼	ding lou	14
 簰洲湾镇	pai zhou wan zhen	14
 龙潭大	long tan da	14
@@ -22223,7 +22223,7 @@ sort: by_weight
 农民村	nong min cun	14
 乌鸦乡	wu ya xiang	14
 牌口	pai kou	14
-龙居村	long ju cun	14
+龙居村	long jv cun	14
 古玉乡	gu yu xiang	14
 前欧	qian ou	14
 玉湖村	yu hu cun	14
@@ -22294,7 +22294,7 @@ sort: by_weight
 崇海大桥	chong hai da qiao	14
 恒湖垦殖场	heng hu ken zhi chang	14
 纺校	fang xiao	14
-桂阳郡	gui yang jun	14
+桂阳郡	gui yang jvn	14
 煤矿市场	mei kuang shi chang	14
 塔铺	ta pu	14
 烤全鱼	kao quan yu	14
@@ -22387,7 +22387,7 @@ sort: by_weight
 吉祥楼	ji xiang lou	13
 兰溪门	lan xi men	13
 河北省枣强县大营镇	he bei sheng zao qiang xian da ying zhen	13
-青龙咀	qing long ju	13
+青龙咀	qing long jv	13
 大江路	da jiang lu	13
 凤凰三村	feng huang san cun	13
 西乡码头	xi xiang ma tou	13
@@ -22403,7 +22403,7 @@ sort: by_weight
 西青路	xi qing lu	13
 红旗机械厂	hong qi ji xie chang	13
 金霞路	jin xia lu	13
-赵郡	zhao jun	13
+赵郡	zhao jvn	13
 向丘陵	xiang qiu ling	13
 桂林旅游高等专科学校	gui lin lv you gao deng zhuan ke xue xiao	13
 香林寺	xiang lin si	13
@@ -22498,7 +22498,7 @@ sort: by_weight
 嘉信城市花园	jia xin cheng shi hua yuan	13
 咸宁县	xian ning xian	13
 坂田汽车站	ban tian qi che zhan	13
-新华居委会	xin hua ju wei hui	13
+新华居委会	xin hua jv wei hui	13
 钟山花园城	zhong shan hua yuan cheng	13
 翠竹小区	cui zhu xiao qu	13
 水产试验场	shui chan shi yan chang	13
@@ -22544,7 +22544,7 @@ sort: by_weight
 方庄桥南	fang zhuang qiao nan	13
 王家坝村	wang jia ba cun	13
 解放路秋涛路口	jie fang lu qiu tao lu kou	13
-州建设局	zhou jian she ju	13
+州建设局	zhou jian she jv	13
 黄合少	huang he shao	13
 高尔基路	gao er ji lu	13
 昂赛乡	ang sai xiang	13
@@ -22630,7 +22630,7 @@ sort: by_weight
 切片厂	qie pian chang	13
 孔集	kong ji	13
 文华里	wen hua li	13
-县邮电局	xian you dian ju	13
+县邮电局	xian you dian jv	13
 历城县	li cheng xian	13
 八咏楼	ba yong lou	13
 高村村	gao cun cun	13
@@ -22703,7 +22703,7 @@ sort: by_weight
 白藤头	bai teng tou	13
 山垄	shan long	13
 甜水园北里	tian shui yuan bei li	13
-模具工业园	mu ju gong ye yuan	13
+模具工业园	mu jv gong ye yuan	13
 王茅镇	wang mao zhen	13
 高升桥南街	gao sheng qiao nan jie	13
 易家桥	yi jia qiao	13
@@ -22785,7 +22785,7 @@ sort: by_weight
 石家园子	shi jia yuan zi	13
 普陀医院	pu tuo yi yuan	13
 青云湖	qing yun hu	13
-九江郡	jiu jiang jun	13
+九江郡	jiu jiang jvn	13
 金桂大厦	jin gui da sha	13
 茜草街道	xi cao jie dao	13
 顾渚村	gu zhu cun	13
@@ -22919,7 +22919,7 @@ sort: by_weight
 峨堡镇	e bao zhen	12
 东直门北小街南口	dong zhi men bei xiao jie nan kou	12
 美西村	mei xi cun	12
-菊苑路	ju yuan lu	12
+菊苑路	jv yuan lu	12
 万德路	wan de lu	12
 水碓子社区	shui dui zi she qu	12
 迎春园	ying chun yuan	12
@@ -22971,7 +22971,7 @@ sort: by_weight
 银滩路街道	yin tan lu jie dao	12
 近华	jin hua	12
 井湾	jing wan	12
-省军区幼儿园	sheng jun qu you er yuan	12
+省军区幼儿园	sheng jvn qu you er yuan	12
 大花乡	da hua xiang	12
 平峪	ping yu	12
 华仑	hua lun	12
@@ -23002,7 +23002,7 @@ sort: by_weight
 彭溪	peng xi	12
 金河街	jin he jie	12
 民主南路	min zhu nan lu	12
-天水郡	tian shui jun	12
+天水郡	tian shui jvn	12
 陈合	chen he	12
 中山园路	zhong shan yuan lu	12
 留山	liu shan	12
@@ -23037,7 +23037,7 @@ sort: by_weight
 梅墟	mei xu	12
 江庄	jiang zhuang	12
 整董镇	zheng dong zhen	12
-点军区政府	dian jun qu zheng fu	12
+点军区政府	dian jvn qu zheng fu	12
 连塘村	lian tang cun	12
 冬塔	dong ta	12
 陈坝村	chen ba cun	12
@@ -23150,7 +23150,7 @@ sort: by_weight
 育路	yu lu	12
 体育场小区	ti yu chang xiao qu	12
 叶洋	ye yang	12
-均安镇政府	jun an zhen zheng fu	12
+均安镇政府	jvn an zhen zheng fu	12
 湖州职业技术学院	hu zhou zhi ye ji shu xue yuan	12
 行实	xing shi	12
 石雀胡同	shi que hu tong	12
@@ -23225,7 +23225,7 @@ sort: by_weight
 扯筋	che jin	12
 红领巾桥南	hong ling jin qiao nan	12
 双义	shuang yi	12
-机具站	ji ju zhan	12
+机具站	ji jv zhan	12
 凌东	ling dong	12
 桂花园乡	gui hua yuan xiang	12
 美沃乡	mei wo xiang	12
@@ -23292,7 +23292,7 @@ sort: by_weight
 方庄环岛西	fang zhuang huan dao xi	12
 张厝	zhang cuo	12
 牛角湾	niu jiao wan	12
-巴州工商局	ba zhou gong shang ju	12
+巴州工商局	ba zhou gong shang jv	12
 洋下村	yang xia cun	12
 西五里	xi wu li	12
 空调器厂	kong tiao qi chang	12
@@ -23394,7 +23394,7 @@ sort: by_weight
 火车头外贸城	huo che tou wai mao cheng	12
 北普陀影视城	bei pu tuo ying shi cheng	12
 凤北	feng bei	12
-儒林雅居	ru lin ya ju	12
+儒林雅居	ru lin ya jv	12
 幸福二村	xing fu er cun	12
 上海嘉定区南翔镇	shang hai jia ding qu nan xiang zhen	12
 新能公司	xin neng gong si	12
@@ -23540,14 +23540,14 @@ sort: by_weight
 南七家庄村	nan qi jia zhuang cun	12
 益津书院	yi jin shu yuan	12
 仁怀县	ren huai xian	12
-水管局	shui guan ju	12
+水管局	shui guan jv	12
 牡丹园小区	mu dan yuan xiao qu	12
 大甜水井胡同	da tian shui jing hu tong	12
 清代羊城八景	qing dai yang cheng ba jing	12
 鲜鱼塘村	xian yu tang cun	12
 长虹桥南	chang hong qiao nan	12
 昭通县	zhao tong xian	12
-火炬社区	huo ju she qu	12
+火炬社区	huo jv she qu	12
 林庄村	lin zhuang cun	12
 裕东路	yu dong lu	12
 铁路广场	tie lu guang chang	12
@@ -23622,7 +23622,7 @@ sort: by_weight
 丰镇路	feng zhen lu	11
 武家河乡	wu jia he xiang	11
 土龙山镇	tu long shan zhen	11
-军响	jun xiang	11
+军响	jvn xiang	11
 长阳路口	zhang yang lu kou	11
 新基站	xin ji zhan	11
 松潘路	song pan lu	11
@@ -23706,9 +23706,9 @@ sort: by_weight
 康达尔花园	kang da er hua yuan	11
 延安路解放路口	yan an lu jie fang lu kou	11
 赵家坪	zhao jia ping	11
-邓志军	deng zhi jun	11
+邓志军	deng zhi jvn	11
 常乐小区	chang le xiao qu	11
-聚博花园	ju bo hua yuan	11
+聚博花园	jv bo hua yuan	11
 枕峰	zhen feng	11
 楠竹山村	nan zhu shan cun	11
 铧尖	hua jian	11
@@ -23757,7 +23757,7 @@ sort: by_weight
 秋溪	qiu xi	11
 南山门口	nan shan men kou	11
 刘桂江	liu gui jiang	11
-时代雅居	shi dai ya ju	11
+时代雅居	shi dai ya jv	11
 下岩石	xia yan shi	11
 水峪口	shui yu kou	11
 西红门医院	xi hong men yi yuan	11
@@ -23945,7 +23945,7 @@ sort: by_weight
 小集村	xiao ji cun	11
 南湫乡	nan jiao xiang	11
 兰桂花园	lan gui hua yuan	11
-柑桔场	gan ju chang	11
+柑桔场	gan jv chang	11
 牛牯岭	niu gu ling	11
 嘉乐泉乡	jia le quan xiang	11
 宗别立镇	zong bie li zhen	11
@@ -23968,7 +23968,7 @@ sort: by_weight
 三叉街新村	san cha jie xin cun	11
 康桥镇政府	kang qiao zhen zheng fu	11
 浦沿镇	pu yan zhen	11
-齐郡	qi jun	11
+齐郡	qi jvn	11
 黄场	huang chang	11
 苇子峪村	wei zi yu cun	11
 海员路	hai yuan lu	11
@@ -23997,7 +23997,7 @@ sort: by_weight
 道家园	dao jia yuan	11
 电力中学	dian li zhong xue	11
 黄龙岗	huang long gang	11
-东局子	dong ju zi	11
+东局子	dong jv zi	11
 翠微路口	cui wei lu kou	11
 万寿塔	wan shou ta	11
 洋泾港桥	yang jing gang qiao	11
@@ -24104,7 +24104,7 @@ sort: by_weight
 小城子村	xiao cheng zi cun	11
 金东村	jin dong cun	11
 高二村	gao er cun	11
-赞成湖畔居	zan cheng hu pan ju	11
+赞成湖畔居	zan cheng hu pan jv	11
 废旧金属市场	fei jiu jin shu shi chang	11
 四惠桥西	si hui qiao xi	11
 湾子村	wan zi cun	11
@@ -24214,7 +24214,7 @@ sort: by_weight
 金陵二村	jin ling er cun	11
 雅龙乡	ya long xiang	11
 小山子	xiao shan zi	11
-君竹路	jun zhu lu	11
+君竹路	jvn zhu lu	11
 三圣寺	san sheng si	11
 金三角市场	jin san jiao shi chang	11
 口头坝乡	kou tou ba xiang	11
@@ -24227,7 +24227,7 @@ sort: by_weight
 都溪	dou xi	11
 墩南	dun nan	11
 谢屋	xie wu	11
-东安分局	dong an fen ju	11
+东安分局	dong an fen jv	11
 苑中路	yuan zhong lu	11
 民乐新村	min yue xin cun	11
 岞山	zuo shan	11
@@ -24237,11 +24237,11 @@ sort: by_weight
 西四北头条	xi si bei tou tiao	11
 城南嘉园北	cheng nan jia yuan bei	11
 大钟寺市场	da zhong si shi chang	11
-君悦大酒店	jun yue da jiu dian	11
+君悦大酒店	jvn yue da jiu dian	11
 民康胡同	min kang hu tong	11
 余杭塘上	yu hang tang shang	11
 定东乡	ding dong xiang	11
-万科东郡	wan ke dong jun	11
+万科东郡	wan ke dong jvn	11
 瑞南路	rui nan lu	11
 开平县	kai ping xian	11
 过境路口	guo jing lu kou	11
@@ -24260,7 +24260,7 @@ sort: by_weight
 辅机厂	fu ji chang	11
 大磁窑镇	da ci yao zhen	11
 三天门	san tian men	11
-均安医院	jun an yi yuan	11
+均安医院	jvn an yi yuan	11
 排岭	pai ling	11
 李子坪乡	li zi ping xiang	11
 济川街道	ji chuan jie dao	11
@@ -24273,7 +24273,7 @@ sort: by_weight
 西月城街	xi yue cheng jie	11
 太阳升村	tai yang sheng cun	11
 上横街	shang heng jie	11
-一环路菊乐路口	yi huan lu ju le lu kou	11
+一环路菊乐路口	yi huan lu jv le lu kou	11
 上海闵行区莘庄镇	shang hai min xing qu xin zhuang zhen	11
 北安桥	bei an qiao	11
 东高新	dong gao xin	11
@@ -24285,7 +24285,7 @@ sort: by_weight
 杨家坟	yang jia fen	10
 外宅	wai zhai	10
 小茅	xiao mao	10
-君子兰公园	jun zi lan gong yuan	10
+君子兰公园	jvn zi lan gong yuan	10
 嘉禾苑	jia he yuan	10
 小东梁	xiao dong liang	10
 郑陆	zheng lu	10
@@ -24491,7 +24491,7 @@ sort: by_weight
 皮擦	pi ca	10
 烧公鸡	shao gong ji	10
 岔路乡	cha lu xiang	10
-巨星公司	ju xing gong si	10
+巨星公司	jv xing gong si	10
 大潘镇	da pan zhen	10
 北国温泉之乡	bei guo wen quan zhi xiang	10
 温州饭店	wen zhou fan dian	10
@@ -24658,7 +24658,7 @@ sort: by_weight
 良田街道	liang tian jie dao	10
 白小波	bai xiao bo	10
 良各庄	liang ge zhuang	10
-张登军	zhang deng jun	10
+张登军	zhang deng jvn	10
 何家院子	he jia yuan zi	10
 南苑街	nan yuan jie	10
 码四	ma si	10
@@ -24684,7 +24684,7 @@ sort: by_weight
 胡王村	hu wang cun	10
 保山道	bao shan dao	10
 广厦家园	guang sha jia yuan	10
-菊湖云影	ju hu yun ying	10
+菊湖云影	jv hu yun ying	10
 马南里	ma nan li	10
 黄花浩气	huang hua hao qi	10
 州体育馆	zhou ti yu guan	10
@@ -24740,8 +24740,8 @@ sort: by_weight
 紫竹桥南	zi zhu qiao nan	10
 下山溪	xia shan xi	10
 金联村	jin lian cun	10
-和龙林业局	he long lin ye ju	10
-苏建艳阳居	su jian yan yang ju	10
+和龙林业局	he long lin ye jv	10
+苏建艳阳居	su jian yan yang jv	10
 云美	yun mei	10
 水上公园西路	shui shang gong yuan xi lu	10
 建工学校	jian gong xue xiao	10
@@ -24782,7 +24782,7 @@ sort: by_weight
 金蟾大道	jin chan da dao	10
 岭后村	ling hou cun	10
 高运	gao yun	10
-合浦郡	he pu jun	10
+合浦郡	he pu jvn	10
 峨眉县	e mei xian	10
 武定胡同	wu ding hu tong	10
 康苏镇	kang su zhen	10
@@ -24852,7 +24852,7 @@ sort: by_weight
 润达花园	run da hua yuan	10
 京燕饭店	jing yan fan dian	10
 杏杭	xing hang	10
-新安影剧院	xin an ying ju yuan	10
+新安影剧院	xin an ying jv yuan	10
 发展银行大厦	fa zhan yin hang da sha	10
 深圳市保税区	shen zhen shi bao shui qu	10
 双东路	shuang dong lu	10
@@ -24885,10 +24885,10 @@ sort: by_weight
 上秃亥乡	shang tu hai xiang	10
 北窑头	bei yao tou	10
 双环路	shuang huan lu	10
-红星居委会	hong xing ju wei hui	10
+红星居委会	hong xing jv wei hui	10
 姚坪乡	yao ping xiang	10
 庞家堡	pang jia bao	10
-代郡	dai jun	10
+代郡	dai jvn	10
 祥云社区	xiang yun she qu	10
 路边井	lu bian jing	10
 雍家村	yong jia cun	10
@@ -24898,7 +24898,7 @@ sort: by_weight
 汉宣帝陵	han xuan di ling	10
 秦西	qin xi	10
 奎照路	kui zhao lu	10
-永昌郡	yong chang jun	10
+永昌郡	yong chang jvn	10
 北山林场	bei shan lin chang	10
 科丰桥南	ke feng qiao nan	10
 林厝	lin cuo	10
@@ -24940,7 +24940,7 @@ sort: by_weight
 富乐北里社区	fu le bei li she qu	10
 四方桥西	si fang qiao xi	10
 赵戈庄	zhao ge zhuang	10
-均利广场	jun li guang chang	10
+均利广场	jvn li guang chang	10
 新源村	xin yuan cun	10
 陆家巷	lu jia xiang	10
 长康路	zhang kang lu	10
@@ -25049,7 +25049,7 @@ sort: by_weight
 北郊农场桥东	bei jiao nong chang qiao dong	10
 朝来家园	chao lai jia yuan	10
 工业科学研究所	gong ye ke xue yan jiu suo	10
-铁路俱乐部	tie lu ju le bu	10
+铁路俱乐部	tie lu jv le bu	10
 徐塘	xu tang	10
 张庄村村委会	zhang zhuang cun cun wei hui	10
 昆纬路	kun wei lu	10
@@ -25223,7 +25223,7 @@ sort: by_weight
 克里阳乡	ke li yang xiang	9
 道北路	dao bei lu	9
 安城村	an cheng cun	9
-山水句容	shan shui ju rong	9
+山水句容	shan shui jv rong	9
 五一大楼	wu yi da lou	9
 素抓饭	su zhua fan	9
 古风洞	gu feng dong	9
@@ -25261,7 +25261,7 @@ sort: by_weight
 轮工	lun gong	9
 茅竹岭	mao zhu ling	9
 德化陶瓷博物馆	de hua tao ci bo wu guan	9
-千军台村	qian jun tai cun	9
+千军台村	qian jvn tai cun	9
 青莲村	qing lian cun	9
 上新城乡	shang xin cheng xiang	9
 董糖	dong tang	9
@@ -25273,7 +25273,7 @@ sort: by_weight
 罗依乡	luo yi xiang	9
 韩马	han ma	9
 金酷肥牛	jin ku fei niu	9
-奎聚	kui ju	9
+奎聚	kui jv	9
 灯市西口	deng shi xi kou	9
 没来头	mei lai tou	9
 海滨街	hai bin jie	9
@@ -25292,7 +25292,7 @@ sort: by_weight
 紫芳园社区	zi fang yuan she qu	9
 钟研所	zhong yan suo	9
 上田坝乡	shang tian ba xiang	9
-常山郡	chang shan jun	9
+常山郡	chang shan jvn	9
 骆庄乡	luo zhuang xiang	9
 西玉河村	xi yu he cun	9
 南窑头东区	nan yao tou dong qu	9
@@ -25362,7 +25362,7 @@ sort: by_weight
 史院	shi yuan	9
 松多乡	song duo xiang	9
 回民营	hui min ying	9
-杨应君	yang ying jun	9
+杨应君	yang ying jvn	9
 兴寿村	xing shou cun	9
 紫荆南路	zi jing nan lu	9
 垄溪乡	long xi xiang	9
@@ -25437,7 +25437,7 @@ sort: by_weight
 湾坝	wan ba	9
 天成寺	tian cheng si	9
 枣庄市峄城	zao zhuang shi yi cheng	9
-上党郡	shang dang jun	9
+上党郡	shang dang jvn	9
 国营马场	guo ying ma chang	9
 枣林庄	zao lin zhuang	9
 葡萄花	pu tao hua	9
@@ -25573,7 +25573,7 @@ sort: by_weight
 大路口村	da lu kou cun	9
 瓯海宾馆	ou hai bin guan	9
 卡子湾水泥厂	qia zi wan shui ni chang	9
-顺义公路分局	shun yi gong lu fen ju	9
+顺义公路分局	shun yi gong lu fen jv	9
 桂林东街	gui lin dong jie	9
 桃湾	tao wan	9
 涧溪	jian xi	9
@@ -25583,7 +25583,7 @@ sort: by_weight
 仓南胡同	cang nan hu tong	9
 张家场	zhang jia chang	9
 石桥路口	shi qiao lu kou	9
-格瑞雅居	ge rui ya ju	9
+格瑞雅居	ge rui ya jv	9
 刁家村	diao jia cun	9
 杨庄村委会	yang zhuang cun wei hui	9
 青春坊	qing chun fang	9
@@ -25615,12 +25615,12 @@ sort: by_weight
 碧土	bi tu	9
 温泉支路	wen quan zhi lu	9
 金海湾酒店	jin hai wan jiu dian	9
-五一剧场	wu yi ju chang	9
+五一剧场	wu yi jv chang	9
 仙鹤路	xian he lu	9
 官仓村	guan cang cun	9
-延庆交通局	yan qing jiao tong ju	9
+延庆交通局	yan qing jiao tong jv	9
 义山村	yi shan cun	9
-先进居委会	xian jin ju wei hui	9
+先进居委会	xian jin jv wei hui	9
 虾扎	xia zha	9
 卫生部社区	wei sheng bu she qu	9
 菜户营桥西	cai hu ying qiao xi	9
@@ -25697,7 +25697,7 @@ sort: by_weight
 社山	she shan	9
 胡瑗	hu yuan	9
 双堡乡	shuang bao xiang	9
-东风居委会	dong feng ju wei hui	9
+东风居委会	dong feng jv wei hui	9
 阿西尔达斡尔民族乡	a xi er da wo er min zu xiang	9
 男娃子	nan wa zi	9
 檀香园	tan xiang yuan	9
@@ -25856,7 +25856,7 @@ sort: by_weight
 莲岳路	lian yue lu	9
 定身术	ding shen shu	9
 劲松桥南	jing song qiao nan	9
-泃阳镇	ju yang zhen	9
+泃阳镇	jv yang zhen	9
 海天路	hai tian lu	9
 拱苑小区	gong yuan xiao qu	9
 洗毛厂	xi mao chang	9
@@ -25913,7 +25913,7 @@ sort: by_weight
 软件园广场	ruan jian yuan guang chang	9
 快乐村	kuai le cun	9
 勤勇	qin yong	9
-大坝咀	da ba ju	9
+大坝咀	da ba jv	9
 宏盘乡	hong pan xiang	9
 简池镇	jian chi zhen	9
 八大公山乡	ba da gong shan xiang	9
@@ -25926,7 +25926,7 @@ sort: by_weight
 高厦	gao sha	9
 槽坑	cao keng	9
 平谷中医院	ping gu zhong yi yuan	9
-州国税局	zhou guo shui ju	9
+州国税局	zhou guo shui jv	9
 蓝二	lan er	9
 山溪村	shan xi cun	9
 大马庄	da ma zhuang	9
@@ -26093,7 +26093,7 @@ sort: by_weight
 春园里	chun yuan li	8
 锡拉胡同	xi la hu tong	8
 腊子口乡	la zi kou xiang	8
-陈留郡	chen liu jun	8
+陈留郡	chen liu jvn	8
 靖宇中路	jing yu zhong lu	8
 陈厝	chen cuo	8
 拉波乡	la bo xiang	8
@@ -26152,7 +26152,7 @@ sort: by_weight
 河洼	he wa	8
 南姚村	nan yao cun	8
 高庄小学	gao zhuang xiao xue	8
-益州郡	yi zhou jun	8
+益州郡	yi zhou jvn	8
 县东路	xian dong lu	8
 大小磨刀	da xiao mo dao	8
 邱文华	qiu wen hua	8
@@ -26189,7 +26189,7 @@ sort: by_weight
 海拉苏镇	hai la su zhen	8
 诚斋	cheng zhai	8
 泰东路	tai dong lu	8
-聚阳	ju yang	8
+聚阳	jv yang	8
 西合休乡	xi he xiu xiang	8
 城山村	cheng shan cun	8
 天和乡	tian he xiang	8
@@ -26260,7 +26260,7 @@ sort: by_weight
 北津城路	bei jin cheng lu	8
 西环里	xi huan li	8
 沈家宅	shen jia zhai	8
-陇西郡	long xi jun	8
+陇西郡	long xi jvn	8
 泗庄	si zhuang	8
 天封塔	tian feng ta	8
 红羊乡	hong yang xiang	8
@@ -26295,7 +26295,7 @@ sort: by_weight
 梅岐乡	mei qi xiang	8
 南桂桥	nan gui qiao	8
 连坂	lian ban	8
-举源	ju yuan	8
+举源	jv yuan	8
 北京人家小区	bei jing ren jia xiao qu	8
 米泉县	mi quan xian	8
 奎壁	kui bi	8
@@ -26347,11 +26347,11 @@ sort: by_weight
 头屯河街道	tou tun he jie dao	8
 大兴二中	da xing er zhong	8
 塔园村	ta yuan cun	8
-振兴居委会	zhen xing ju wei hui	8
+振兴居委会	zhen xing jv wei hui	8
 外炮村	wai pao cun	8
 雅畈初中	ya fan chu zhong	8
 营前村	ying qian cun	8
-细滘居委会	xi jiao ju wei hui	8
+细滘居委会	xi jiao jv wei hui	8
 造漆厂	zao qi chang	8
 上司乡	shang si xiang	8
 大白楼村	da bai lou cun	8
@@ -26381,7 +26381,7 @@ sort: by_weight
 太平庄村委会	tai ping zhuang cun wei hui	8
 彰化村	zhang hua cun	8
 张家塘	zhang jia tang	8
-居仁村	ju ren cun	8
+居仁村	jv ren cun	8
 吴家桥	wu jia qiao	8
 金叵罗村	jin po luo cun	8
 三角井	san jiao jing	8
@@ -26423,7 +26423,7 @@ sort: by_weight
 玉林西街	yu lin xi jie	8
 苏溪村	su xi cun	8
 志南	zhi nan	8
-王梅君	wang mei jun	8
+王梅君	wang mei jvn	8
 都伏镇	dou fu zhen	8
 绍兴中	shao xing zhong	8
 法华南里社区	fa hua nan li she qu	8
@@ -26475,7 +26475,7 @@ sort: by_weight
 临桂路	lin gui lu	8
 景御路	jing yu lu	8
 孙家集	sun jia ji	8
-李光地故居	li guang de gu ju	8
+李光地故居	li guang de gu jv	8
 坑背	keng bei	8
 双峰道	shuang feng dao	8
 新纪元石材市场	xin ji yuan shi cai shi chang	8
@@ -26505,7 +26505,7 @@ sort: by_weight
 南头联检站	nan tou lian jian zhan	8
 鲁谷街道	lu gu jie dao	8
 广渠门大街	guang qu men da jie	8
-西铁分局	xi tie fen ju	8
+西铁分局	xi tie fen jv	8
 胡国彬	hu guo bin	8
 碾坝乡	nian ba xiang	8
 金鸡路口	jin ji lu kou	8
@@ -26566,7 +26566,7 @@ sort: by_weight
 趴耳朵	pa er duo	8
 卓家营	zhuo jia ying	8
 五孔闸	wu kong zha	8
-鹤咀	he ju	8
+鹤咀	he jv	8
 长沟镇政府	zhang gou zhen zheng fu	8
 保定道	bao ding dao	8
 龙山书院	long shan shu yuan	8
@@ -26651,7 +26651,7 @@ sort: by_weight
 西垡村	xi fa cun	8
 北京工商大学良乡校区	bei jing gong shang da xue liang xiang xiao qu	8
 白家楼村	bai jia lou cun	8
-小菊儿胡同	xiao ju er hu tong	8
+小菊儿胡同	xiao jv er hu tong	8
 安业乡	an ye xiang	8
 垄下	long xia	8
 北二西路	bei er xi lu	8
@@ -26668,7 +26668,7 @@ sort: by_weight
 翁达镇	weng da zhen	8
 兰英乡	lan ying xiang	8
 科技路小区	ke ji lu xiao qu	8
-皂君东里	zao jun dong li	8
+皂君东里	zao jvn dong li	8
 洪东	hong dong	8
 田尾山	tian wei shan	8
 李西村	li xi cun	8
@@ -26733,7 +26733,7 @@ sort: by_weight
 廻龙	hui long	8
 靖江县	jing jiang xian	8
 上海松江区新桥镇	shang hai song jiang qu xin qiao zhen	8
-滨康路火炬大道口	bin kang lu huo ju da dao kou	8
+滨康路火炬大道口	bin kang lu huo jv da dao kou	8
 金海岸中学	jin hai an zhong xue	8
 团结市场	tuan jie shi chang	8
 深圳村	shen zhen cun	8
@@ -26755,7 +26755,7 @@ sort: by_weight
 盈江路	ying jiang lu	8
 土直	tu zhi	8
 拉布大林农牧场	la bu da lin nong mu chang	8
-建设居委会	jian she ju wei hui	8
+建设居委会	jian she jv wei hui	8
 鉴海小学	jian hai xiao xue	8
 松树岗	song shu gang	8
 白鹭大桥	bai lu da qiao	8
@@ -26776,7 +26776,7 @@ sort: by_weight
 皇亭子	huang ting zi	8
 马采	ma cai	8
 官头	guan tou	8
-巨山农场	ju shan nong chang	8
+巨山农场	jv shan nong chang	8
 绿丰家园	lv feng jia yuan	8
 灯塔县	deng ta xian	8
 三清观	san qing guan	8
@@ -26840,7 +26840,7 @@ sort: by_weight
 友谊队	you yi dui	8
 倪家堰	ni jia yan	8
 林苗圃	lin miao pu	8
-空军驻地	kong jun zhu di	8
+空军驻地	kong jvn zhu di	8
 大夫堂	dai fu tang	8
 顺风岛	shun feng dao	8
 阎庄村	yan zhuang cun	8
@@ -26852,7 +26852,7 @@ sort: by_weight
 玻璃城子镇	bo li cheng zi zhen	8
 右外大街	you wai da jie	8
 古翠路天目山路口	gu cui lu tian mu shan lu kou	8
-刘永福故居	liu yong fu gu ju	8
+刘永福故居	liu yong fu gu jv	8
 东星社区	dong xing she qu	8
 九曲水	jiu qu shui	8
 三街小学	san jie xiao xue	8
@@ -26904,7 +26904,7 @@ sort: by_weight
 裴家埪村	pei jia kong cun	8
 也木勒牧场	ye mu lei mu chang	8
 甬港南路	yong gang nan lu	8
-浚边	jun bian	8
+浚边	jvn bian	8
 洪福村	hong fu cun	8
 宁华路街道	ning hua lu jie dao	8
 新庵	xin an	8
@@ -26941,12 +26941,12 @@ sort: by_weight
 大刘寨	da liu zhai	8
 为公桥	wei gong qiao	8
 钦州湾广场	qin zhou wan guang chang	8
-曾咀	ceng ju	8
+曾咀	ceng jv	8
 洲美	zhou mei	8
 凌达市场	ling da shi chang	8
 加尕斯台乡	jia ga si tai xiang	8
 石狮市侨联	shi shi shi qiao lian	8
-黎民居乡	li min ju xiang	8
+黎民居乡	li min jv xiang	8
 武林门南	wu lin men nan	8
 江海新村	jiang hai xin cun	8
 川里	chuan li	8
@@ -26974,7 +26974,7 @@ sort: by_weight
 大学路北口	da xue lu bei kou	8
 巴音温都尔	ba yin wen dou er	8
 罗内	luo nei	8
-金陵名人居	jin ling ming ren ju	8
+金陵名人居	jin ling ming ren jv	8
 沙梨乡	sha li xiang	8
 右北平	you bei ping	8
 北姚村	bei yao cun	8
@@ -27005,7 +27005,7 @@ sort: by_weight
 北京元大都城垣遗址公园	bei jing yuan da du cheng yuan yi zhi gong yuan	8
 北宿舍	bei su she	8
 桃舟	tao zhou	8
-近良居委会	jin liang ju wei hui	7
+近良居委会	jin liang jv wei hui	7
 张仲实	zhang zhong shi	7
 福寿村	fu shou cun	7
 保宁街道	bao ning jie dao	7
@@ -27042,7 +27042,7 @@ sort: by_weight
 南西庄	nan xi zhuang	7
 修文街	xiu wen jie	7
 后肖家胡同	hou xiao jia hu tong	7
-西军庄	xi jun zhuang	7
+西军庄	xi jvn zhuang	7
 沙塘社区	sha tang she qu	7
 省交通学校	sheng jiao tong xue xiao	7
 东美社区	dong mei she qu	7
@@ -27061,7 +27061,7 @@ sort: by_weight
 九洲村	jiu zhou cun	7
 钦江路	qin jiang lu	7
 丰和日丽	feng he ri li	7
-铁十二局	tie shi er ju	7
+铁十二局	tie shi er jv	7
 韵苑学生公寓	yun yuan xue sheng gong yu	7
 土门关乡	tu men guan xiang	7
 北京通州区永顺镇	bei jing tong zhou qu yong shun zhen	7
@@ -27150,7 +27150,7 @@ sort: by_weight
 科技经济管理学院	ke ji jing ji guan li xue yuan	7
 林查班	lin cha ban	7
 晓月苑二里	xiao yue yuan er li	7
-通州国税局	tong zhou guo shui ju	7
+通州国税局	tong zhou guo shui jv	7
 闫家渠	yan jia qu	7
 喜鹊巢	xi que chao	7
 延庆二小	yan qing er xiao	7
@@ -27221,7 +27221,7 @@ sort: by_weight
 赵公口桥南	zhao gong kou qiao nan	7
 下旺	xia wang	7
 华景北苑	hua jing bei yuan	7
-塔管局	ta guan ju	7
+塔管局	ta guan jv	7
 白音乌拉嘎查	bai yin wu la ga cha	7
 高升门	gao sheng men	7
 康盛园小区	kang sheng yuan xiao qu	7
@@ -27391,7 +27391,7 @@ sort: by_weight
 鹰嘴村	ying zui cun	7
 坑边村	keng bian cun	7
 万佳通	wan jia tong	7
-北咀	bei ju	7
+北咀	bei jv	7
 万达紫金明珠	wan da zi jin ming zhu	7
 百花公寓	bai hua gong yu	7
 红花南路	hong hua nan lu	7
@@ -27628,7 +27628,7 @@ sort: by_weight
 大白楼	da bai lou	7
 纯阳观街	chun yang guan jie	7
 南开二纬路	nan kai er wei lu	7
-西河郡	xi he jun	7
+西河郡	xi he jvn	7
 里仁坡	li ren po	7
 排子胡同	pai zi hu tong	7
 竹根村	zhu gen cun	7
@@ -27719,7 +27719,7 @@ sort: by_weight
 三不老胡同	san bu lao hu tong	7
 瞿昙镇	qu tan zhen	7
 建西社区	jian xi she qu	7
-周恩来祖居	zhou en lai zu ju	7
+周恩来祖居	zhou en lai zu jv	7
 先施大厦	xian shi da sha	7
 常家湾	chang jia wan	7
 右安门东	you an men dong	7
@@ -27730,7 +27730,7 @@ sort: by_weight
 易家渡	yi jia du	7
 曾厝村	ceng cuo cun	7
 那扶	na fu	7
-大兴影剧院	da xing ying ju yuan	7
+大兴影剧院	da xing ying jv yuan	7
 镇海层楼	zhen hai ceng lou	7
 书院南街	shu yuan nan jie	7
 西属巴街道	xi shu ba jie dao	7
@@ -27799,8 +27799,8 @@ sort: by_weight
 嘉兴市委党校	jia xing shi wei dang xiao	7
 新阳街	xin yang jie	7
 小龙马乡	xiao long ma xiang	7
-望燕名居	wang yan ming ju	7
-金逸雅居	jin yi ya ju	7
+望燕名居	wang yan ming jv	7
+金逸雅居	jin yi ya jv	7
 坝田	ba tian	7
 荷清苑	he qing yuan	7
 赐闲湖	ci xian hu	7
@@ -27893,7 +27893,7 @@ sort: by_weight
 毡子胡同	zhan zi hu tong	7
 墨池坊	mo chi fang	7
 宝岛路	bao dao lu	7
-始兴郡	shi xing jun	7
+始兴郡	shi xing jvn	7
 启兴	qi xing	7
 曲溪街道	qu xi jie dao	7
 孟家沟村	meng jia gou cun	7
@@ -27905,7 +27905,7 @@ sort: by_weight
 启东县	qi dong xian	7
 庆隆苑	qing long yuan	7
 辛家安村	xin jia an cun	7
-南街居委会	nan jie ju wei hui	7
+南街居委会	nan jie jv wei hui	7
 后坑社区	hou keng she qu	7
 红星路广场北	hong xing lu guang chang bei	7
 王堡村	wang bao cun	7
@@ -28088,7 +28088,7 @@ sort: by_weight
 肇家坪	zhao jia ping	7
 三洲市场	san zhou shi chang	7
 凤凰巷	feng huang xiang	7
-十里河居然之家	shi li he ju ran zhi jia	7
+十里河居然之家	shi li he jv ran zhi jia	7
 尚家镇	shang jia zhen	7
 九华村	jiu hua cun	7
 新徐	xin xu	7
@@ -28103,7 +28103,7 @@ sort: by_weight
 槎桥村	cha qiao cun	7
 警民路	jing min lu	7
 霍营乡	huo ying xiang	7
-田园美居	tian yuan mei ju	7
+田园美居	tian yuan mei jv	7
 小鲍庄	xiao bao zhuang	7
 洎阳街道	ji yang jie dao	7
 围肚	wei du	7
@@ -28131,7 +28131,7 @@ sort: by_weight
 万子营	wan zi ying	7
 罗文村	luo wen cun	7
 培丰	pei feng	7
-火炬工业区	huo ju gong ye qu	7
+火炬工业区	huo jv gong ye qu	7
 颜江	yan jiang	7
 西库	xi ku	7
 龙潭寺隆兴路	long tan si long xing lu	7
@@ -28217,7 +28217,7 @@ sort: by_weight
 第四制药厂	di si zhi yao chang	7
 热水溪	re shui xi	7
 营溪	ying xi	6
-北街居委会	bei jie ju wei hui	6
+北街居委会	bei jie jv wei hui	6
 打帮乡	da bang xiang	6
 写轮眼	xie lun yan	6
 右安门大街	you an men da jie	6
@@ -28299,9 +28299,9 @@ sort: by_weight
 朝阳公园桥东	zhao yang gong yuan qiao dong	6
 红莫镇	hong mo zhen	6
 锦华商场	jin hua shang chang	6
-安美居	an mei ju	6
+安美居	an mei jv	6
 响水滩乡	xiang shui tan xiang	6
-居仁里	ju ren li	6
+居仁里	jv ren li	6
 石渔	shi yu	6
 王庄村村委会	wang zhuang cun cun wei hui	6
 南较场	nan jiao chang	6
@@ -28346,7 +28346,7 @@ sort: by_weight
 上宁桥	shang ning qiao	6
 岗山路	gang shan lu	6
 大宁山庄	da ning shan zhuang	6
-威海火炬高新技术产业开发区	wei hai huo ju gao xin ji shu chan ye kai fa qu	6
+威海火炬高新技术产业开发区	wei hai huo jv gao xin ji shu chan ye kai fa qu	6
 昌平水泥厂	chang ping shui ni chang	6
 百福村	bai fu cun	6
 北太平桥南	bei tai ping qiao nan	6
@@ -28387,7 +28387,7 @@ sort: by_weight
 牛房圈	niu fang quan	6
 球子	qiu zi	6
 小于家	xiao yu jia	6
-大菊胡同	da ju hu tong	6
+大菊胡同	da jv hu tong	6
 城隍街	cheng huang jie	6
 韩家山	han jia shan	6
 白荡海小区	bai dang hai xiao qu	6
@@ -28424,7 +28424,7 @@ sort: by_weight
 延安西路凯旋路	yan an xi lu kai xuan lu	6
 北辰西桥北	bei chen xi qiao bei	6
 塔泥乡	ta ni xiang	6
-巴州建设局	ba zhou jian she ju	6
+巴州建设局	ba zhou jian she jv	6
 福利新村	fu li xin cun	6
 下水头	xia shui tou	6
 冰窖口胡同西口	bing jiao kou hu tong xi kou	6
@@ -28518,7 +28518,7 @@ sort: by_weight
 南埔工业区	nan pu gong ye qu	6
 奥林小区	ao lin xiao qu	6
 院前村	yuan qian cun	6
-红旗居委会	hong qi ju wei hui	6
+红旗居委会	hong qi jv wei hui	6
 朱市街	zhu shi jie	6
 凯旋苑	kai xuan yuan	6
 留题迹胡同	liu ti ji hu tong	6
@@ -28575,7 +28575,7 @@ sort: by_weight
 光烈	guang lie	6
 前进新村	qian jin xin cun	6
 仑苍	lun cang	6
-军供大厦	jun gong da sha	6
+军供大厦	jvn gong da sha	6
 南香里	nan xiang li	6
 市公安防暴支队	shi gong an fang bao zhi dui	6
 双泉寺	shuang quan si	6
@@ -28670,7 +28670,7 @@ sort: by_weight
 藩库街	fan ku jie	6
 三元桥东站	san yuan qiao dong zhan	6
 洪旺	hong wang	6
-江西武夷山国家级自然保护区管理局	jiang xi wu yi shan guo jia ji zi ran bao hu qu guan li ju	6
+江西武夷山国家级自然保护区管理局	jiang xi wu yi shan guo jia ji zi ran bao hu qu guan li jv	6
 榄杆市	lan gan shi	6
 桃仙街	tao xian jie	6
 衣铺街	yi pu jie	6
@@ -28716,7 +28716,7 @@ sort: by_weight
 马回乡	ma hui xiang	6
 柳疃镇	liu tuan zhen	6
 雅曲乡	ya qu xiang	6
-丽湖馨居	li hu xin ju	6
+丽湖馨居	li hu xin jv	6
 濠东	hao dong	6
 张沙	zhang sha	6
 南调街道	nan diao jie dao	6
@@ -28732,12 +28732,12 @@ sort: by_weight
 曹里村	cao li cun	6
 益乐村	yi le cun	6
 甘园	gan yuan	6
-东咀	dong ju	6
+东咀	dong jv	6
 大通桥社区	da tong qiao she qu	6
 创造再生	chuang zao zai sheng	6
 杨家院	yang jia yuan	6
 梓坊村	zi fang cun	6
-尤俊	you jun	6
+尤俊	you jvn	6
 新青科技园	xin qing ke ji yuan	6
 百合山庄	bai he shan zhuang	6
 粗石坑	cu shi keng	6
@@ -28881,7 +28881,7 @@ sort: by_weight
 金家村桥东	jin jia cun qiao dong	6
 黄金山村	huang jin shan cun	6
 凤鸣路口	feng ming lu kou	6
-鄱阳郡	po yang jun	6
+鄱阳郡	po yang jvn	6
 金陵世纪花园	jin ling shi ji hua yuan	6
 月牙胡同	yue ya hu tong	6
 罗玛镇	luo ma zhen	6
@@ -28947,7 +28947,7 @@ sort: by_weight
 藏经馆社区	cang jing guan she qu	6
 丰台北路东	feng tai bei lu dong	6
 达浪乡	da lang xiang	6
-老君殿镇	lao jun dian zhen	6
+老君殿镇	lao jvn dian zhen	6
 果子厂	guo zi chang	6
 楼阁台	lou ge tai	6
 海户西里北社区	hai hu xi li bei she qu	6
@@ -29036,7 +29036,7 @@ sort: by_weight
 崔母	cui mu	6
 赤湾三路	chi wan san lu	6
 桂果镇	gui guo zhen	6
-将军堡街道	jiang jun bao jie dao	6
+将军堡街道	jiang jvn bao jie dao	6
 仙美	xian mei	6
 营门口立交桥东	ying men kou li jiao qiao dong	6
 三欧	san ou	6
@@ -29074,7 +29074,7 @@ sort: by_weight
 真理到	zhen li dao	6
 清林中路	qing lin zhong lu	6
 简嘎乡	jian ga xiang	6
-中联家居	zhong lian jia ju	6
+中联家居	zhong lian jia jv	6
 华林四桥	hua lin si qiao	6
 唐恭陵	tang gong ling	6
 满掌乡	man zhang xiang	6
@@ -29120,7 +29120,7 @@ sort: by_weight
 粉子胡同	fen zi hu tong	6
 四埠	si bu	6
 天印花园	tian yin hua yuan	6
-君竹环岛	jun zhu huan dao	6
+君竹环岛	jvn zhu huan dao	6
 红旗商店	hong qi shang dian	6
 竹树下社区	zhu shu xia she qu	6
 西岳台村	xi yue tai cun	6
@@ -29153,9 +29153,9 @@ sort: by_weight
 北京科技大学北门	bei jing ke ji da xue bei men	6
 西四北八条	xi si bei ba tiao	6
 七塔寺	qi ta si	6
-干锅居	gan guo ju	6
+干锅居	gan guo jv	6
 梨坑	li keng	6
-铁一局医院	tie yi ju yi yuan	6
+铁一局医院	tie yi jv yi yuan	6
 石灰岭	shi hui ling	6
 大辛寨	da xin zhai	6
 后坞村	hou wu cun	6
@@ -29219,7 +29219,7 @@ sort: by_weight
 夏日哈镇	xia ri ha zhen	6
 金鼎花园	jin ding hua yuan	6
 冯格庄街道	feng ge zhuang jie dao	6
-化纤俱乐部	hua xian ju le bu	6
+化纤俱乐部	hua xian jv le bu	6
 北什轴乡	bei shen zhou xiang	6
 龙溪大桥	long xi da qiao	6
 季华园西门	ji hua yuan xi men	6
@@ -29227,7 +29227,7 @@ sort: by_weight
 恩济西街	en ji xi jie	6
 鼓楼外大街南站	gu lou wai da jie nan zhan	6
 洪佑村	hong you cun	6
-将军台	jiang jun tai	6
+将军台	jiang jvn tai	6
 东绦胡同	dong tao hu tong	6
 依果觉乡	yi guo jue xiang	6
 梁各庄	liang ge zhuang	6
@@ -29353,12 +29353,12 @@ sort: by_weight
 凤台门	feng tai men	6
 长兴市场	chang xing shi chang	6
 竹望山	zhu wang shan	6
-石狮市经济局	shi shi shi jing ji ju	6
+石狮市经济局	shi shi shi jing ji jv	6
 奔都乡	ben dou xiang	6
 龙临路	long lin lu	6
 前见村	qian jian cun	6
 闲林山水	xian lin shan shui	6
-巴州气象局	ba zhou qi xiang ju	6
+巴州气象局	ba zhou qi xiang jv	6
 王坟村	wang fen cun	6
 八寨沟	ba zhai gou	6
 崂山西路	lao shan xi lu	6
@@ -29381,7 +29381,7 @@ sort: by_weight
 西沙城乡	xi sha cheng xiang	6
 西小河	xi xiao he	6
 站儿巷镇	zhan er xiang zhen	6
-东海郡	dong hai jun	6
+东海郡	dong hai jvn	6
 友谊路街	you yi lu jie	6
 祥坂路口	xiang ban lu kou	6
 同平	tong ping	6
@@ -29441,7 +29441,7 @@ sort: by_weight
 庄上镇	zhuang shang zhen	6
 下亚东乡	xia ya dong xiang	6
 天祥寺	tian xiang si	6
-珠海粤剧团	zhu hai yue ju tuan	6
+珠海粤剧团	zhu hai yue jv tuan	6
 明沙淖乡	ming sha nao xiang	6
 黄泥江	huang ni jiang	6
 廖家坪村	liao jia ping cun	6
@@ -29461,7 +29461,7 @@ sort: by_weight
 大毕庄	da bi zhuang	6
 摊子口	tan zi kou	6
 潘道庙	pan dao miao	6
-新军路	xin jun lu	6
+新军路	xin jvn lu	6
 莫干新村	mo gan xin cun	6
 后余杭	hou yu hang	6
 万柳村大街	wan liu cun da jie	6
@@ -29478,7 +29478,7 @@ sort: by_weight
 巴彦乌拉	ba yan wu la	6
 姚家园西口	yao jia yuan xi kou	6
 龙山新村	long shan xin cun	6
-康郡	kang jun	6
+康郡	kang jvn	6
 家世界超市	jia shi jie chao shi	6
 里仁路	li ren lu	6
 小庙后	xiao miao hou	6
@@ -29505,7 +29505,7 @@ sort: by_weight
 花坦头	hua tan tou	6
 站南街道	zhan nan jie dao	6
 友好三中	you hao san zhong	6
-济南郡	ji nan jun	6
+济南郡	ji nan jvn	6
 郭田	guo tian	6
 笃工街道	du gong jie dao	6
 富塘乡	fu tang xiang	6
@@ -29515,7 +29515,7 @@ sort: by_weight
 坝梁	ba liang	6
 衙门口站	ya men kou zhan	6
 利兹城市公寓	li zi cheng shi gong yu	6
-庐江郡	lu jiang jun	6
+庐江郡	lu jiang jvn	6
 巷口村	xiang kou cun	6
 胜利屯	sheng li tun	6
 半腰桥	ban yao qiao	6
@@ -29564,7 +29564,7 @@ sort: by_weight
 郝家湾	hao jia wan	6
 雷公嘴	lei gong zui	6
 长兴经济技术开发区	chang xing jing ji ji shu kai fa qu	6
-军都度假村	jun dou du jia cun	6
+军都度假村	jvn dou du jia cun	6
 邢家桥	xing jia qiao	6
 西于庄街道	xi yu zhuang jie dao	6
 秀溪村	xiu xi cun	6
@@ -29671,7 +29671,7 @@ sort: by_weight
 大观园西门	da guan yuan xi men	5
 穗石洞天	sui shi dong tian	5
 禾路	he lu	5
-枸桔弄	gou ju nong	5
+枸桔弄	gou jv nong	5
 晓庐	xiao lu	5
 大坵	da qiu	5
 抄手胡同	chao shou hu tong	5
@@ -29715,7 +29715,7 @@ sort: by_weight
 碧岩村	bi yan cun	5
 运城县	yun cheng xian	5
 平沙法庭	ping sha fa ting	5
-山西省临汾市尧都区公安局	shan xi sheng lin fen shi yao dou qu gong an ju	5
+山西省临汾市尧都区公安局	shan xi sheng lin fen shi yao dou qu gong an jv	5
 果子山	guo zi shan	5
 柯桥中学	ke qiao zhong xue	5
 火车北站东广场	huo che bei zhan dong guang chang	5
@@ -30005,7 +30005,7 @@ sort: by_weight
 豆角胡同	dou jiao hu tong	5
 新东安市场北门	xin dong an shi chang bei men	5
 农牧渔良种场	nong mu yu liang zhong chang	5
-林口林业局	lin kou lin ye ju	5
+林口林业局	lin kou lin ye jv	5
 韩家桥	han jia qiao	5
 诗南村	shi nan cun	5
 北方种业	bei fang zhong ye	5
@@ -30019,12 +30019,12 @@ sort: by_weight
 广东东莞市石碣镇	guang dong dong guan shi shi jie zhen	5
 两头塘	liang tou tang	5
 石虎胡同	shi hu hu tong	5
-吉居	ji ju	5
+吉居	ji jv	5
 美岭村	mei ling cun	5
 达木斯乡	da mu si xiang	5
 吉祥南路	ji xiang nan lu	5
 合林	he lin	5
-光明居委会	guang ming ju wei hui	5
+光明居委会	guang ming jv wei hui	5
 莽张乡	mang zhang xiang	5
 候村	hou cun	5
 煤炭交易所	mei tan jiao yi suo	5
@@ -30037,7 +30037,7 @@ sort: by_weight
 增福村	zeng fu cun	5
 明清路	ming qing lu	5
 上吴村	shang wu cun	5
-艮山福居	gen shan fu ju	5
+艮山福居	gen shan fu jv	5
 江南镇长江村	jiang nan zhen zhang jiang cun	5
 同义庄	tong yi zhuang	5
 达马乡	da ma xiang	5
@@ -30049,8 +30049,8 @@ sort: by_weight
 兴寿站	xing shou zhan	5
 虹桥路番禺路	hong qiao lu pan yu lu	5
 三河口乡	san he kou xiang	5
-红山邮局	hong shan you ju	5
-军话	jun hua	5
+红山邮局	hong shan you jv	5
+军话	jvn hua	5
 宝钞南社区	bao chao nan she qu	5
 沿河口村	yan he kou cun	5
 宁新街道	ning xin jie dao	5
@@ -30109,13 +30109,13 @@ sort: by_weight
 车大炮	che da pao	5
 岚关乡	lan guan xiang	5
 龙眼市场	long yan shi chang	5
-黎民居	li min ju	5
+黎民居	li min jv	5
 潍坊十村	wei fang shi cun	5
 野角乡	ye jiao xiang	5
 盖德乡	gai de xiang	5
 良田路口	liang tian lu kou	5
 侯集回族镇	hou ji hui zu zhen	5
-骏马乡	jun ma xiang	5
+骏马乡	jvn ma xiang	5
 毛演堡乡	mao yan bao xiang	5
 照耀里	zhao yao li	5
 南新小区	nan xin xiao qu	5
@@ -30152,7 +30152,7 @@ sort: by_weight
 五八八	wu ba ba	5
 上沙新村	shang sha xin cun	5
 下隆	xia long	5
-火药局胡同	huo yao ju hu tong	5
+火药局胡同	huo yao jv hu tong	5
 费尼克斯	fei ni ke si	5
 三栋屋	san dong wu	5
 觅子店路口	mi zi dian lu kou	5
@@ -30176,12 +30176,12 @@ sort: by_weight
 檀营地区	tan ying di qu	5
 大厝村	da cuo cun	5
 新塘工业区	xin tang gong ye qu	5
-局关祠	ju guan ci	5
+局关祠	jv guan ci	5
 赵家铺	zhao jia pu	5
 王家梁市场	wang jia liang shi chang	5
 周徐	zhou xu	5
 财神庙街道	cai shen miao jie dao	5
-苍梧郡	cang wu jun	5
+苍梧郡	cang wu jvn	5
 三福庄	san fu zhuang	5
 清和大街	qing he da jie	5
 城铁梨园站	cheng tie li yuan zhan	5
@@ -30193,7 +30193,7 @@ sort: by_weight
 十五经路	shi wu jing lu	5
 晴照	qing zhao	5
 潘板	pan ban	5
-敦煌郡	dun huang jun	5
+敦煌郡	dun huang jvn	5
 海红小区	hai hong xiao qu	5
 新泾五村	xin jing wu cun	5
 湖笔文化节	hu bi wen hua jie	5
@@ -30216,7 +30216,7 @@ sort: by_weight
 高速彭埠口	gao su peng bu kou	5
 梅子坑	mei zi keng	5
 北京制线厂	bei jing zhi xian chang	5
-居里路	ju li lu	5
+居里路	jv li lu	5
 永嘉年华	yong jia nian hua	5
 丝罗乡	si luo xiang	5
 绵扎	mian zha	5
@@ -30233,11 +30233,11 @@ sort: by_weight
 伊丹友好中心	yi dan you hao zhong xin	5
 田府	tian fu	5
 钟山晶典	zhong shan jing dian	5
-江夏郡	jiang xia jun	5
+江夏郡	jiang xia jvn	5
 孝友里	xiao you li	5
 田岙	tian ao	5
 东吕	dong lv	5
-天津军粮城	tian jin jun liang cheng	5
+天津军粮城	tian jin jvn liang cheng	5
 清真风味餐厅	qing zhen feng wei can ting	5
 常熟东南开发区	chang shu dong nan kai fa qu	5
 尼斯乡	ni si xiang	5
@@ -30274,7 +30274,7 @@ sort: by_weight
 东马各庄	dong ma ge zhuang	5
 长安楼	chang an lou	5
 天子庄园	tian zi zhuang yuan	5
-烂角咀	lan jiao ju	5
+烂角咀	lan jiao jv	5
 麻沟村	ma gou cun	5
 金百国际	jin bai guo ji	5
 关址村	guan zhi cun	5
@@ -30295,7 +30295,7 @@ sort: by_weight
 塔埔	ta pu	5
 张家弄	zhang jia nong	5
 永清乡	yong qing xiang	5
-幸福艺居	xing fu yi ju	5
+幸福艺居	xing fu yi jv	5
 关市镇	guan shi zhen	5
 内官庄村	nei guan zhuang cun	5
 永安道	yong an dao	5
@@ -30319,7 +30319,7 @@ sort: by_weight
 十二湖	shi er hu	5
 宾馆西路	bin guan xi lu	5
 临江区	lin jiang qu	5
-马驹桥北路	ma ju qiao bei lu	5
+马驹桥北路	ma jv qiao bei lu	5
 大山村委会	da shan cun wei hui	5
 三倒拐街	san dao guai jie	5
 大甸乡	da dian xiang	5
@@ -30361,7 +30361,7 @@ sort: by_weight
 亭东	ting dong	5
 丰台曹家沟	feng tai cao jia gou	5
 四经路	si jing lu	5
-中国气象局社区	zhong guo qi xiang ju she qu	5
+中国气象局社区	zhong guo qi xiang jv she qu	5
 翠屏东南	cui ping dong nan	5
 深辉	shen hui	5
 占石村	zhan shi cun	5
@@ -30372,7 +30372,7 @@ sort: by_weight
 石寨村委会	shi zhai cun wei hui	5
 永昌中路	yong chang zhong lu	5
 李家巷子	li jia xiang zi	5
-君坝	jun ba	5
+君坝	jvn ba	5
 西芦垡村	xi lu fa cun	5
 天宁寺桥北	tian ning si qiao bei	5
 人民南路一环路口	ren min nan lu yi huan lu kou	5
@@ -30401,7 +30401,7 @@ sort: by_weight
 秀新路	xiu xin lu	5
 瓦利斯和富图纳群岛	wa li si he fu tu na qun dao	5
 藏桂乡	cang gui xiang	5
-马驹桥邮局	ma ju qiao you ju	5
+马驹桥邮局	ma jv qiao you jv	5
 浔美工业区	xun mei gong ye qu	5
 邵武县	shao wu xian	5
 容桂法庭	rong gui fa ting	5
@@ -30416,7 +30416,7 @@ sort: by_weight
 联塘	lian tang	5
 海龙县	hai long xian	5
 郭家窑	guo jia yao	5
-均安中学	jun an zhong xue	5
+均安中学	jvn an zhong xue	5
 黑龙关	hei long guan	5
 北溪河	bei xi he	5
 谢家寨	xie jia zhai	5
@@ -30458,9 +30458,9 @@ sort: by_weight
 通灵术	tong ling shu	5
 锦西县	jin xi xian	5
 嘉陵村	jia ling cun	5
-凤凰咀	feng huang ju	5
+凤凰咀	feng huang jv	5
 鹤龄镇	he ling zhen	5
-州安全局	zhou an quan ju	5
+州安全局	zhou an quan jv	5
 北三乡	bei san xiang	5
 南通博物院	nan tong bo wu yuan	5
 里仁巷	li ren xiang	5
@@ -30475,7 +30475,7 @@ sort: by_weight
 宣美	xuan mei	5
 大兴桥北	da xing qiao bei	5
 和燕花苑	he yan hua yuan	5
-辽东郡	liao dong jun	5
+辽东郡	liao dong jvn	5
 冲天庙	chong tian miao	5
 上春村	shang chun cun	5
 旺角花园	wang jiao hua yuan	5
@@ -30527,7 +30527,7 @@ sort: by_weight
 官洋村	guan yang cun	5
 龙潭坝	long tan ba	5
 玉带胡同	yu dai hu tong	5
-杨虎城将军陵园	yang hu cheng jiang jun ling yuan	5
+杨虎城将军陵园	yang hu cheng jiang jvn ling yuan	5
 云岩村	yun yan cun	5
 润星家园	run xing jia yuan	5
 外埔乡	wai pu xiang	5
@@ -30552,7 +30552,7 @@ sort: by_weight
 畜研所	chu yan suo	5
 几爷子	ji ye zi	5
 柘庄	zhe zhuang	5
-湖州大剧院	hu zhou da ju yuan	5
+湖州大剧院	hu zhou da jv yuan	5
 浙江乐清市虹桥镇	zhe jiang yue qing shi hong qiao zhen	5
 大栗树	da li shu	5
 徐黄	xu huang	5
@@ -30588,7 +30588,7 @@ sort: by_weight
 杭州道	hang zhou dao	5
 东二里	dong er li	5
 北京师范大学南门	bei jing shi fan da xue nan men	5
-韶关剧院	shao guan ju yuan	5
+韶关剧院	shao guan jv yuan	5
 勍香镇	qing xiang zhen	5
 甲竹林镇	jia zhu lin zhen	5
 香洲区府	xiang zhou qu fu	5
@@ -30687,7 +30687,7 @@ sort: by_weight
 高卧胡同	gao wo hu tong	5
 锦州道	jin zhou dao	5
 仙境村	xian jing cun	5
-铁十六局	tie shi liu ju	5
+铁十六局	tie shi liu jv	5
 绿岛公园	lv dao gong yuan	5
 龙锦苑四区	long jin yuan si qu	5
 真如西村	zhen ru xi cun	5
@@ -30736,7 +30736,7 @@ sort: by_weight
 深圳市艺术学校	shen zhen shi yi shu xue xiao	5
 向家园	xiang jia yuan	5
 安马乡	an ma xiang	5
-公路二局	gong lu er ju	5
+公路二局	gong lu er jv	5
 捧塔	peng ta	5
 称钩湾	cheng gou wan	5
 大南峪乡	da nan yu xiang	5
@@ -30753,7 +30753,7 @@ sort: by_weight
 石枧	shi jian	5
 华坪路	hua ping lu	5
 增坑	zeng keng	5
-海林林业局	hai lin lin ye ju	5
+海林林业局	hai lin lin ye jv	5
 如皋市经济开发区	ru gao shi jing ji kai fa qu	5
 四一九医院	si yi jiu yi yuan	5
 东兴办事处	dong xing ban shi chu	5
@@ -30873,7 +30873,7 @@ sort: by_weight
 广录庄	guang lu zhuang	5
 北固乡	bei gu xiang	5
 王院	wang yuan	5
-元聚	yuan ju	5
+元聚	yuan jv	5
 朱家官庄	zhu jia guan zhuang	5
 沙珠玉乡	sha zhu yu xiang	5
 南营子村	nan ying zi cun	5
@@ -30895,7 +30895,7 @@ sort: by_weight
 园岭东路	yuan ling dong lu	5
 苏前	su qian	5
 牛晓楠	niu xiao nan	5
-河畔名居	he pan ming ju	5
+河畔名居	he pan ming jv	5
 安民街	an min jie	5
 山西道	shan xi dao	5
 三桥农贸市场	san qiao nong mao shi chang	5
@@ -30976,12 +30976,12 @@ sort: by_weight
 靖江桥	jing jiang qiao	5
 二六三医院	er liu san yi yuan	5
 十四桥	shi si qiao	5
-昌平公安局	chang ping gong an ju	5
+昌平公安局	chang ping gong an jv	5
 银桦新村	yin hua xin cun	5
 金斗桥	jin dou qiao	5
 金山软件股份有限公司	jin shan ruan jian gu fen you xian gong si	5
 苏元乡	su yuan xiang	5
-西街居委会	xi jie ju wei hui	5
+西街居委会	xi jie jv wei hui	5
 田洋村	tian yang cun	5
 广东东莞市常平镇	guang dong dong guan shi chang ping zhen	5
 胡岗村	hu gang cun	5
@@ -31025,7 +31025,7 @@ sort: by_weight
 胡营	hu ying	5
 东合村	dong he cun	5
 清源社区	qing yuan she qu	5
-李俊乡	li jun xiang	5
+李俊乡	li jvn xiang	5
 华威桥南	hua wei qiao nan	5
 玉华路	yu hua lu	5
 第什营乡	di shen ying xiang	5
@@ -31179,7 +31179,7 @@ sort: by_weight
 西陵村	xi ling cun	5
 双花村	shuang hua cun	5
 泉山检察院	quan shan jian cha yuan	5
-州消防局	zhou xiao fang ju	5
+州消防局	zhou xiao fang jv	5
 江南公寓	jiang nan gong yu	5
 南油花园	nan you hua yuan	5
 航空胡同	hang kong hu tong	5
@@ -31323,7 +31323,7 @@ sort: by_weight
 留宾乡	liu bin xiang	4
 下洼子	xia wa zi	4
 百旺家苑社区	bai wang jia yuan she qu	4
-东村居委会	dong cun ju wei hui	4
+东村居委会	dong cun jv wei hui	4
 荷花里小区	he hua li xiao qu	4
 花枝胡同	hua zhi hu tong	4
 牛栏山地区	niu lan shan di qu	4
@@ -31359,7 +31359,7 @@ sort: by_weight
 卢厝	lu cuo	4
 扬美村	yang mei cun	4
 皂甲屯村	zao jia tun cun	4
-句容市方山茶场	ju rong shi fang shan cha chang	4
+句容市方山茶场	jv rong shi fang shan cha chang	4
 小松垡村	xiao song fa cun	4
 后甫村	hou fu cun	4
 羊各庄	yang ge zhuang	4
@@ -31416,7 +31416,7 @@ sort: by_weight
 清水绿带	qing shui lv dai	4
 西青龙街	xi qing long jie	4
 牡丹江晨报	mu dan jiang chen bao	4
-新君悦酒店	xin jun yue jiu dian	4
+新君悦酒店	xin jvn yue jiu dian	4
 黄柳村	huang liu cun	4
 东安庄	dong an zhuang	4
 黄山宫	huang shan gong	4
@@ -31480,7 +31480,7 @@ sort: by_weight
 真武庙四里	zhen wu miao si li	4
 陈家屋子	chen jia wu zi	4
 顺义二中	shun yi er zhong	4
-具广	ju guang	4
+具广	jv guang	4
 龙峰路	long feng lu	4
 周庄村委会	zhou zhuang cun wei hui	4
 江中村	jiang zhong cun	4
@@ -31536,7 +31536,7 @@ sort: by_weight
 排榜村	pai bang cun	4
 北洼路北口	bei wa lu bei kou	4
 安洲坝村	an zhou ba cun	4
-黄连居委会	huang lian ju wei hui	4
+黄连居委会	huang lian jv wei hui	4
 深屈	shen qu	4
 白米仓胡同	bai mi cang hu tong	4
 踏卡	ta ka	4
@@ -31547,11 +31547,11 @@ sort: by_weight
 民主北街社区	min zhu bei jie she qu	4
 锦水村	jin shui cun	4
 梁青路	liang qing lu	4
-名湖雅居	ming hu ya ju	4
+名湖雅居	ming hu ya jv	4
 复兴北苑	fu xing bei yuan	4
 大水垅	da shui long	4
 长寿社	chang shou she	4
-聚福山庄	ju fu shan zhuang	4
+聚福山庄	jv fu shan zhuang	4
 怡丰新城	yi feng xin cheng	4
 塔东村	ta dong cun	4
 大石布依族乡	da shi bu yi zu xiang	4
@@ -31575,7 +31575,7 @@ sort: by_weight
 獐么乡	zhang me xiang	4
 吴马营乡	wu ma ying xiang	4
 东张孟乡	dong zhang meng xiang	4
-龙聚山庄村	long ju shan zhuang cun	4
+龙聚山庄村	long jv shan zhuang cun	4
 钓峰乡	diao feng xiang	4
 熟食品交易中心	shu shi pin jiao yi zhong xin	4
 大安县	da an xian	4
@@ -31654,7 +31654,7 @@ sort: by_weight
 额尔古纳左旗	e er gu na zuo qi	4
 西安村委会	xi an cun wei hui	4
 国营南滨农场	guo ying nan bin nong chang	4
-加郡乡	jia jun xiang	4
+加郡乡	jia jvn xiang	4
 南小街东里	nan xiao jie dong li	4
 西道口东	xi dao kou dong	4
 莫拐农场	mo guai nong chang	4
@@ -31662,7 +31662,7 @@ sort: by_weight
 靳各寨	jin ge zhai	4
 埕边村	cheng bian cun	4
 万人餐厅	wan ren can ting	4
-刘先俊	liu xian jun	4
+刘先俊	liu xian jvn	4
 宇航小区	yu hang xiao qu	4
 明月店	ming yue dian	4
 中塅	zhong duan	4
@@ -31699,7 +31699,7 @@ sort: by_weight
 水叶子	shui ye zi	4
 上舍村	shang she cun	4
 夫子石	fu zi shi	4
-刘国具乡	liu guo ju xiang	4
+刘国具乡	liu guo jv xiang	4
 关山饭店	guan shan fan dian	4
 兵团三建	bing tuan san jian	4
 九郊街道	jiu jiao jie dao	4
@@ -31764,14 +31764,14 @@ sort: by_weight
 阳光家园二期	yang guang jia yuan er qi	4
 内茂	nei mao	4
 上海奉贤区南桥镇	shang hai feng xian qu nan qiao zhen	4
-小菊胡同	xiao ju hu tong	4
+小菊胡同	xiao jv hu tong	4
 河峪	he yu	4
 河岙	he ao	4
 枣园东里小区	zao yuan dong li xiao qu	4
 东埭村	dong dai cun	4
 里炮村	li pao cun	4
 运洋	yun yang	4
-巨合滩	ju he tan	4
+巨合滩	jv he tan	4
 上贡麻乡	shang gong ma xiang	4
 湖景路中	hu jing lu zhong	4
 京马	jing ma	4
@@ -31790,7 +31790,7 @@ sort: by_weight
 甲洼乡	jia wa xiang	4
 旺藏乡	wang cang xiang	4
 前屯社区	qian tun she qu	4
-老钱局胡同	lao qian ju hu tong	4
+老钱局胡同	lao qian jv hu tong	4
 叆阳镇	ai yang zhen	4
 芦家沟	lu jia gou	4
 召里	zhao li	4
@@ -31856,7 +31856,7 @@ sort: by_weight
 大陇镇	da long zhen	4
 新吴庄	xin wu zhuang	4
 河北省丰南县	he bei sheng feng nan xian	4
-吉居乡	ji ju xiang	4
+吉居乡	ji jv xiang	4
 外乔司	wai qiao si	4
 杉岭乡	shan ling xiang	4
 榜上村	bang shang cun	4
@@ -31904,7 +31904,7 @@ sort: by_weight
 娘拉乡	niang la xiang	4
 马狮	ma shi	4
 河浦街道	he pu jie dao	4
-俱乐乡	ju le xiang	4
+俱乐乡	jv le xiang	4
 江宁路长寿路	jiang ning lu chang shou lu	4
 双兴小学	shuang xing xiao xue	4
 玉林西里社区	yu lin xi li she qu	4
@@ -31936,7 +31936,7 @@ sort: by_weight
 山丹农场	shan dan nong chang	4
 五道营子满族乡	wu dao ying zi man zu xiang	4
 何山村	he shan cun	4
-定居胡同	ding ju hu tong	4
+定居胡同	ding jv hu tong	4
 钱家湾	qian jia wan	4
 凤北村	feng bei cun	4
 苏一二村	su yi er cun	4
@@ -32015,7 +32015,7 @@ sort: by_weight
 西厅胡同	xi ting hu tong	4
 郑山乡	zheng shan xiang	4
 马厂巷	ma chang xiang	4
-龙驹坞	long ju wu	4
+龙驹坞	long jv wu	4
 曾家院子	ceng jia yuan zi	4
 下房村	xia fang cun	4
 水上公园北道	shui shang gong yuan bei dao	4
@@ -32027,7 +32027,7 @@ sort: by_weight
 杨明宪	yang ming xian	4
 火遁	huo dun	4
 新松站	xin song zhan	4
-滨盛路火炬大道口	bin sheng lu huo ju da dao kou	4
+滨盛路火炬大道口	bin sheng lu huo jv da dao kou	4
 江苏常熟市虞山镇	jiang su chang shu shi yu shan zhen	4
 七棵松	qi ke song	4
 乌鲁木齐西路街道	wu lu mu qi xi lu jie dao	4
@@ -32079,7 +32079,7 @@ sort: by_weight
 下裴	xia pei	4
 教师大厦	jiao shi da sha	4
 警战	jing zhan	4
-巴州国税局	ba zhou guo shui ju	4
+巴州国税局	ba zhou guo shui jv	4
 物玛乡	wu ma xiang	4
 小金更	xiao jin geng	4
 桑马房村	sang ma fang cun	4
@@ -32145,7 +32145,7 @@ sort: by_weight
 水岸雅苑	shui an ya yuan	4
 宁家湾村	ning jia wan cun	4
 新宜白大道	xin yi bai da dao	4
-巨日合镇	ju ri he zhen	4
+巨日合镇	jv ri he zhen	4
 赤湾六路	chi wan liu lu	4
 北王庄	bei wang zhuang	4
 半截河街道	ban jie he jie dao	4
@@ -32187,7 +32187,7 @@ sort: by_weight
 中石镇	zhong shi zhen	4
 青疃镇	qing tuan zhen	4
 宾达乡	bin da xiang	4
-军田路	jun tian lu	4
+军田路	jvn tian lu	4
 三里湾街道	san li wan jie dao	4
 沙湾头	sha wan tou	4
 小宫门	xiao gong men	4
@@ -32213,13 +32213,13 @@ sort: by_weight
 杨家圪台镇	yang jia ge tai zhen	4
 丁字古	ding zi gu	4
 宝塔河街道	bao ta he jie dao	4
-巨各庄村	ju ge zhuang cun	4
+巨各庄村	jv ge zhuang cun	4
 任庄村村委会	ren zhuang cun cun wei hui	4
 北庄头	bei zhuang tou	4
 十里堡北区	shi li pu bei qu	4
 西北橡胶厂	xi bei xiang jiao chang	4
 顶寨	ding zhai	4
-热电厂居委会	re dian chang ju wei hui	4
+热电厂居委会	re dian chang jv wei hui	4
 罗岗工业区	luo gang gong ye qu	4
 松坑村	song keng cun	4
 文化巷里	wen hua xiang li	4
@@ -32236,7 +32236,7 @@ sort: by_weight
 近江公交站	jin jiang gong jiao zhan	4
 更庆	geng qing	4
 潘墩中心小学	pan dun zhong xin xiao xue	4
-云居胡同	yun ju hu tong	4
+云居胡同	yun jv hu tong	4
 矿业大学社区	kuang ye da xue she qu	4
 杨镇二中	yang zhen er zhong	4
 哈沙图	ha sha tu	4
@@ -32262,7 +32262,7 @@ sort: by_weight
 塘肚	tang du	4
 沙河口火车站	sha he kou huo che zhan	4
 省药材公司	sheng yao cai gong si	4
-沙咀村	sha ju cun	4
+沙咀村	sha jv cun	4
 黎家坡	li jia po	4
 狼牙山镇	lang ya shan zhen	4
 莫云乡	mo yun xiang	4
@@ -32367,7 +32367,7 @@ sort: by_weight
 北上坡村	bei shang po cun	4
 郭家岭	guo jia ling	4
 飞虹新村	fei hong xin cun	4
-军留庄	jun liu zhuang	4
+军留庄	jvn liu zhuang	4
 西蔡村	xi cai cun	4
 方砖厂	fang zhuan chang	4
 睦村乡	mu cun xiang	4
@@ -32396,7 +32396,7 @@ sort: by_weight
 杨芳林乡	yang fang lin xiang	4
 全兴路中	quan xing lu zhong	4
 杨家坝乡	yang jia ba xiang	4
-陈绍宽故居	chen shao kuan gu ju	4
+陈绍宽故居	chen shao kuan gu jv	4
 山东枣庄市峄城区	shan dong zao zhuang shi yi cheng qu	4
 四棵乡	si ke xiang	4
 常营北路	chang ying bei lu	4
@@ -32417,7 +32417,7 @@ sort: by_weight
 大经厂	da jing chang	4
 潍坊风筝博物馆	wei fang feng zheng bo wu guan	4
 洪门街道	hong men jie dao	4
-君临紫金	jun lin zi jin	4
+君临紫金	jvn lin zi jin	4
 椿木乡	chun mu xiang	4
 双溪桥	shuang xi qiao	4
 十里银杏	shi li yin xing	4
@@ -32439,7 +32439,7 @@ sort: by_weight
 嘉德园小区	jia de yuan xiao qu	4
 朱梅路	zhu mei lu	4
 白沙二	bai sha er	4
-桃园居委会	tao yuan ju wei hui	4
+桃园居委会	tao yuan jv wei hui	4
 三元桥北	san yuan qiao bei	4
 八家社区	ba jia she qu	4
 休屠王	xiu tu wang	4
@@ -32468,7 +32468,7 @@ sort: by_weight
 沐三	mu san	4
 龙堌	long gu	4
 静怡花苑	jing yi hua yuan	4
-泰山郡	tai shan jun	4
+泰山郡	tai shan jvn	4
 西裱褙胡同	xi biao bei hu tong	4
 劈柴胡同	pi chai hu tong	4
 四和村	si he cun	4
@@ -32582,7 +32582,7 @@ sort: by_weight
 九里步	jiu li bu	4
 洪岭村	hong ling cun	4
 渠洋镇	qu yang zhen	4
-将军坨风景区	jiang jun tuo feng jing qu	4
+将军坨风景区	jiang jvn tuo feng jing qu	4
 宝善公寓	bao shan gong yu	4
 依吉乡	yi ji xiang	4
 神西乡	shen xi xiang	4
@@ -32610,7 +32610,7 @@ sort: by_weight
 大平台乡	da ping tai xiang	4
 杜门	du men	4
 灯光村	deng guang cun	4
-菊江	ju jiang	4
+菊江	jv jiang	4
 翔山	xiang shan	4
 华茂路	hua mao lu	4
 上新塘	shang xin tang	4
@@ -32618,13 +32618,13 @@ sort: by_weight
 呼玛新村	hu ma xin cun	4
 荆川路	jing chuan lu	4
 甲英乡	jia ying xiang	4
-将军港	jiang jun gang	4
+将军港	jiang jvn gang	4
 猫猫沟	mao mao gou	4
 前坂	qian ban	4
 瑶麓瑶族乡	yao lu yao zu xiang	4
 汾江立交	fen jiang li jiao	4
 宋各庄乡	song ge zhuang xiang	4
-五原郡	wu yuan jun	4
+五原郡	wu yuan jvn	4
 石园北区	shi yuan bei qu	4
 屏襄门街道	ping xiang men jie dao	4
 老范寨乡	lao fan zhai xiang	4
@@ -32680,7 +32680,7 @@ sort: by_weight
 天伦北里社区	tian lun bei li she qu	4
 王顶堤立交桥	wang ding di li jiao qiao	4
 潘集寨学校	pan ji zhai xue xiao	4
-冯子材故居	feng zi cai gu ju	4
+冯子材故居	feng zi cai gu jv	4
 东沿村	dong yan cun	4
 龙鼓洲	long gu zhou	4
 飞云江农场	fei yun jiang nong chang	4
@@ -32691,7 +32691,7 @@ sort: by_weight
 周家堡	zhou jia bao	4
 中木村	zhong mu cun	4
 雅干	ya gan	4
-弘燕名居	hong yan ming ju	4
+弘燕名居	hong yan ming jv	4
 青杉路	qing shan lu	4
 小翔凤胡同	xiao xiang feng hu tong	4
 方形广场	fang xing guang chang	4
@@ -32732,7 +32732,7 @@ sort: by_weight
 岳扎乡	yue zha xiang	4
 六道湾医院	liu dao wan yi yuan	4
 独柏村	du bai cun	4
-石狮市国土资源局	shi shi shi guo tu zi yuan ju	4
+石狮市国土资源局	shi shi shi guo tu zi yuan jv	4
 散滩	san tan	4
 丰收新村	feng shou xin cun	4
 惠新东桥东	hui xin dong qiao dong	4
@@ -32749,7 +32749,7 @@ sort: by_weight
 映月潭	ying yue tan	4
 上海青浦区练塘镇	shang hai qing pu qu lian tang zhen	4
 朱坑镇	zhu keng zhen	4
-新安居委会	xin an ju wei hui	4
+新安居委会	xin an jv wei hui	4
 瀛洲湾	ying zhou wan	4
 思贤乡	si xian xiang	4
 八里屯	ba li tun	4
@@ -32822,13 +32822,13 @@ sort: by_weight
 南大井	nan da jing	4
 互助路口	hu zhu lu kou	4
 酒泉县	jiu quan xian	4
-达居乡	da ju xiang	4
+达居乡	da jv xiang	4
 活力村	huo li cun	4
 广东东莞市谢岗镇	guang dong dong guan shi xie gang zhen	4
 海滨湾	hai bin wan	4
 大家洼街道	da jia wa jie dao	4
 绿岛华庭	lv dao hua ting	4
-延庆公安局	yan qing gong an ju	4
+延庆公安局	yan qing gong an jv	4
 月眉村	yue mei cun	4
 御屏	yu ping	4
 仙公山	xian gong shan	4
@@ -32838,7 +32838,7 @@ sort: by_weight
 李厝	li cuo	4
 王府庄村	wang fu zhuang cun	4
 杨舒乡	yang shu xiang	4
-翰林雅居	han lin ya ju	4
+翰林雅居	han lin ya jv	4
 良城美景	liang cheng mei jing	4
 首都师范大学北门	shou du shi fan da xue bei men	4
 小西堡乡	xiao xi bao xiang	4
@@ -32886,8 +32886,8 @@ sort: by_weight
 葫芦湾	hu lu wan	4
 门头新村	men tou xin cun	4
 元祥	yuan xiang	4
-汉中郡	han zhong jun	4
-青炭局胡同	qing tan ju hu tong	4
+汉中郡	han zhong jvn	4
+青炭局胡同	qing tan jv hu tong	4
 岭角	ling jiao	4
 东黄城乡	dong huang cheng xiang	4
 梁祝公园	liang zhu gong yuan	4
@@ -32903,7 +32903,7 @@ sort: by_weight
 衡阳县岣嵝峰林场	heng yang xian gou lou feng lin chang	4
 溪洋村	xi yang cun	4
 陈古镇	chen gu zhen	4
-聚胜花园	ju sheng hua yuan	4
+聚胜花园	jv sheng hua yuan	4
 圆通庵	yuan tong an	4
 王泮庄	wang pan zhuang	4
 景秀花园	jing xiu hua yuan	4
@@ -33012,7 +33012,7 @@ sort: by_weight
 外碧村	wai bi cun	4
 北堂子胡同	bei tang zi hu tong	4
 后牛角胡同	hou niu jiao hu tong	4
-永巨街道	yong ju jie dao	4
+永巨街道	yong jv jie dao	4
 新桥边	xin qiao bian	4
 容里中学	rong li zhong xue	4
 蒲圻市	pu qi shi	4
@@ -33048,7 +33048,7 @@ sort: by_weight
 更知乡	geng zhi xiang	4
 沙柳路	sha liu lu	4
 福源巷	fu yuan xiang	4
-伊吾军马场	yi wu jun ma chang	4
+伊吾军马场	yi wu jvn ma chang	4
 大成县	da cheng xian	4
 杏树岗	xing shu gang	4
 洋埔	yang pu	4
@@ -33109,7 +33109,7 @@ sort: by_weight
 青铜路	qing tong lu	4
 林浦水闸	lin pu shui zha	4
 电台道	dian tai dao	4
-万聚庄村	wan ju zhuang cun	4
+万聚庄村	wan jv zhuang cun	4
 下十号村	xia shi hao cun	4
 吴窑	wu yao	4
 北苑路大屯北站	bei yuan lu da tun bei zhan	4
@@ -33117,7 +33117,7 @@ sort: by_weight
 察布乡	cha bu xiang	4
 新盛乡	xin sheng xiang	4
 郫花路口	pi hua lu kou	4
-石狮市民政局	shi shi shi min zheng ju	4
+石狮市民政局	shi shi shi min zheng jv	4
 九都乡	jiu dou xiang	4
 南天花园	nan tian hua yuan	4
 巽寮镇	xun liao zhen	4
@@ -33176,7 +33176,7 @@ sort: by_weight
 岩脚乡	yan jiao xiang	4
 箭厂胡同	jian chang hu tong	4
 广秀路	guang xiu lu	4
-聚宝新城	ju bao xin cheng	4
+聚宝新城	jv bao xin cheng	4
 留下村	liu xia cun	4
 王厝村	wang cuo cun	4
 红岭林场	hong ling lin chang	4
@@ -33237,12 +33237,12 @@ sort: by_weight
 北京青年湖公园	bei jing qing nian hu gong yuan	4
 古城台街道	gu cheng tai jie dao	4
 梭罗村	suo luo cun	4
-火炬街道	huo ju jie dao	4
+火炬街道	huo jv jie dao	4
 安丰路	an feng lu	4
 川王府	chuan wang fu	4
 静安花苑	jing an hua yuan	4
 吴桥村村委会	wu qiao cun cun wei hui	4
-黄土台居委会	huang tu tai ju wei hui	4
+黄土台居委会	huang tu tai jv wei hui	4
 上海奉贤区庄行镇	shang hai feng xian qu zhuang xing zhen	4
 北苑之星	bei yuan zhi xing	4
 阳固镇	yang gu zhen	4
@@ -33622,7 +33622,7 @@ sort: by_weight
 杨园街道	yang yuan jie dao	3
 鲁基乡	lu ji xiang	3
 共兴镇	gong xing zhen	3
-汝南郡	ru nan jun	3
+汝南郡	ru nan jvn	3
 粤秀连峰	yue xiu lian feng	3
 元和建材城	yuan he jian cai cheng	3
 怡德路	yi de lu	3
@@ -33637,7 +33637,7 @@ sort: by_weight
 德州新村	de zhou xin cun	3
 青台山	qing tai shan	3
 阿兹觉乡	a zi jue xiang	3
-房山交通局	fang shan jiao tong ju	3
+房山交通局	fang shan jiao tong jv	3
 兴山村	xing shan cun	3
 小口袋胡同	xiao kou dai hu tong	3
 吊滩乡	diao tan xiang	3
@@ -33671,7 +33671,7 @@ sort: by_weight
 西里河村	xi li he cun	3
 西立交北	xi li jiao bei	3
 兴业东路	xing ye dong lu	3
-安定郡	an ding jun	3
+安定郡	an ding jvn	3
 石排埔	shi pai pu	3
 大场东街	da chang dong jie	3
 水踏村	shui ta cun	3
@@ -33683,7 +33683,7 @@ sort: by_weight
 洪梅村	hong mei cun	3
 西长街街道	xi chang jie jie dao	3
 沙尔宗乡	sha er zong xiang	3
-顺义影剧院	shun yi ying ju yuan	3
+顺义影剧院	shun yi ying jv yuan	3
 阿孜乡	a zi xiang	3
 大沙西路	da sha xi lu	3
 小海字村	xiao hai zi cun	3
@@ -33698,7 +33698,7 @@ sort: by_weight
 东城区沙滩后街	dong cheng qu sha tan hou jie	3
 钟埭镇	zhong dai zhen	3
 北京海淀区上庄镇	bei jing hai dian qu shang zhuang zhen	3
-昌平环保局	chang ping huan bao ju	3
+昌平环保局	chang ping huan bao jv	3
 清风雅静	qing feng ya jing	3
 僧固	seng gu	3
 祥平大厦	xiang ping da sha	3
@@ -33765,7 +33765,7 @@ sort: by_weight
 郭辛庄村	guo xin zhuang cun	3
 横岭背	heng ling bei	3
 村场村	cun chang cun	3
-梁銶琚夫人幼儿园	liang qiu ju fu ren you er yuan	3
+梁銶琚夫人幼儿园	liang qiu jv fu ren you er yuan	3
 美女献花	mei nv xian hua	3
 南珠西大街	nan zhu xi da jie	3
 陇塘村	long tang cun	3
@@ -33783,7 +33783,7 @@ sort: by_weight
 石子坪村	shi zi ping cun	3
 灰墩办事处	hui dun ban shi chu	3
 巴彦嵯岗苏木	ba yan cuo gang su mu	3
-炬光乡	ju guang xiang	3
+炬光乡	jv guang xiang	3
 孙庄村委会	sun zhuang cun wei hui	3
 泗滨村	si bin cun	3
 顾渚山	gu zhu shan	3
@@ -33953,7 +33953,7 @@ sort: by_weight
 沃底乡	wo di xiang	3
 溪洋	xi yang	3
 北附	bei fu	3
-加郡	jia jun	3
+加郡	jia jvn	3
 便民街东口	bian min jie dong kou	3
 二菜场	er cai chang	3
 畲话	she hua	3
@@ -33975,7 +33975,7 @@ sort: by_weight
 赵家巷	zhao jia xiang	3
 新王朝酒店	xin wang chao jiu dian	3
 洪都街道	hong dou jie dao	3
-三成局村	san cheng ju cun	3
+三成局村	san cheng jv cun	3
 南驿	nan yi	3
 杨闸路口南	yang zha lu kou nan	3
 房山北关	fang shan bei guan	3
@@ -33986,7 +33986,7 @@ sort: by_weight
 南开五纬路	nan kai wu wei lu	3
 龙江碧树园	long jiang bi shu yuan	3
 城市院落	cheng shi yuan luo	3
-延庆地税局	yan qing di shui ju	3
+延庆地税局	yan qing di shui jv	3
 福星花园社区	fu xing hua yuan she qu	3
 锦江苑	jin jiang yuan	3
 马家滩镇	ma jia tan zhen	3
@@ -34015,7 +34015,7 @@ sort: by_weight
 露礁	lu jiao	3
 葡东社区	pu dong she qu	3
 长丰新村	zhang feng xin cun	3
-弘农郡	hong nong jun	3
+弘农郡	hong nong jvn	3
 拉希德港	la xi de gang	3
 内许	nei xu	3
 中赵甫村	zhong zhao fu cun	3
@@ -34056,10 +34056,10 @@ sort: by_weight
 四元桥西	si yuan qiao xi	3
 大贺庄	da he zhuang	3
 三姓街	san xing jie	3
-星河名居	xing he ming ju	3
+星河名居	xing he ming jv	3
 樊家寨	fan jia zhai	3
 树林子乡	shu lin zi xiang	3
-涪陵郡	fu ling jun	3
+涪陵郡	fu ling jvn	3
 金安桥北	jin an qiao bei	3
 阿巴坎市	a ba kan shi	3
 兰州道	lan zhou dao	3
@@ -34163,7 +34163,7 @@ sort: by_weight
 香槟湾	xiang bin wan	3
 晴冬园社区	qing dong yuan she qu	3
 雁陶村	yan tao cun	3
-拒洪社区	ju hong she qu	3
+拒洪社区	jv hong she qu	3
 拉玉乡	la yu xiang	3
 东主楼	dong zhu lou	3
 留智庙镇	liu zhi miao zhen	3
@@ -34321,7 +34321,7 @@ sort: by_weight
 扶大镇	fu da zhen	3
 大西湖村	da xi hu cun	3
 大关东四苑	da guan dong si yuan	3
-三元居委会	san yuan ju wei hui	3
+三元居委会	san yuan jv wei hui	3
 和顺村	he shun cun	3
 新城中路	xin cheng zhong lu	3
 石狮市鸿山镇伍堡村	shi shi shi hong shan zhen wu bao cun	3
@@ -34419,7 +34419,7 @@ sort: by_weight
 俸伯小学	feng bo xiao xue	3
 陶下	tao xia	3
 北京人家北门	bei jing ren jia bei men	3
-通州国税局北	tong zhou guo shui ju bei	3
+通州国税局北	tong zhou guo shui jv bei	3
 琪林苏井	qi lin su jing	3
 石油大学东门	shi you da xue dong men	3
 甘江头乡	gan jiang tou xiang	3
@@ -34457,7 +34457,7 @@ sort: by_weight
 松麦镇	song mai zhen	3
 秦祁乡	qin qi xiang	3
 五庄村	wu zhuang cun	3
-聚豪园小区	ju hao yuan xiao qu	3
+聚豪园小区	jv hao yuan xiao qu	3
 秦屯	qin tun	3
 大曹庄乡	da cao zhuang xiang	3
 刘家台乡	liu jia tai xiang	3
@@ -34466,7 +34466,7 @@ sort: by_weight
 蔡家大门	cai jia da men	3
 五龙壮族乡	wu long zhuang zu xiang	3
 按院胡同	an yuan hu tong	3
-聚宝社区	ju bao she qu	3
+聚宝社区	jv bao she qu	3
 欣荣路	xin rong lu	3
 唐炳	tang bing	3
 恩济东街北口	en ji dong jie bei kou	3
@@ -34501,7 +34501,7 @@ sort: by_weight
 鲁吉乡	lu ji xiang	3
 杨浦体育场	yang pu ti yu chang	3
 西营子	xi ying zi	3
-左局街	zuo ju jie	3
+左局街	zuo jv jie	3
 纽家巷	niu jia xiang	3
 古邵	gu shao	3
 官道路口	guan dao lu kou	3
@@ -34536,7 +34536,7 @@ sort: by_weight
 巴兰基利亚	ba lan ji li ya	3
 科技四路东段	ke ji si lu dong duan	3
 逻西乡	luo xi xiang	3
-老鹰咀	lao ying ju	3
+老鹰咀	lao ying jv	3
 马冢村	ma zhong cun	3
 棉山	mian shan	3
 口岗	kou gang	3
@@ -34563,7 +34563,7 @@ sort: by_weight
 豆腐营街道	dou fu ying jie dao	3
 吉坑	ji keng	3
 关爷庙	guan ye miao	3
-建宁郡	jian ning jun	3
+建宁郡	jian ning jvn	3
 亦庄实验学校	yi zhuang shi yan xue xiao	3
 望京北路东口	wang jing bei lu dong kou	3
 赤湖村	chi hu cun	3
@@ -34591,7 +34591,7 @@ sort: by_weight
 太平胡同	tai ping hu tong	3
 坑南村	keng nan cun	3
 前北岸	qian bei an	3
-东大街居委会	dong da jie ju wei hui	3
+东大街居委会	dong da jie jv wei hui	3
 绿园度假村	lv yuan du jia cun	3
 国茂大酒店	guo mao da jiu dian	3
 和平西桥北	he ping xi qiao bei	3
@@ -34600,7 +34600,7 @@ sort: by_weight
 柯鲁柯镇	ke lu ke zhen	3
 山峰林场	shan feng lin chang	3
 杨树岭乡	yang shu ling xiang	3
-军庄小学	jun zhuang xiao xue	3
+军庄小学	jvn zhuang xiao xue	3
 觉海寺	jue hai si	3
 濑湍镇	lai tuan zhen	3
 赤湾五路	chi wan wu lu	3
@@ -34666,7 +34666,7 @@ sort: by_weight
 微笑堂	wei xiao tang	3
 河图村	he tu cun	3
 古贲	gu ben	3
-石狮市教育局	shi shi shi jiao yu ju	3
+石狮市教育局	shi shi shi jiao yu jv	3
 西管头	xi guan tou	3
 新农校	xin nong xiao	3
 五和南路	wu he nan lu	3
@@ -34692,7 +34692,7 @@ sort: by_weight
 永和庄村	yong he zhuang cun	3
 柏树头	bai shu tou	3
 黄石口乡	huang shi kou xiang	3
-武都郡	wu dou jun	3
+武都郡	wu dou jvn	3
 蚌谷乡	bang gu xiang	3
 西阳泽乡	xi yang ze xiang	3
 水漾人家	shui yang ren jia	3
@@ -34703,12 +34703,12 @@ sort: by_weight
 冒家巷	mao jia xiang	3
 北站立交桥	bei zhan li jiao qiao	3
 日华路	ri hua lu	3
-观澜影剧院	guan lan ying ju yuan	3
+观澜影剧院	guan lan ying jv yuan	3
 新开中路	xin kai zhong lu	3
 方盛园	fang sheng yuan	3
 城建新村	cheng jian xin cun	3
 嘉禾桥	jia he qiao	3
-方正林业局	fang zheng lin ye ju	3
+方正林业局	fang zheng lin ye jv	3
 燕平乡	yan ping xiang	3
 裕民路社区	yu min lu she qu	3
 关卜乡	guan bo xiang	3
@@ -34744,7 +34744,7 @@ sort: by_weight
 五鹤村	wu he cun	3
 套浩太乡	tao hao tai xiang	3
 注沟	zhu gou	3
-菊花岛乡	ju hua dao xiang	3
+菊花岛乡	jv hua dao xiang	3
 菜粿	cai guo	3
 正大花园	zheng da hua yuan	3
 大取灯胡同	da qu deng hu tong	3
@@ -34805,7 +34805,7 @@ sort: by_weight
 浙江温岭市松门镇	zhe jiang wen ling shi song men zhen	3
 李正芬	li zheng fen	3
 半壁店森林公园	ban bi dian sen lin gong yuan	3
-军庄镇政府	jun zhuang zhen zheng fu	3
+军庄镇政府	jvn zhuang zhen zheng fu	3
 大关东三苑	da guan dong san yuan	3
 西三里	xi san li	3
 高崖子牧场	gao ya zi mu chang	3
@@ -34914,7 +34914,7 @@ sort: by_weight
 松柏里	song bai li	3
 桃坞路	tao wu lu	3
 齐山路	qi shan lu	3
-梵古水郡小区	fan gu shui jun xiao qu	3
+梵古水郡小区	fan gu shui jvn xiao qu	3
 铁井栏	tie jing lan	3
 镇子梁乡	zhen zi liang xiang	3
 常堡乡	chang bao xiang	3
@@ -35034,7 +35034,7 @@ sort: by_weight
 福井村	fu jing cun	3
 馒头山路口	man tou shan lu kou	3
 乌昌路街道	wu chang lu jie dao	3
-建南居委会	jian nan ju wei hui	3
+建南居委会	jian nan jv wei hui	3
 庄子营	zhuang zi ying	3
 丽山村	li shan cun	3
 源盛路	yuan sheng lu	3
@@ -35048,7 +35048,7 @@ sort: by_weight
 树生桥	shu sheng qiao	3
 响动岩	xiang dong yan	3
 郭公村	guo gong cun	3
-聚福林	ju fu lin	3
+聚福林	jv fu lin	3
 玉太乡	yu tai xiang	3
 下水腰村	xia shui yao cun	3
 大峪子	da yu zi	3
@@ -35085,7 +35085,7 @@ sort: by_weight
 仙家村	xian jia cun	3
 鄚州镇	mao zhou zhen	3
 膺福街	ying fu jie	3
-李贽故居	li zhi gu ju	3
+李贽故居	li zhi gu jv	3
 巴集乡	ba ji xiang	3
 黄竹园	huang zhu yuan	3
 广益村	guang yi cun	3
@@ -35169,7 +35169,7 @@ sort: by_weight
 罗波乡	luo bo xiang	3
 江苏海门市包场镇	jiang su hai men shi bao chang zhen	3
 大庆路街道办事处	da qing lu jie dao ban shi chu	3
-林山居委会	lin shan ju wei hui	3
+林山居委会	lin shan jv wei hui	3
 中道村	zhong dao cun	3
 公腊胡洞乡	gong la hu dong xiang	3
 望楚	wang chu	3
@@ -35260,7 +35260,7 @@ sort: by_weight
 京科苑	jing ke yuan	3
 契爷岭	qi ye ling	3
 高石庄乡	gao shi zhuang xiang	3
-密云交通局	mi yun jiao tong ju	3
+密云交通局	mi yun jiao tong jv	3
 黄茶村	huang cha cun	3
 向阳里街道	xiang yang li jie dao	3
 福祥路	fu xiang lu	3
@@ -35270,7 +35270,7 @@ sort: by_weight
 河上村	he shang cun	3
 聂家湾	nie jia wan	3
 白垭乡	bai ya xiang	3
-武威郡	wu wei jun	3
+武威郡	wu wei jvn	3
 梅沟营	mei gou ying	3
 栏杆街道	lan gan jie dao	3
 黑石头路南口	hei shi tou lu nan kou	3
@@ -35350,7 +35350,7 @@ sort: by_weight
 对溪村	dui xi cun	3
 固安汽车站	gu an qi che zhan	3
 王木营村	wang mu ying cun	3
-龙华居委会	long hua ju wei hui	3
+龙华居委会	long hua jv wei hui	3
 常庄村委会	chang zhuang cun wei hui	3
 霞园	xia yuan	3
 黄良镇	huang liang zhen	3
@@ -35399,7 +35399,7 @@ sort: by_weight
 复南	fu nan	3
 莲峰村	lian feng cun	3
 西黄村小区	xi huang cun xiao qu	3
-吉粮康郡	ji liang kang jun	3
+吉粮康郡	ji liang kang jvn	3
 钱家溇	qian jia lou	3
 普惠寺社区	pu hui si she qu	3
 回龙湾村	hui long wan cun	3
@@ -35440,7 +35440,7 @@ sort: by_weight
 苏前社区	su qian she qu	3
 杨米涧乡	yang mi jian xiang	3
 竹林新村	zhu lin xin cun	3
-拒城河	ju cheng he	3
+拒城河	jv cheng he	3
 礼明庄	li ming zhuang	3
 广东路外滩	guang dong lu wai tan	3
 汽研所	qi yan suo	3
@@ -35452,7 +35452,7 @@ sort: by_weight
 联谊村	lian yi cun	3
 解放坝	jie fang ba	3
 小渭村	xiao wei cun	3
-君悦城市花园	jun yue cheng shi hua yuan	3
+君悦城市花园	jvn yue cheng shi hua yuan	3
 樵湖岭	qiao hu ling	3
 南小街中里	nan xiao jie zhong li	3
 白蘋洲	bai ping zhou	3
@@ -35661,7 +35661,7 @@ sort: by_weight
 詹庄子路	zhan zhuang zi lu	3
 加尤镇	jia you zhen	3
 婺江新村	wu jiang xin cun	3
-郁林郡	yu lin jun	3
+郁林郡	yu lin jvn	3
 尔力	er li	3
 财大社区	cai da she qu	3
 西花厅胡同	xi hua ting hu tong	3
@@ -35687,7 +35687,7 @@ sort: by_weight
 容山商场	rong shan shang chang	3
 苏丰村	su feng cun	3
 炭厂村	tan chang cun	3
-监军庄	jian jun zhuang	3
+监军庄	jian jvn zhuang	3
 十三股	shi san gu	3
 花园台	hua yuan tai	3
 柴塔村	chai ta cun	3?
@@ -35789,10 +35789,10 @@ sort: by_weight
 虬江码头	qiu jiang ma tou	3
 则拉乡	ze la xiang	3
 密云西大桥	mi yun xi da qiao	3
-手鞠	shou ju	3
+手鞠	shou jv	3
 坡塘	po tang	3
 莲屿	lian yu	3
-大红门集美家居	da hong men ji mei jia ju	3
+大红门集美家居	da hong men ji mei jia jv	3
 旱卡子滩哈萨克族乡	han qia zi tan ha sa ke zu xiang	3
 小武基桥西	xiao wu ji qiao xi	3
 西利社区	xi li she qu	3
@@ -35820,7 +35820,7 @@ sort: by_weight
 金都新城	jin dou xin cheng	3
 台江港务	tai jiang gang wu	3
 义蓬镇	yi peng zhen	3
-和平居委会	he ping ju wei hui	3
+和平居委会	he ping jv wei hui	3
 樟树头	zhang shu tou	3
 双一村	shuang yi cun	3
 下马岭	xia ma ling	3
@@ -35858,7 +35858,7 @@ sort: by_weight
 东秀庄乡	dong xiu zhuang xiang	3
 东新开胡同	dong xin kai hu tong	3
 托普软件园	tuo pu ruan jian yuan	3
-明珠影剧院	ming zhu ying ju yuan	3
+明珠影剧院	ming zhu ying jv yuan	3
 照镜镇	zhao jing zhen	3
 金地商都	jin de shang dou	3
 毕家乡	bi jia xiang	3
@@ -35889,7 +35889,7 @@ sort: by_weight
 上海青浦区朱家角镇	shang hai qing pu qu zhu jia jiao zhen	3
 东昌村	dong chang cun	3
 嘉园二里东门	jia yuan er li dong men	3
-马驹桥商业街西口	ma ju qiao shang ye jie xi kou	3
+马驹桥商业街西口	ma jv qiao shang ye jie xi kou	3
 常营民族小区	chang ying min zu xiao qu	3
 锦县	jin xian	3
 同卡镇	tong ka zhen	3
@@ -35946,7 +35946,7 @@ sort: by_weight
 西坂	xi ban	3
 娃娃山	wa wa shan	3
 安宁里南站	an ning li nan zhan	3
-茂林居	mao lin ju	3
+茂林居	mao lin jv	3
 攮子	nang zi	3
 一节路	yi jie lu	3
 双桥路中	shuang qiao lu zhong	3
@@ -36065,7 +36065,7 @@ sort: by_weight
 荆紫山	jing zi shan	3
 八卦新村	ba gua xin cun	3
 漳浒寨	zhang hu zhai	3
-驹章胡同	ju zhang hu tong	3
+驹章胡同	jv zhang hu tong	3
 李公祠大街	li gong ci da jie	3
 杭州绿园	hang zhou lv yuan	3
 贾家弄新村	jia jia nong xin cun	3
@@ -36107,7 +36107,7 @@ sort: by_weight
 新窝铺村	xin wo pu cun	3
 哈医大五院	ha yi da wu yuan	3
 小纱帽	xiao sha mao	3
-燕郊冶金一局	yan jiao ye jin yi ju	3
+燕郊冶金一局	yan jiao ye jin yi jv	3
 庆云村	qing yun cun	3
 纳浪乡	na lang xiang	3
 范店乡	fan dian xiang	3
@@ -36141,7 +36141,7 @@ sort: by_weight
 横板村	heng ban cun	3
 鹊桥路	que qiao lu	3
 曲峪镇	qu yu zhen	3
-民安居	min an ju	3
+民安居	min an jv	3
 欣和街	xin he jie	3
 凇虹路	song hong lu	3
 佳林路	jia lin lu	3
@@ -36153,7 +36153,7 @@ sort: by_weight
 八里庄北里东站	ba li zhuang bei li dong zhan	3
 福迪汽贸	fu di qi mao	3
 余家林	yu jia lin	3
-沙头居委会	sha tou ju wei hui	3
+沙头居委会	sha tou jv wei hui	3
 东垡村	dong fa cun	3
 梁二庄乡	liang er zhuang xiang	3
 永堌镇	yong gu zhen	3
@@ -36188,7 +36188,7 @@ sort: by_weight
 仝沟村	tong gou cun	3
 三北防护林带	san bei fang hu lin dai	3
 建材城环岛	jian cai cheng huan dao	3
-均昌	jun chang	3
+均昌	jvn chang	3
 严家院子	yan jia yuan zi	3
 周家屯	zhou jia tun	3
 切热乡	qie re xiang	3
@@ -36308,7 +36308,7 @@ sort: by_weight
 玉溪高新技术产业开发区	yu xi gao xin ji shu chan ye kai fa qu	2
 西仓门	xi cang men	2
 申九	shen jiu	2
-诺丁山郡	nuo ding shan jun	2
+诺丁山郡	nuo ding shan jvn	2
 唐家口	tang jia kou	2
 洛三高速	luo san gao su	2
 岭下山	ling xia shan	2
@@ -36330,15 +36330,15 @@ sort: by_weight
 上楼背	shang lou bei	2
 瓦利斯和富图纳	wa li si he fu tu na	2
 郑国路	zheng guo lu	2
-高黎居委会	gao li ju wei hui	2
+高黎居委会	gao li jv wei hui	2
 东田庄	dong tian zhuang	2
 袁家村村委会	yuan jia cun cun wei hui	2
 普萨牧场	pu sa mu chang	2
-火车站居委会	huo che zhan ju wei hui	2
+火车站居委会	huo che zhan jv wei hui	2
 永和支路	yong he zhi lu	2
 三德大酒店	san de da jiu dian	2
 红旗宾馆	hong qi bin guan	2
-扫管军营	sao guan jun ying	2
+扫管军营	sao guan jvn ying	2
 尹家畈村	yin jia fan cun	2
 桑宝拉格苏木	sang bao la ge su mu	2
 鹿茵酒店	lu yin jiu dian	2
@@ -36363,7 +36363,7 @@ sort: by_weight
 新铺社区	xin pu she qu	2
 民祥园	min xiang yuan	2
 埔上	pu shang	2
-军张村	jun zhang cun	2
+军张村	jvn zhang cun	2
 古现街道	gu xian jie dao	2
 埔仔	pu zai	2
 桂林宾馆	gui lin bin guan	2
@@ -36381,7 +36381,7 @@ sort: by_weight
 长扶	zhang fu	2
 朝阳医院分院	zhao yang yi yuan fen yuan	2
 赖家新桥	lai jia xin qiao	2
-军田坝	jun tian ba	2
+军田坝	jvn tian ba	2
 玛曲乡	ma qu xiang	2
 水龙乡	shui long xiang	2
 东新园南门	dong xin yuan nan men	2
@@ -36400,7 +36400,7 @@ sort: by_weight
 下新厝	xia xin cuo	2
 珍地村	zhen de cun	2
 振林街道	zhen lin jie dao	2
-四员厅居委会	si yuan ting ju wei hui	2
+四员厅居委会	si yuan ting jv wei hui	2
 洪北社区	hong bei she qu	2
 民康药业	min kang yao ye	2
 石平桥	shi ping qiao	2
@@ -36464,14 +36464,14 @@ sort: by_weight
 曹公泉	cao gong quan	2
 经岭村	jing ling cun	2
 措折强玛乡	cuo zhe qiang ma xiang	2
-朗晴名居	lang qing ming ju	2
+朗晴名居	lang qing ming jv	2
 南城脚	nan cheng jiao	2
 独石沟乡	du shi gou xiang	2
 高庙子	gao miao zi	2
-军船头	jun chuan tou	2
+军船头	jvn chuan tou	2
 冒襄	mao xiang	2
 来安里	lai an li	2
-郡治江州	jun zhi jiang zhou	2
+郡治江州	jvn zhi jiang zhou	2
 吉利墟	ji li xu	2
 白卡卡	bai ka ka	2
 穿山街道	chuan shan jie dao	2
@@ -36520,7 +36520,7 @@ sort: by_weight
 大乘胡同	da cheng hu tong	2
 苦竹山	ku zhu shan	2
 陆慕镇	lu mu zhen	2
-将军衙门街	jiang jun ya men jie	2
+将军衙门街	jiang jvn ya men jie	2
 湖格社区	hu ge she qu	2
 神塘	shen tang	2
 周家乡政府	zhou jia xiang zheng fu	2
@@ -36562,7 +36562,7 @@ sort: by_weight
 江浦路延吉西路	jiang pu lu yan ji xi lu	2
 邵阳坪	shao yang ping	2
 新兴中路	xin xing zhong lu	2
-拒城	ju cheng	2
+拒城	jv cheng	2
 仙岭村	xian ling cun	2
 奎德素镇	kui de su zhen	2
 白海子镇	bai hai zi zhen	2
@@ -36577,7 +36577,7 @@ sort: by_weight
 割山村	ge shan cun	2
 水心邮电	shui xin you dian	2
 平房东口	ping fang dong kou	2
-河南郡	he nan jun	2
+河南郡	he nan jvn	2
 尖山水库	jian shan shui ku	2
 洼堤乡	wa di xiang	2
 白石碑	bai shi bei	2
@@ -36596,7 +36596,7 @@ sort: by_weight
 夏堡	xia bao	2
 古县村	gu xian cun	2
 鼓楼区乌山路	gu lou qu wu shan lu	2
-昌平地税局	chang ping di shui ju	2
+昌平地税局	chang ping di shui jv	2
 清源市场	qing yuan shi chang	2
 石狮市鸳鸯池	shi shi shi yuan yang chi	2
 湖东中路	hu dong zhong lu	2
@@ -36612,7 +36612,7 @@ sort: by_weight
 南岗子社区	nan gang zi she qu	2
 西辛第一社区	xi xin di yi she qu	2
 金家村桥西	jin jia cun qiao xi	2
-石狮市卫生局	shi shi shi wei sheng ju	2
+石狮市卫生局	shi shi shi wei sheng jv	2
 保税区港区	bao shui qu gang qu	2
 合建楼社区	he jian lou she qu	2
 民族商务酒店	min zu shang wu jiu dian	2
@@ -36695,7 +36695,7 @@ sort: by_weight
 丁溪村	ding xi cun	2
 留安	liu an	2
 广东中山市坦洲镇	guang dong zhong shan shi tan zhou zhen	2
-滨康路聚工路口	bin kang lu ju gong lu kou	2
+滨康路聚工路口	bin kang lu jv gong lu kou	2
 东升厂	dong sheng chang	2
 山家村	shan jia cun	2
 兴安宾馆	xing an bin guan	2
@@ -36737,7 +36737,7 @@ sort: by_weight
 通城巷	tong cheng xiang	2
 馒头驻	man tou zhu	2
 西扬威胡同	xi yang wei hu tong	2
-新民居委会	xin min ju wei hui	2
+新民居委会	xin min jv wei hui	2
 三营门南	san ying men nan	2
 董埔	dong pu	2
 北京团结湖公园	bei jing tuan jie hu gong yuan	2
@@ -36788,7 +36788,7 @@ sort: by_weight
 珠洋村	zhu yang cun	2
 皇洲花园	huang zhou hua yuan	2
 嘉园三里北	jia yuan san li bei	2
-税务局巷	shui wu ju xiang	2
+税务局巷	shui wu jv xiang	2
 岗西小区	gang xi xiao qu	2
 达帮乡	da bang xiang	2
 老羊寨	lao yang zhai	2
@@ -36818,12 +36818,12 @@ sort: by_weight
 奇饭	qi fan	2
 潘家园桥北	pan jia yuan qiao bei	2
 笼新	long xin	2
-红兴隆分局	hong xing long fen ju	2
+红兴隆分局	hong xing long fen jv	2
 加拉萨乡	jia la sa xiang	2
 龙安桥镇	long an qiao zhen	2
 山东龙口市东江镇	shan dong long kou shi dong jiang zhen	2
 门前牌	men qian pai	2
-华东家具广场	hua dong jia ju guang chang	2
+华东家具广场	hua dong jia jv guang chang	2
 新华明渠路	xin hua ming qu lu	2
 术布乡	shu bu xiang	2
 宜宾道	yi bin dao	2
@@ -36858,7 +36858,7 @@ sort: by_weight
 新成花园	xin cheng hua yuan	2
 跃钢家属院	yue gang jia shu yuan	2
 兵团七十九团	bing tuan qi shi jiu tuan	2
-军寮	jun liao	2
+军寮	jvn liao	2
 大园地	da yuan di	2
 泰陵园村	tai ling yuan cun	2
 华捷道	hua jie dao	2
@@ -36882,7 +36882,7 @@ sort: by_weight
 黄杜村	huang du cun	2
 西龙头乡	xi long tou xiang	2
 川掌	chuan zhang	2
-地兴居	de xing ju	2
+地兴居	de xing jv	2
 五号村	wu hao cun	2
 园区总站	yuan qu zong zhan	2
 达洛乡	da luo xiang	2
@@ -37002,7 +37002,7 @@ sort: by_weight
 溪后	xi hou	2
 江热夏乡	jiang re xia xiang	2
 那哈乡	na ha xiang	2
-菌边村	jun bian cun	2
+菌边村	jvn bian cun	2
 伍浦村	wu pu cun	2
 丰益桥北	feng yi qiao bei	2
 马首乡	ma shou xiang	2
@@ -37028,7 +37028,7 @@ sort: by_weight
 焦王庄路口	jiao wang zhuang lu kou	2
 西铭乡	xi ming xiang	2
 望怀社区	wang huai she qu	2
-鲁郡	lu jun	2
+鲁郡	lu jvn	2
 西八里新村	xi ba li xin cun	2
 白竹园	bai zhu yuan	2
 仓湾	cang wan	2
@@ -37043,7 +37043,7 @@ sort: by_weight
 云峰宾馆	yun feng bin guan	2
 罗暮乡	luo mu xiang	2
 银花苑	yin hua yuan	2
-现代家具广场	xian dai jia ju guang chang	2
+现代家具广场	xian dai jia jv guang chang	2
 东关菜市场	dong guan cai shi chang	2
 德外关厢	de wai guan xiang	2
 泰东路渡口	tai dong lu du kou	2
@@ -37072,7 +37072,7 @@ sort: by_weight
 大石岭乡	da shi ling xiang	2
 桐木山	tong mu shan	2
 王牌电器公司	wang pai dian qi gong si	2
-马头滩林业局	ma tou tan lin ye ju	2
+马头滩林业局	ma tou tan lin ye jv	2
 锦江街	jin jiang jie	2
 禾洞农林场	he dong nong lin chang	2
 西羊羔乡	xi yang gao xiang	2
@@ -37099,17 +37099,17 @@ sort: by_weight
 徐州市公园巷小学	xu zhou shi gong yuan xiang xiao xue	2
 库依乡	ku yi xiang	2
 江桥三村	jiang qiao san cun	2
-定襄郡	ding xiang jun	2
+定襄郡	ding xiang jvn	2
 后洋陈路	hou yang chen lu	2
 移山乡	yi shan xiang	2
 铜鼓峪	tong gu yu	2
 东浦镇政府	dong pu zhen zheng fu	2
 黄道侗族乡	huang dao dong zu xiang	2
 刷经寺镇	shua jing si zhen	2
-渔阳郡	yu yang jun	2
+渔阳郡	yu yang jvn	2
 湘潭道	xiang tan dao	2
 赠科乡	zeng ke xiang	2
-乔庄北街居委会	qiao zhuang bei jie ju wei hui	2
+乔庄北街居委会	qiao zhuang bei jie jv wei hui	2
 玉溪县	yu xi xian	2
 学堂墩	xue tang dun	2
 东胡林	dong hu lin	2
@@ -37135,7 +37135,7 @@ sort: by_weight
 大关南七苑	da guan nan qi yuan	2
 豆嘴胡同	dou zui hu tong	2
 吉尔孟乡	ji er meng xiang	2
-永乐居委会	yong le ju wei hui	2
+永乐居委会	yong le jv wei hui	2
 陆渠	lu qu	2
 弼佑乡	bi you xiang	2
 石狮市水务处	shi shi shi shui wu chu	2
@@ -37185,7 +37185,7 @@ sort: by_weight
 余家坝	yu jia ba	2
 南市大街	nan shi da jie	2
 董家梁	dong jia liang	2
-未央区交通局	wei yang qu jiao tong ju	2
+未央区交通局	wei yang qu jiao tong jv	2
 广中路水电路	guang zhong lu shui dian lu	2
 北京财政学院	bei jing cai zheng xue yuan	2
 白菜沟	bai cai gou	2
@@ -37220,7 +37220,7 @@ sort: by_weight
 明德满族乡	ming de man zu xiang	2
 矿市街道	kuang shi jie dao	2
 富达广场	fu da guang chang	2
-龙门居	long men ju	2
+龙门居	long men jv	2
 华亭苑	hua ting yuan	2
 园坂村	yuan ban cun	2
 二平台村	er ping tai cun	2
@@ -37259,7 +37259,7 @@ sort: by_weight
 东一条路	dong yi tiao lu	2
 拉藏乡	la cang xiang	2
 双柳巷社区	shuang liu xiang she qu	2
-老君堂南站	lao jun tang nan zhan	2
+老君堂南站	lao jvn tang nan zhan	2
 花楼街道	hua lou jie dao	2
 俄多马乡	e duo ma xiang	2
 周桥新村	zhou qiao xin cun	2
@@ -37283,7 +37283,7 @@ sort: by_weight
 深洋村	shen yang cun	2
 单晶河乡	dan jing he xiang	2
 采哈乡	cai ha xiang	2
-铜山县国税局	tong shan xian guo shui ju	2
+铜山县国税局	tong shan xian guo shui jv	2
 夏湾新村	xia wan xin cun	2
 义圩镇	yi wei zhen	2
 季家村	ji jia cun	2
@@ -37315,18 +37315,18 @@ sort: by_weight
 福洋村	fu yang cun	2
 嘉年华城堡	jia nian hua cheng bao	2
 闪电河乡	shan dian he xiang	2
-安居坊	an ju fang	2
+安居坊	an jv fang	2
 新地号街道	xin de hao jie dao	2
 贾家坪镇	jia jia ping zhen	2
 圣基尔达岛	sheng ji er da dao	2
 岳庄村委会	yue zhuang cun wei hui	2
 珠江塑料厂	zhu jiang su liao chang	2
-剧场村	ju chang cun	2
+剧场村	jv chang cun	2
 气瓶站	qi ping zhan	2
 灞桥发电厂	ba qiao fa dian chang	2
 澄湖路	cheng hu lu	2
 仙女滩	xian nv tan	2
-民主街居委会	min zhu jie ju wei hui	2
+民主街居委会	min zhu jie jv wei hui	2
 大成苑	da cheng yuan	2
 公店乡	gong dian xiang	2
 株木桥	zhu mu qiao	2
@@ -37408,7 +37408,7 @@ sort: by_weight
 国营龙山农场	guo ying long shan nong chang	2
 建东街东段	jian dong jie dong duan	2
 环州乡	huan zhou xiang	2
-举源村	ju yuan cun	2
+举源村	jv yuan cun	2
 天山砖厂	tian shan zhuan chang	2
 小港新村	xiao gang xin cun	2
 坭金镇	ni jin zhen	2
@@ -37435,7 +37435,7 @@ sort: by_weight
 福辉路	fu hui lu	2
 吴兴大道	wu xing da dao	2
 普巴绒乡	pu ba rong xiang	2
-巨村	ju cun	2
+巨村	jv cun	2
 茶家村	cha jia cun	2
 合肥道	he fei dao	2
 景溪村	jing xi cun	2
@@ -37493,7 +37493,7 @@ sort: by_weight
 七里墩街道	qi li dun jie dao	2
 江田村	jiang tian cun	2
 贺南村	he nan cun	2
-怀柔旅游局	huai rou lv you ju	2
+怀柔旅游局	huai rou lv you jv	2
 岜饶乡	ba rao xiang	2
 泗河街道	si he jie dao	2
 凯佐乡	kai zuo xiang	2
@@ -37557,7 +37557,7 @@ sort: by_weight
 西贯市	xi guan shi	2
 华阳绕城路口	hua yang rao cheng lu kou	2
 李四官庄村	li si guan zhuang cun	2
-马驹村	ma ju cun	2
+马驹村	ma jv cun	2
 中张村	zhong zhang cun	2
 玉皇阁大街	yu huang ge da jie	2
 龙山南路	long shan nan lu	2
@@ -37621,7 +37621,7 @@ sort: by_weight
 藜山乡	li shan xiang	2
 大汉七十二峰	da han qi shi er feng	2
 纳雍乡	na yong xiang	2
-三路居社区	san lu ju she qu	2
+三路居社区	san lu jv she qu	2
 矿建街	kuang jian jie	2
 离心机厂	li xin ji chang	2
 陆家湾村	lu jia wan cun	2
@@ -37646,7 +37646,7 @@ sort: by_weight
 谷曲乡	gu qu xiang	2
 康有为墓	kang you wei mu	2
 金穗街	jin sui jie	2
-石狮市科技文体旅游局	shi shi shi ke ji wen ti lv you ju	2
+石狮市科技文体旅游局	shi shi shi ke ji wen ti lv you jv	2
 米家务乡	mi jia wu xiang	2
 草厂横胡同	cao chang heng hu tong	2
 沟门子镇	gou men zi zhen	2
@@ -37659,7 +37659,7 @@ sort: by_weight
 西楼后街	xi lou hou jie	2
 西山吓	xi shan xia	2
 前七里河	qian qi li he	2
-火炬镇	huo ju zhen	2
+火炬镇	huo jv zhen	2
 四合村村委会	si he cun cun wei hui	2
 黄雷乡	huang lei xiang	2
 陆家院子	lu jia yuan zi	2
@@ -37679,7 +37679,7 @@ sort: by_weight
 荷园餐厅	he yuan can ting	2
 复兴庄	fu xing zhuang	2
 施家务村	shi jia wu cun	2
-茂林居社区	mao lin ju she qu	2
+茂林居社区	mao lin jv she qu	2
 阿察乡	a cha xiang	2
 联想桥北	lian xiang qiao bei	2
 群益街	qun yi jie	2
@@ -37694,7 +37694,7 @@ sort: by_weight
 兵团农十二师五一农场	bing tuan nong shi er shi wu yi nong chang	2
 刘汉乡	liu han xiang	2
 金都雅苑	jin dou ya yuan	2
-东方家园家具广场	dong fang jia yuan jia ju guang chang	2
+东方家园家具广场	dong fang jia yuan jia jv guang chang	2
 文泽路学林街口	wen ze lu xue lin jie kou	2
 西直河北口	xi zhi he bei kou	2
 大鹁鸽胡同	da bo ge hu tong	2
@@ -37706,7 +37706,7 @@ sort: by_weight
 瑶琳路	yao lin lu	2
 畜牧厂	xu mu chang	2
 洲陂乡	zhou bei xiang	2
-平安居	ping an ju	2
+平安居	ping an jv	2
 窦家庄	dou jia zhuang	2
 大岭水库	da ling shui ku	2
 油恰乡	you qia xiang	2
@@ -37741,11 +37741,11 @@ sort: by_weight
 板栗垭乡	ban li ya xiang	2
 中十六联合站	zhong shi liu lian he zhan	2
 王家大湖农场	wang jia da hu nong chang	2
-长塘居委会	zhang tang ju wei hui	2
+长塘居委会	zhang tang jv wei hui	2
 三和小区	san he xiao qu	2
 电子二路小区	dian zi er lu xiao qu	2
 联漾村	lian yang cun	2
-巨家镇	ju jia zhen	2
+巨家镇	jv jia zhen	2
 文复乡	wen fu xiang	2
 紫竹园公园	zi zhu yuan gong yuan	2
 丙底乡	bing di xiang	2
@@ -37773,7 +37773,7 @@ sort: by_weight
 马鬃苗族乡	ma zong miao zu xiang	2
 龙禹加油站	long yu jia you zhan	2
 华锦路	hua jin lu	2
-城阳郡	cheng yang jun	2
+城阳郡	cheng yang jvn	2
 联中村	lian zhong cun	2
 湖外路	hu wai lu	2
 西四北三条社区	xi si bei san tiao she qu	2
@@ -37868,7 +37868,7 @@ sort: by_weight
 含元殿村	han yuan dian cun	2
 浙江长兴县洪桥镇	zhe jiang chang xing xian hong qiao zhen	2
 退沙街道	tui sha jie dao	2
-巴州司法局	ba zhou si fa ju	2
+巴州司法局	ba zhou si fa jv	2
 石井头林场	shi jing tou lin chang	2
 固县乡	gu xian xiang	2
 南堤寺东村	nan di si dong cun	2
@@ -37889,7 +37889,7 @@ sort: by_weight
 赖厝社区	lai cuo she qu	2
 中大颐和湾	zhong da yi he wan	2
 小江村委会	xiao jiang cun wei hui	2
-国家体育总局社区	guo jia ti yu zong ju she qu	2
+国家体育总局社区	guo jia ti yu zong jv she qu	2
 马道梁	ma dao liang	2
 亭川	ting chuan	2
 松兰堡	song lan bao	2
@@ -37899,7 +37899,7 @@ sort: by_weight
 白堆乡	bai dui xiang	2
 小李集办事处	xiao li ji ban shi chu	2
 河海中路	he hai zhong lu	2
-君坝乡	jun ba xiang	2
+君坝乡	jvn ba xiang	2
 亭店	ting dian	2
 陶家宅	tao jia zhai	2
 下大城	xia dai cheng	2
@@ -37976,13 +37976,13 @@ sort: by_weight
 新大陆科技园	xin da lu ke ji yuan	2
 蓝城路	lan cheng lu	2
 甘岸街道	gan an jie dao	2
-大石南路菊乐路口	da shi nan lu ju le lu kou	2
+大石南路菊乐路口	da shi nan lu jv le lu kou	2
 星桥镇	xing qiao zhen	2
 楼张村	lou zhang cun	2
 红水河镇	hong shui he zhen	2
 鲁谷路衙门口	lu gu lu ya men kou	2
 阁山乡	ge shan xiang	2
-巨宝庄镇	ju bao zhuang zhen	2
+巨宝庄镇	jv bao zhuang zhen	2
 盘县特区	pan xian te qu	2
 大台乡	da tai xiang	2
 三圣祠街	san sheng ci jie	2
@@ -38040,7 +38040,7 @@ sort: by_weight
 中心坑	zhong xin keng	2
 云庄村	yun zhuang cun	2
 中西顺城街	zhong xi shun cheng jie	2
-五里仓家具城	wu li cang jia ju cheng	2
+五里仓家具城	wu li cang jia jv cheng	2
 沙马乡	sha ma xiang	2
 龙溪南路	long xi nan lu	2
 下贡麻乡	xia gong ma xiang	2
@@ -38071,7 +38071,7 @@ sort: by_weight
 江山领秀	jiang shan ling xiu	2
 观斗苗族乡	guan dou miao zu xiang	2
 洪井乡	hong jing xiang	2
-炎陵县桃源洞管理局	yan ling xian tao yuan dong guan li ju	2
+炎陵县桃源洞管理局	yan ling xian tao yuan dong guan li jv	2
 松溪乡	song xi xiang	2
 扯旗山	che qi shan	2
 花庄村委会	hua zhuang cun wei hui	2
@@ -38401,7 +38401,7 @@ sort: by_weight
 邯郸道	han dan dao	2
 曹家村委会	cao jia cun wei hui	2
 建黎乡	jian li xiang	2
-统军庄	tong jun zhuang	2
+统军庄	tong jvn zhuang	2
 青塔芳园	qing ta fang yuan	2
 坂田村委	ban tian cun wei	2
 北穆家峪村	bei mu jia yu cun	2
@@ -38511,7 +38511,7 @@ sort: by_weight
 东风铁路桥	dong feng tie lu qiao	2
 好又多联信店	hao you duo lian xin dian	2
 牡丹园北站	mu dan yuan bei zhan	2
-梁銶琚中学	liang qiu ju zhong xue	2
+梁銶琚中学	liang qiu jv zhong xue	2
 孤兀禺山	gu wu yu shan	2
 大苏吉乡	da su ji xiang	2
 大翔凤胡同	da xiang feng hu tong	2
@@ -38606,7 +38606,7 @@ sort: by_weight
 戴山村	dai shan cun	2
 武江桥	wu jiang qiao	2
 魁多乡	kui duo xiang	2
-军庄镇新村	jun zhuang zhen xin cun	2
+军庄镇新村	jvn zhuang zhen xin cun	2
 指阳乡	zhi yang xiang	2
 北新平胡同	bei xin ping hu tong	2
 湾里小区	wan li xiao qu	2
@@ -38664,7 +38664,7 @@ sort: by_weight
 罗古村	luo gu cun	2
 夏特柯尔克孜族乡	xia te ke er ke zi zu xiang	2
 虞山桥	yu shan qiao	2
-祥和居委会	xiang he ju wei hui	2
+祥和居委会	xiang he jv wei hui	2
 南霞美村	nan xia mei cun	2
 三湖村	san hu cun	2
 次渠路口	ci qu lu kou	2
@@ -38862,9 +38862,9 @@ sort: by_weight
 小白楼村	xiao bai lou cun	2
 东街村委会	dong jie cun wei hui	2
 华兴道	hua xing dao	2
-居易时代	ju yi shi dai	2
+居易时代	jv yi shi dai	2
 北蒲州营村	bei pu zhou ying cun	2
-新建街居委会	xin jian jie ju wei hui	2
+新建街居委会	xin jian jie jv wei hui	2
 古楼坪村	gu lou ping cun	2
 小孤山镇	xiao gu shan zhen	2
 师达学校	shi da xue xiao	2
@@ -38946,7 +38946,7 @@ sort: by_weight
 台官李村	tai guan li cun	2
 贺家沟	he jia gou	2
 和平管区	he ping guan qu	2
-线务局	xian wu ju	2
+线务局	xian wu jv	2
 丛山村	cong shan cun	2
 景明花园	jing ming hua yuan	2
 浙江德清县武康镇	zhe jiang de qing xian wu kang zhen	2
@@ -39000,7 +39000,7 @@ sort: by_weight
 化工一路	hua gong yi lu	2
 火车南站机场路	huo che nan zhan ji chang lu	2
 岩坡村	yan po cun	2
-沈钧儒故居	shen jun ru gu ju	2
+沈钧儒故居	shen jvn ru gu jv	2
 现代装潢市场	xian dai zhuang huang shi chang	2
 沙峪沟村	sha yu gou cun	2
 斜桥巷	xie qiao xiang	2
@@ -39049,7 +39049,7 @@ sort: by_weight
 于家洼村	yu jia wa cun	2
 木桠镇	mu ya zhen	2
 硕士路	shuo shi lu	2
-聚酯厂	ju zhi chang	2
+聚酯厂	jv zhi chang	2
 东大街北口	dong da jie bei kou	2
 翠景工业区	cui jing gong ye qu	2
 燕郊迎宾路口	yan jiao ying bin lu kou	2
@@ -39063,7 +39063,7 @@ sort: by_weight
 左北里社区	zuo bei li she qu	2
 定中门街道	ding zhong men jie dao	2
 马头村委会	ma tou cun wei hui	2
-丽君街道	li jun jie dao	2
+丽君街道	li jvn jie dao	2
 葛市	ge shi	2
 大盘乡	da pan xiang	2
 南洲大桥	nan zhou da qiao	2
@@ -39080,7 +39080,7 @@ sort: by_weight
 集体乡	ji ti xiang	2
 内蒙古白绒山羊种羊场	nei meng gu bai rong shan yang zhong yang chang	2
 内湖湾	nei hu wan	2
-灞桥公安分局	ba qiao gong an fen ju	2
+灞桥公安分局	ba qiao gong an fen jv	2
 三区三社区	san qu san she qu	2
 静海县静海镇	jing hai xian jing hai zhen	2
 金厦公寓	jin sha gong yu	2
@@ -39103,8 +39103,8 @@ sort: by_weight
 含山村	han shan cun	2
 虎滩港	hu tan gang	2
 亚丁乡	ya ding xiang	2
-菊园东站	ju yuan dong zhan	2
-格瑞雅居小区	ge rui ya ju xiao qu	2
+菊园东站	jv yuan dong zhan	2
+格瑞雅居小区	ge rui ya jv xiao qu	2
 岳各庄红星美凯龙	yue ge zhuang hong xing mei kai long	2
 坭美彝族乡	ni mei yi zu xiang	2
 吴店子	wu dian zi	2
@@ -39165,7 +39165,7 @@ sort: by_weight
 南京迈皋桥创业园	nan jing mai gao qiao chuang ye yuan	2
 新明楼街道	xin ming lou jie dao	2
 积石山保安族	ji shi shan bao an zu	2
-南湾湖军垦农场	nan wan hu jun ken nong chang	2
+南湾湖军垦农场	nan wan hu jvn ken nong chang	2
 西直河中街	xi zhi he zhong jie	2
 中坪乡	zhong ping xiang	2
 鸿顺园小区	hong shun yuan xiao qu	2
@@ -39180,7 +39180,7 @@ sort: by_weight
 上塘路舟山路口	shang tang lu zhou shan lu kou	2
 滨湖南街	bin hu nan jie	2
 南八宝胡同	nan ba bao hu tong	2
-西营居委会	xi ying ju wei hui	2
+西营居委会	xi ying jv wei hui	2
 洪东社区	hong dong she qu	2
 新昌小区	xin chang xiao qu	2
 东辛庄村委会	dong xin zhuang cun wei hui	2
@@ -39207,7 +39207,7 @@ sort: by_weight
 云龙山东门	yun long shan dong men	2
 独松乡	du song xiang	2
 思礼乡	si li xiang	2
-聚和家园	ju he jia yuan	2
+聚和家园	jv he jia yuan	2
 实验室与设备处	shi yan shi yu she bei chu	2
 林下林场	lin xia lin chang	2
 奠安乡	dian an xiang	2
@@ -39314,7 +39314,7 @@ sort: by_weight
 正素巷	zheng su xiang	2
 房辛店	fang xin dian	2
 溪坂村	xi ban cun	2
-菊乐路东	ju le lu dong	2
+菊乐路东	jv le lu dong	2
 后东村	hou dong cun	2
 东贯市	dong guan shi	2
 毕家岗	bi jia gang	2
@@ -39389,7 +39389,7 @@ sort: by_weight
 大渠街道	da qu jie dao	2
 凤凰山农场	feng huang shan nong chang	2
 青羊大道南	qing yang da dao nan	2
-铁十六局东站	tie shi liu ju dong zhan	2
+铁十六局东站	tie shi liu jv dong zhan	2
 钱清原料市场	qian qing yuan liao shi chang	2
 昭平台库区乡	zhao ping tai ku qu xiang	2
 谢楼	xie lou	2
@@ -39468,7 +39468,7 @@ sort: by_weight
 宿纬路	su wei lu	2
 薛圐圙乡	xue ku lve xiang	2
 武峁子乡	wu mao zi xiang	2
-布心山湖居总站	bu xin shan hu ju zong zhan	2
+布心山湖居总站	bu xin shan hu jv zong zhan	2
 茶亭里	cha ting li	2
 小牌坊胡同	xiao pai fang hu tong	2
 大庭村	da ting cun	2
@@ -39606,7 +39606,7 @@ sort: by_weight
 宝珊花园	bao shan hua yuan	1
 上村仔	shang cun zai	1
 白彪村	bai biao cun	1
-海军社区	hai jun she qu	1
+海军社区	hai jvn she qu	1
 姜家店朝鲜族乡	jiang jia dian chao xian zu xiang	1
 白竹水村	bai zhu shui cun	1
 炉地村	lu de cun	1
@@ -39678,14 +39678,14 @@ sort: by_weight
 四甘普乡	si gan pu xiang	1
 南樱桃园路口南	nan ying tao yuan lu kou nan	1
 南樱桃园路口北	nan ying tao yuan lu kou bei	1
-河内郡	he nei jun	1
+河内郡	he nei jvn	1
 宁波大厦	ning bo da sha	1
 宜兴街	yi xing jie	1
 交行大厦	jiao hang da sha	1
 港湖大桥	gang hu da qiao	1
 中天名园	zhong tian ming yuan	1
 麻斜街道	ma xie jie dao	1
-库局乡	ku ju xiang	1
+库局乡	ku jv xiang	1
 郭加乡	guo jia xiang	1
 横山下	heng shan xia	1
 娑罗家园	suo luo jia yuan	1
@@ -39715,7 +39715,7 @@ sort: by_weight
 亭顶村	ting ding cun	1
 歌乐山街道	ge le shan jie dao	1
 南武乡	nan wu xiang	1
-举口村	ju kou cun	1
+举口村	jv kou cun	1
 崇义二街	chong yi er jie	1
 高枧镇	gao jian zhen	1
 龙交乡	long jiao xiang	1
@@ -39738,13 +39738,13 @@ sort: by_weight
 西红门十二村	xi hong men shi er cun	1
 西湖头	xi hu tou	1
 海特花园第一社区	hai te hua yuan di yi she qu	1
-南十里居北站	nan shi li ju bei zhan	1
+南十里居北站	nan shi li jv bei zhan	1
 杨木坪	yang mu ping	1
 大菉镇	da lu zhen	1
 三洲山村	san zhou shan cun	1
 山洲岭	shan zhou ling	1
 台山村	tai shan cun	1
-星河居委会	xing he ju wei hui	1
+星河居委会	xing he jv wei hui	1
 广宁路实验	guang ning lu shi yan	1
 青萍乡	qing ping xiang	1
 电工新村	dian gong xin cun	1
@@ -39934,7 +39934,7 @@ sort: by_weight
 上海松江区石湖荡镇	shang hai song jiang qu shi hu dang zhen	1
 王母山村	wang mu shan cun	1
 金湾新城	jin wan xin cheng	1
-莒光乡	ju guang xiang	1
+莒光乡	jv guang xiang	1
 碧龙乡	bi long xiang	1
 中潭村	zhong tan cun	1
 周岗乡	zhou gang xiang	1
@@ -39954,7 +39954,7 @@ sort: by_weight
 三家店后街	san jia dian hou jie	1
 德新街	de xin jie	1
 新球医院	xin qiu yi yuan	1
-五环家具城	wu huan jia ju cheng	1
+五环家具城	wu huan jia jv cheng	1
 朗杰学乡	lang jie xue xiang	1
 王串场三号路	wang chuan chang san hao lu	1
 南仓道	nan cang dao	1
@@ -39979,14 +39979,14 @@ sort: by_weight
 小街村南口	xiao jie cun nan kou	1
 包谷坪乡	bao gu ping xiang	1
 东北园	dong bei yuan	1
-皂君庙社区	zao jun miao she qu	1
+皂君庙社区	zao jvn miao she qu	1
 庆岭乡	qing ling xiang	1
 温堡乡	wen bao xiang	1
 园山仔	yuan shan zai	1
 杭边村	hang bian cun	1
 永泰胡同	yong tai hu tong	1
 磨市镇磨市	mo shi zhen mo shi	1
-都市雅居	du shi ya ju	1
+都市雅居	du shi ya jv	1
 广和里社区	guang he li she qu	1
 安埠街道	an bu jie dao	1
 陆家庄子	lu jia zhuang zi	1
@@ -40021,7 +40021,7 @@ sort: by_weight
 木尔宗乡	mu er zong xiang	1
 么里镇	me li zhen	1
 永嘉乡	yong jia xiang	1
-东坡雅居	dong po ya ju	1
+东坡雅居	dong po ya jv	1
 浙江绍兴县富盛镇	zhe jiang shao xing xian fu sheng zhen	1
 毛条厂路	mao tiao chang lu	1
 前牛角胡同	qian niu jiao hu tong	1
@@ -40066,7 +40066,7 @@ sort: by_weight
 长阳二村	zhang yang er cun	1
 德包图乡	de bao tu xiang	1
 码口乡	ma kou xiang	1
-双红居委会	shuang hong ju wei hui	1
+双红居委会	shuang hong jv wei hui	1
 高银街东口	gao yin jie dong kou	1
 王老沟	wang lao gou	1
 煤建三处	mei jian san chu	1
@@ -40100,7 +40100,7 @@ sort: by_weight
 十里牌村	shi li pai cun	1
 半屏山路	ban ping shan lu	1
 夏侯村	xia hou cun	1
-巨龙乡	ju long xiang	1
+巨龙乡	jv long xiang	1
 六街坊东社区	liu jie fang dong she qu	1
 梧峰村	wu feng cun	1
 新庄孜	xin zhuang zi	1
@@ -40237,7 +40237,7 @@ sort: by_weight
 雪峰办事处	xue feng ban shi chu	1
 太扬家园社区	tai yang jia yuan she qu	1
 新圩江镇	xin wei jiang zhen	1
-巴州消防局	ba zhou xiao fang ju	1
+巴州消防局	ba zhou xiao fang jv	1
 果园北区	guo yuan bei qu	1
 虹桥北村	hong qiao bei cun	1
 跸驻乡	bi zhu xiang	1
@@ -40283,7 +40283,7 @@ sort: by_weight
 科山公园	ke shan gong yuan	1
 沽源路	gu yuan lu	1
 南浔村	nan xun cun	1
-河北镇邮局	he bei zhen you ju	1
+河北镇邮局	he bei zhen you jv	1
 水洼乡	shui wa xiang	1
 前丰林场	qian feng lin chang	1
 岗山村南站	gang shan cun nan zhan	1
@@ -40358,7 +40358,7 @@ sort: by_weight
 寨湾村	zhai wan cun	1
 江苏溧阳市溧城镇	jiang su li yang shi li cheng zhen	1
 福苑北区	fu yuan bei qu	1
-聚奎园	ju kui yuan	1
+聚奎园	jv kui yuan	1
 东湖酒业公司	dong hu jiu ye gong si	1
 八街坊东社区	ba jie fang dong she qu	1
 祖门村	zu men cun	1
@@ -40376,12 +40376,12 @@ sort: by_weight
 滘工业区	jiao gong ye qu	1
 浙江宁海县西店镇	zhe jiang ning hai xian xi dian zhen	1
 桐树坪	tong shu ping	1
-新松居委会	xin song ju wei hui	1
+新松居委会	xin song jv wei hui	1
 金山投资区	jin shan tou zi qu	1
 潮桥街	chao qiao jie	1
 岔子胡同	cha zi hu tong	1
 甲东街	jia dong jie	1
-内军庄	nei jun zhuang	1
+内军庄	nei jvn zhuang	1
 峡河乡	xia he xiang	1
 范沙村	fan sha cun	1
 吉滩	ji tan	1
@@ -40484,10 +40484,10 @@ sort: by_weight
 大明官庄	da ming guan zhuang	1
 下宫村乡	xia gong cun xiang	1
 金塘路口	jin tang lu kou	1
-重聚园社区	chong ju yuan she qu	1
+重聚园社区	chong jv yuan she qu	1
 花园北路西口	hua yuan bei lu xi kou	1
 戚庄	qi zhuang	1
-石狮市财政局	shi shi shi cai zheng ju	1
+石狮市财政局	shi shi shi cai zheng jv	1
 太湖花园二区	tai hu hua yuan er qu	1
 乐园东社区	le yuan dong she qu	1
 回龙观小区东站	hui long guan xiao qu dong zhan	1
@@ -40550,7 +40550,7 @@ sort: by_weight
 茅林村	mao lin cun	1
 涝港	lao gang	1
 八窝龙乡	ba wo long xiang	1
-峪新居委会	yu xin ju wei hui	1
+峪新居委会	yu xin jv wei hui	1
 洛江科技园	luo jiang ke ji yuan	1
 特补乡	te bu xiang	1
 泉山公园	quan shan gong yuan	1
@@ -40586,7 +40586,7 @@ sort: by_weight
 桥南办	qiao nan ban	1
 岳巴乡	yue ba xiang	1
 尼尔觉乡	ni er jue xiang	1
-举溪村	ju xi cun	1
+举溪村	jv xi cun	1
 砂吉海矿区	sha ji hai kuang qu	1
 宜清路	yi qing lu	1
 牛八宝胡同	niu ba bao hu tong	1
@@ -40688,7 +40688,7 @@ sort: by_weight
 付各庄	fu ge zhuang	1
 湖织大道	hu zhi da dao	1
 后石道胡同	hou shi dao hu tong	1
-柑桔示范场	gan ju shi fan chang	1
+柑桔示范场	gan jv shi fan chang	1
 东宁巷	dong ning xiang	1
 罗山川乡	luo shan chuan xiang	1
 物资大楼	wu zi da lou	1
@@ -40713,7 +40713,7 @@ sort: by_weight
 对旗山	dui qi shan	1
 湖光中街西口	hu guang zhong jie xi kou	1
 槐东村	huai dong cun	1
-石咀驿镇	shi ju yi zhen	1
+石咀驿镇	shi jv yi zhen	1
 白王庄	bai wang zhuang	1
 三元庵胡同	san yuan an hu tong	1
 古营盘村	gu ying pan cun	1
@@ -40937,7 +40937,7 @@ sort: by_weight
 北小河西	bei xiao he xi	1
 积水坝	ji shui ba	1
 合荣村	he rong cun	1
-贾庄居委会	jia zhuang ju wei hui	1
+贾庄居委会	jia zhuang jv wei hui	1
 山子下	shan zi xia	1
 英买里镇	ying mai li zhen	1
 西岭林场	xi ling lin chang	1
@@ -41036,7 +41036,7 @@ sort: by_weight
 宁桥路	ning qiao lu	1
 大刘各庄村	da liu ge zhuang cun	1
 颐和山庄南口	yi he shan zhuang nan kou	1
-民主居委会	min zhu ju wei hui	1
+民主居委会	min zhu jv wei hui	1
 场联路	chang lian lu	1
 贤士湖管委会	xian shi hu guan wei hui	1
 文明胡同	wen ming hu tong	1
@@ -41146,7 +41146,7 @@ sort: by_weight
 林荫家园社区	lin yin jia yuan she qu	1
 方加镇	fang jia zhen	1
 殷屯	yin tun	1
-和平路居委会	he ping lu ju wei hui	1
+和平路居委会	he ping lu jv wei hui	1
 莫斯台街道	mo si tai jie dao	1
 仁宅	ren zhai	1
 临湖学生公寓	lin hu xue sheng gong yu	1
@@ -41179,7 +41179,7 @@ sort: by_weight
 桥河岔乡	qiao he cha xiang	1
 黄磏村	huang lian cun	1
 油泵厂社区	you beng chang she qu	1
-永顺西里居委会	yong shun xi li ju wei hui	1
+永顺西里居委会	yong shun xi li jv wei hui	1
 二十家子满族镇	er shi jia zi man zu zhen	1
 天顺圪梁	tian shun ge liang	1
 工兴街	gong xing jie	1
@@ -41191,7 +41191,7 @@ sort: by_weight
 下烟村	xia yan cun	1
 竹杆巷	zhu gan xiang	1
 岐头山	qi tou shan	1
-马军巷社区	ma jun xiang she qu	1
+马军巷社区	ma jvn xiang she qu	1
 黄花塔拉镇	huang hua ta la zhen	1
 北韩乡	bei han xiang	1
 昌艺园社区	chang yi yuan she qu	1
@@ -41214,14 +41214,14 @@ sort: by_weight
 明水满族乡	ming shui man zu xiang	1
 安富市场	an fu shi chang	1
 张营村委会	zhang ying cun wei hui	1
-南大街居委会	nan da jie ju wei hui	1
+南大街居委会	nan da jie jv wei hui	1
 河北迁安市蔡园镇	he bei qian an shi cai yuan zhen	1
 华威南路东口	hua wei nan lu dong kou	1
 良丰农场	liang feng nong chang	1
 西埌镇	xi lang zhen	1
 嘉顺花园	jia shun hua yuan	1
 青林回族维吾尔族乡	qing lin hui zu wei wu er zu xiang	1
-山咀子镇	shan ju zi zhen	1
+山咀子镇	shan jv zi zhen	1
 热寺湾乡	re si wan xiang	1
 蒙古营子村	meng gu ying zi cun	1
 淮塔东路	huai ta dong lu	1
@@ -41454,7 +41454,7 @@ sort: by_weight
 辛安镇乡	xin an zhen xiang	1
 大成街道	da cheng jie dao	1
 育芳胡同	yu fang hu tong	1
-鞠桥	ju qiao	1
+鞠桥	jv qiao	1
 吉卡乡	ji ka xiang	1
 浙江慈溪市新浦镇	zhe jiang ci xi shi xin pu zhen	1
 北井儿胡同	bei jing er hu tong	1
@@ -41509,7 +41509,7 @@ sort: by_weight
 八圩镇	ba wei zhen	1
 玉霞社区	yu xia she qu	1
 杨楼孜镇	yang lou zi zhen	1
-军区联勤部大院社区	jun qu lian qin bu da yuan she qu	1
+军区联勤部大院社区	jvn qu lian qin bu da yuan she qu	1
 周路口街道	zhou lu kou jie dao	1
 盖德村	gai de cun	1
 国棉五六厂	guo mian wu liu chang	1
@@ -41609,7 +41609,7 @@ sort: by_weight
 十字街西	shi zi jie xi	1
 塔石瑶族水族乡	ta shi yao zu shui zu xiang	1
 东马尾帽胡同	dong ma yi mao hu tong	1
-军仓乡	jun cang xiang	1
+军仓乡	jvn cang xiang	1
 蛇形祠	she xing ci	1
 瓜园乡	gua yuan xiang	1
 南亚医院	nan ya yi yuan	1
@@ -41659,7 +41659,7 @@ sort: by_weight
 遗光寺社区	yi guang si she qu	1
 党庙村	dang miao cun	1
 柴关乡	chai guan xiang	1
-南湖东园居委会	nan hu dong yuan ju wei hui	1
+南湖东园居委会	nan hu dong yuan jv wei hui	1
 永常村	yong chang cun	1
 湾弄	wan nong	1
 兴丰北大街	xing feng bei da jie	1
@@ -41715,7 +41715,7 @@ sort: by_weight
 养禽厂	yang qin chang	1
 古城回族乡	gu cheng hui zu xiang	1
 苏坨村	su tuo cun	1
-鞠庄	ju zhuang	1
+鞠庄	jv zhuang	1
 高坡巷	gao po xiang	1
 金霞路街道	jin xia lu jie dao	1
 沙北街道	sha bei jie dao	1
@@ -41747,7 +41747,7 @@ sort: by_weight
 科技大学管庄校区	ke ji da xue guan zhuang xiao qu	1
 鴜鹭树镇	ci lu shu zhen	1
 双洛乡	shuang luo xiang	1
-石狮市国税局	shi shi shi guo shui ju	1
+石狮市国税局	shi shi shi guo shui jv	1
 湖滨一号	hu bin yi hao	1
 裕龙西区	yu long xi qu	1
 水屯村委会	shui tun cun wei hui	1
@@ -41832,7 +41832,7 @@ sort: by_weight
 宝盖胡同	bao gai hu tong	1
 乌岩岭林场	wu yan ling lin chang	1
 丁山乡	ding shan xiang	1
-局儿胡同	ju er hu tong	1
+局儿胡同	jv er hu tong	1
 国营大岭农场	guo ying da ling nong chang	1
 三间房东村	san jian fang dong cun	1
 哈尔墩乡	ha er dun xiang	1
@@ -41853,7 +41853,7 @@ sort: by_weight
 北丽桥	bei li qiao	1
 平阳桥	ping yang qiao	1
 敦仁巷	dun ren xiang	1
-屯军营村	tun jun ying cun	1
+屯军营村	tun jvn ying cun	1
 小胡家营村	xiao hu jia ying cun	1
 南大山满族乡	nan da shan man zu xiang	1
 鸡鸣乡	ji ming xiang	1
@@ -41889,13 +41889,13 @@ sort: by_weight
 上柴厂	shang chai chang	1
 赤湾路	chi wan lu	1
 公交二场	gong jiao er chang	1
-右局巷	you ju xiang	1
+右局巷	you jv xiang	1
 肖良乡	xiao liang xiang	1
 七里亭村	qi li ting cun	1
 对面坡	dui mian po	1
 车站中里社区	che zhan zhong li she qu	1
 马鞍池新村	ma an chi xin cun	1
-逸仙名居	yi xian ming ju	1
+逸仙名居	yi xian ming jv	1
 赵港	zhao gang	1
 张老营	zhang lao ying	1
 仁爱花园	ren ai hua yuan	1
@@ -41923,11 +41923,11 @@ sort: by_weight
 云路公园	yun lu gong yuan	1
 塔照村	ta zhao cun	1
 富建胡同	fu jian hu tong	1
-聚源商场	ju yuan shang chang	1
+聚源商场	jv yuan shang chang	1
 风光大酒店	feng guang da jiu dian	1
 魏家店	wei jia dian	1
 金峰大市场	jin feng da shi chang	1
-东方俊园	dong fang jun yuan	1
+东方俊园	dong fang jvn yuan	1
 团华村	tuan hua cun	1
 启安村	qi an cun	1
 德坞街道	de wu jie dao	1
@@ -41938,7 +41938,7 @@ sort: by_weight
 宝洲小商品市场	bao zhou xiao shang pin shi chang	1
 省会银川市	sheng hui yin chuan shi	1
 笋浯社区	sun wu she qu	1
-军粮城镇永兴村	jun liang cheng zhen yong xing cun	1
+军粮城镇永兴村	jvn liang cheng zhen yong xing cun	1
 西单北大街社区	xi dan bei da jie she qu	1
 广开二马路	guang kai er ma lu	1
 石板房胡同	shi ban fang hu tong	1
@@ -42027,7 +42027,7 @@ sort: by_weight
 佟家务村	tong jia wu cun	1
 东良各庄村	dong liang ge zhuang cun	1
 索家坟第二社区	suo jia fen di er she qu	1
-老君山镇	lao jun shan zhen	1
+老君山镇	lao jvn shan zhen	1
 新浮桥	xin fu qiao	1
 十一农场	shi yi nong chang	1
 叶家坪	ye jia ping	1
@@ -42047,7 +42047,7 @@ sort: by_weight
 浙江萧山区瓜沥镇	zhe jiang xiao shan qu gua li zhen	1
 修家沟	xiu jia gou	1
 芒普乡	mang pu xiang	1
-石狮市司法局宝盖司法所	shi shi shi si fa ju bao gai si fa suo	1
+石狮市司法局宝盖司法所	shi shi shi si fa jv bao gai si fa suo	1
 浙江诸暨市山下湖镇	zhe jiang zhu ji shi shan xia hu zhen	1
 逢简市场	feng jian shi chang	1
 小沉渎村	xiao chen du cun	1
@@ -42119,7 +42119,7 @@ sort: by_weight
 罕艾日克乡	han ai ri ke xiang	1
 红亮垦殖场	hong liang ken zhi chang	1
 浦贝彝族乡	pu bei yi zu xiang	1
-昆西居委会	kun xi ju wei hui	1
+昆西居委会	kun xi jv wei hui	1
 幼平乡	you ping xiang	1
 徐州市公园巷幼儿园	xu zhou shi gong yuan xiang you er yuan	1
 神仙村	shen xian cun	1
@@ -42156,7 +42156,7 @@ sort: by_weight
 南沟沿胡同	nan gou yan hu tong	1
 南坑乡	nan keng xiang	1
 芦院村	lu yuan cun	1
-巨化生活区	ju hua sheng huo qu	1
+巨化生活区	jv hua sheng huo qu	1
 人人乐西丽店	ren ren le xi li dian	1
 顺义滨河小区	shun yi bin he xiao qu	1
 延江街道	yan jiang jie dao	1
@@ -42245,7 +42245,7 @@ sort: by_weight
 高密市朝阳街道办事处	gao mi shi zhao yang jie dao ban shi chu	1
 上固乡	shang gu xiang	1
 贾戈庄	jia ge zhuang	1
-桔儿胡同	ju er hu tong	1
+桔儿胡同	jv er hu tong	1
 立汤路口	li tang lu kou	1
 惠安乡	hui an xiang	1
 亚峰农贸市场	ya feng nong mao shi chang	1
@@ -42263,7 +42263,7 @@ sort: by_weight
 礼贤一村	li xian yi cun	1
 安阳街	an yang jie	1
 葫峰	hu feng	1
-绍兴剧院	shao xing ju yuan	1
+绍兴剧院	shao xing jv yuan	1
 坪营	ping ying	1
 外寨村	wai zhai cun	1
 杭州市上城区秋涛路	hang zhou shi shang cheng qu qiu tao lu	1
@@ -42378,7 +42378,7 @@ sort: by_weight
 兴手袋厂	xing shou dai chang	1
 陇海路街道	long hai lu jie dao	1
 野租乡	ye zu xiang	1
-关庄居委会	guan zhuang ju wei hui	1
+关庄居委会	guan zhuang jv wei hui	1
 镇小路	zhen xiao lu	1
 周坑村	zhou keng cun	1
 西翠路口西	xi cui lu kou xi	1
@@ -42394,7 +42394,7 @@ sort: by_weight
 闫村村委会	yan cun cun wei hui	1
 浦达路	pu da lu	1
 泥朵乡	ni duo xiang	1
-石佛营东里居委会	shi fu ying dong li ju wei hui	1
+石佛营东里居委会	shi fu ying dong li jv wei hui	1
 桃美村	tao mei cun	1
 万利镇	wan li zhen	1
 奎山公园	kui shan gong yuan	1
@@ -42483,7 +42483,7 @@ sort: by_weight
 岩比乡	yan bi xiang	1
 河口屯	he kou tun	1
 五顷塬回族乡	wu qing yuan hui zu xiang	1
-悟仙观居委会	wu xian guan ju wei hui	1
+悟仙观居委会	wu xian guan jv wei hui	1
 北孙各庄	bei sun ge zhuang	1
 轻纺城西市场	qing fang cheng xi shi chang	1
 莲花苑社区	lian hua yuan she qu	1
@@ -42494,7 +42494,7 @@ sort: by_weight
 黑嘎乡	hei ga xiang	1
 丰庆街	feng qing jie	1
 开城里街口	kai cheng li jie kou	1
-妇联居委会	fu lian ju wei hui	1
+妇联居委会	fu lian jv wei hui	1
 车鸣峪乡	che ming yu xiang	1
 大兴大羊坊	da xing da yang fang	1
 高佃一村	gao dian yi cun	1
@@ -42534,14 +42534,14 @@ sort: by_weight
 东湖影院	dong hu ying yuan	1
 锦丰村	jin feng cun	1
 韶关市第九中学	shao guan shi di jiu zhong xue	1
-静居寺南路	jing ju si nan lu	1
+静居寺南路	jing jv si nan lu	1
 四黄村	si huang cun	1
 三堡公寓	san bao gong yu	1
 西溪桥	xi xi qiao	1
 昌吉县	chang ji xian	1
 义和庄东里社区	yi he zhuang dong li she qu	1
 阿合亚乡	a he ya xiang	1
-马家居委会	ma jia ju wei hui	1
+马家居委会	ma jia jv wei hui	1
 山仔里	shan zai li	1
 浙江宁海县黄坛镇	zhe jiang ning hai xian huang tan zhen	1
 西双山	xi shuang shan	1
@@ -42575,7 +42575,7 @@ sort: by_weight
 板溪林场	ban xi lin chang	1
 吕村南站	lv cun nan zhan	1
 环清社区	huan qing she qu	1
-流坑管理局	liu keng guan li ju	1
+流坑管理局	liu keng guan li jv	1
 新泾七村	xin jing qi cun	1
 南泉新村	nan quan xin cun	1
 青塘路	qing tang lu	1
@@ -42721,7 +42721,7 @@ sort: by_weight
 燕家胡同	yan jia hu tong	1
 格宗乡	ge zong xiang	1
 建星路口	jian xing lu kou	1
-华润君悦酒店	hua run jun yue jiu dian	1
+华润君悦酒店	hua run jvn yue jiu dian	1
 流星花园西门	liu xing hua yuan xi men	1
 下廿里铺乡	xia nian li pu xiang	1
 门堂乡	men tang xiang	1
@@ -42804,7 +42804,7 @@ sort: by_weight
 枫情国度尚园	feng qing guo du shang yuan	1
 钟家墩村	zhong jia dun cun	1
 古福村	gu fu cun	1
-菊园实验学校	ju yuan shi yan xue xiao	1
+菊园实验学校	jv yuan shi yan xue xiao	1
 龙家坝	long jia ba	1
 老石坎村	lao shi kan cun	1
 省南湖劳教所	sheng nan hu lao jiao suo	1
@@ -42839,7 +42839,7 @@ sort: by_weight
 子牙河南路	zi ya he nan lu	1
 谢家堡乡	xie jia bao xiang	1
 广东台山市台城镇	guang dong tai shan shi tai cheng zhen	1
-古城剧场	gu cheng ju chang	1
+古城剧场	gu cheng jv chang	1
 团河路北口	tuan he lu bei kou	1
 榕东街道	rong dong jie dao	1
 海游街	hai you jie	1
@@ -42871,7 +42871,7 @@ sort: by_weight
 七十二团场	qi shi er tuan chang	1
 百望新城	bai wang xin cheng	1
 时济乡	shi ji xiang	1
-夹道居	jia dao ju	1
+夹道居	jia dao jv	1
 后厝社区	hou cuo she qu	1
 多彩乡	duo cai xiang	1
 白金海岸花园	bai jin hai an hua yuan	1
@@ -42899,7 +42899,7 @@ sort: by_weight
 潞城营四村	lu cheng ying si cun	1
 大鉴寺	da jian si	1
 一字桥	yi zi qiao	1
-陈咀镇渔坝口村	chen ju zhen yu ba kou cun	1
+陈咀镇渔坝口村	chen jv zhen yu ba kou cun	1
 自治区直辖县级行政单位	zi zhi qu zhi xia xian ji xing zheng dan wei	1
 文丞相胡同	wen cheng xiang hu tong	1
 大开岭村	da kai ling cun	1
@@ -42996,7 +42996,7 @@ sort: by_weight
 甲烈乡	jia lie xiang	1
 保安河	bao an he	1
 大城西乡	dai cheng xi xiang	1
-泉巨永乡	quan ju yong xiang	1
+泉巨永乡	quan jv yong xiang	1
 营前寨	ying qian zhai	1
 竹园下	zhu yuan xia	1
 焦王庄北口	jiao wang zhuang bei kou	1
@@ -43064,7 +43064,7 @@ sort: by_weight
 东白疃村	dong bai tuan cun	1
 顺义火车站	shun yi huo che zhan	1
 晴山蓝城	qing shan lan cheng	1
-尤俊村	you jun cun	1
+尤俊村	you jvn cun	1
 郝家墕乡	hao jia yan xiang	1
 山东平度市南村镇	shan dong ping du shi nan cun zhen	1
 西磁各庄	xi ci ge zhuang	1
@@ -43154,7 +43154,7 @@ sort: by_weight
 亮丽道	liang li dao	1
 北深沟	bei shen gou	1
 马克堂镇	ma ke tang zhen	1
-青石咀镇	qing shi ju zhen	1
+青石咀镇	qing shi jv zhen	1
 兵团火箭农场	bing tuan huo jian nong chang	1
 毛纺新村	mao fang xin cun	1
 开江南路	kai jiang nan lu	1
@@ -43171,7 +43171,7 @@ sort: by_weight
 稻西社区	dao xi she qu	1
 溪庄村	xi zhuang cun	1
 濂江村	lian jiang cun	1
-北大街居委会	bei da jie ju wei hui	1
+北大街居委会	bei da jie jv wei hui	1
 牤牛桥社区	mang niu qiao she qu	1
 上海南汇区惠南镇	shang hai nan hui qu hui nan zhen	1
 铜茨乡	tong ci xiang	1
@@ -43209,7 +43209,7 @@ sort: by_weight
 鹿庄	lu zhuang	1
 钢厂路	gang chang lu	1
 孙窑	sun yao	1
-梨园居委会	li yuan ju wei hui	1
+梨园居委会	li yuan jv wei hui	1
 枕头洲	zhen tou zhou	1
 珍巷里	zhen xiang li	1
 后横村	hou heng cun	1
@@ -43231,7 +43231,7 @@ sort: by_weight
 夺多乡	duo duo xiang	1
 玉什喀拉苏乡	yu shen ka la su xiang	1
 城埠	cheng bu	1
-鸿仁名居	hong ren ming ju	1
+鸿仁名居	hong ren ming jv	1
 仙塘农场	xian tang nong chang	1
 葵星村	kui xing cun	1
 力所拉祜族乡	li suo la hu zu xiang	1
@@ -43273,7 +43273,7 @@ sort: by_weight
 仁里街道	ren li jie dao	1
 廖公庄东站	liao gong zhuang dong zhan	1
 田墘村	tian qian cun	1
-菊江村	ju jiang cun	1
+菊江村	jv jiang cun	1
 黄牛山	huang niu shan	1
 阳邑西街	yang yi xi jie	1
 世涛天朗小区	shi tao tian lang xiao qu	1
@@ -43400,7 +43400,7 @@ sort: by_weight
 港南小区	gang nan xiao qu	1
 康杜村	kang du cun	1
 联兴大厦	lian xing da sha	1
-石狮市司法局	shi shi shi si fa ju	1
+石狮市司法局	shi shi shi si fa jv	1
 西脑包街道	xi nao bao jie dao	1
 松多藏族乡	song duo cang zu xiang	1
 张宽街道	zhang kuan jie dao	1
@@ -43470,8 +43470,8 @@ sort: by_weight
 社后乡	she hou xiang	1
 莲宝路口北	lian bao lu kou bei	1
 并西商场	bing xi shang chang	1
-夹道居胡同	jia dao ju hu tong	1
-居集镇	ju ji zhen	1
+夹道居胡同	jia dao jv hu tong	1
+居集镇	jv ji zhen	1
 车仁乡	che ren xiang	1
 三白山村	san bai shan cun	1
 西北服装城	xi bei fu zhuang cheng	1
@@ -43502,7 +43502,7 @@ sort: by_weight
 坪乐乡	ping le xiang	1
 檀州家园社区	tan zhou jia yuan she qu	1
 小寨村委会	xiao zhai cun wei hui	1
-阿姆瑞特家居中心	a mu rui te jia ju zhong xin	1
+阿姆瑞特家居中心	a mu rui te jia jv zhong xin	1
 苑南村	yuan nan cun	1
 潘礼南村	pan li nan cun	1
 寺山乡	si shan xiang	1
@@ -43531,7 +43531,7 @@ sort: by_weight
 石狮日报社	shi shi ri bao she	1
 老爷庙乡	lao ye miao xiang	1
 高塘四村	gao tang si cun	1
-空军指挥学院南门	kong jun zhi hui xue yuan nan men	1
+空军指挥学院南门	kong jvn zhi hui xue yuan nan men	1
 北贾壁乡	bei jia bi xiang	1
 西红门七村	xi hong men qi cun	1
 鉴湖新村	jian hu xin cun	1
@@ -43572,8 +43572,8 @@ sort: by_weight
 滦水道	luan shui dao	1
 杨柳园	yang liu yuan	1
 市职大	shi zhi da	1
-石狮市交通局	shi shi shi jiao tong ju	1
-花园城居委会	hua yuan cheng ju wei hui	1
+石狮市交通局	shi shi shi jiao tong jv	1
+花园城居委会	hua yuan cheng jv wei hui	1
 卜家庄乡	bo jia zhuang xiang	1
 安后村	an hou cun	1
 驯海路	xun hai lu	1
@@ -43581,7 +43581,7 @@ sort: by_weight
 红梅小区	hong mei xiao qu	1
 祝华街道	zhu hua jie dao	1
 龙潭寺路	long tan si lu	1
-天桥居委会	tian qiao ju wei hui	1
+天桥居委会	tian qiao jv wei hui	1
 弘善胡同	hong shan hu tong	1
 西山农业园区	xi shan nong ye yuan qu	1
 庄顶	zhuang ding	1
@@ -43624,7 +43624,7 @@ sort: by_weight
 海淀黄庄东	hai dian huang zhuang dong	1
 神牛环岛	shen niu huan dao	1
 东召乡	dong zhao xiang	1
-董云阁烈士故居	dong yun ge lie shi gu ju	1
+董云阁烈士故居	dong yun ge lie shi gu jv	1
 比奇峰	bi qi feng	1
 柏寺营乡	bai si ying xiang	1
 东宝道	dong bao dao	1
@@ -43646,7 +43646,7 @@ sort: by_weight
 石鹰村	shi ying cun	1
 北景东苑	bei jing dong yuan	1
 海陵村	hai ling cun	1
-红军街道	hong jun jie dao	1
+红军街道	hong jvn jie dao	1
 大公桥街道	da gong qiao jie dao	1
 丰户营	feng hu ying	1
 溪山村	xi shan cun	1
@@ -43733,7 +43733,7 @@ sort: by_weight
 金华商城南	jin hua shang cheng nan	1
 乔勒潘乡	qiao lei pan xiang	1
 铁人街道	tie ren jie dao	1
-大世界家具广场	da shi jie jia ju guang chang	1
+大世界家具广场	da shi jie jia jv guang chang	1
 道特淖尔镇	dao te nao er zhen	1
 东园镇政府	dong yuan zhen zheng fu	1
 祈山村	qi shan cun	1
@@ -43861,7 +43861,7 @@ sort: by_weight
 土地梁	tu di liang	1
 虎仔山	hu zai shan	1
 大井村委会	da jing cun wei hui	1
-梅坞农居	mei wu nong ju	1
+梅坞农居	mei wu nong jv	1
 孙村开发区	sun cun kai fa qu	1
 三源村	san yuan cun	1
 旺城市场	wang cheng shi chang	1
@@ -43934,7 +43934,7 @@ sort: by_weight
 广安门南站	guang an men nan zhan	1
 广东东莞市黄江镇	guang dong dong guan shi huang jiang zhen	1
 红合路口	hong he lu kou	1
-句城村	ju cheng cun	1
+句城村	jv cheng cun	1
 苗二河乡	miao er he xiang	1
 内湖村	nei hu cun	1
 镇阳乡	zhen yang xiang	1
@@ -43954,7 +43954,7 @@ sort: by_weight
 汽车楼	qi che lou	1
 北照台村	bei zhao tai cun	1
 宋塘路	song tang lu	1
-金东区交通局	jin dong qu jiao tong ju	1
+金东区交通局	jin dong qu jiao tong jv	1
 中楼社区	zhong lou she qu	1
 处仔	chu zai	1
 中科院地球所	zhong ke yuan di qiu suo	1
@@ -43964,7 +43964,7 @@ sort: by_weight
 石矿村	shi kuang cun	1
 广东番禺区化龙镇	guang dong pan yu qu hua long zhen	1
 锡坑村	xi keng cun	1
-桔乡大道	ju xiang da dao	1
+桔乡大道	jv xiang da dao	1
 潺坪村	chan ping cun	1
 葛家桥	ge jia qiao	1
 虹桥路凯旋路	hong qiao lu kai xuan lu	1
@@ -44070,7 +44070,7 @@ sort: by_weight
 江苏宜兴市太华镇	jiang su yi xing shi tai hua zhen	1
 石佛营西里东站	shi fu ying xi li dong zhan	1
 临丁路笕丁路口	lin ding lu jian ding lu kou	1
-康乐居委会	kang le ju wei hui	1
+康乐居委会	kang le jv wei hui	1
 焦墓	jiao mu	1
 中嘉路	zhong jia lu	1
 双桂桥	shuang gui qiao	1
@@ -44199,7 +44199,7 @@ sort: by_weight
 北山根村	bei shan gen cun	1
 天竺大街	tian zhu da jie	1
 美仁村	mei ren cun	1
-天山西部林业局昭苏林场	tian shan xi bu lin ye ju zhao su lin chang	1
+天山西部林业局昭苏林场	tian shan xi bu lin ye jv zhao su lin chang	1
 南孙村	nan sun cun	1
 斗山村	dou shan cun	1
 大曲堤乡	da qu di xiang	1
@@ -44215,7 +44215,7 @@ sort: by_weight
 螺沙村	luo sha cun	1
 莲东村	lian dong cun	1
 东周各庄	dong zhou ge zhuang	1
-石狮市对外贸易经济合作局	shi shi shi dui wai mao yi jing ji he zuo ju	1
+石狮市对外贸易经济合作局	shi shi shi dui wai mao yi jing ji he zuo jv	1
 大羊坊北村	da yang fang bei cun	1
 株溪村	zhu xi cun	1
 周家庄路西口	zhou jia zhuang lu xi kou	1
@@ -44246,7 +44246,7 @@ sort: by_weight
 阿子滩乡	a zi tan xiang	1
 石狮市锦尚镇卢厝村	shi shi shi jin shang zhen lu cuo cun	1
 卞桥	bian qiao	1
-星居委会	xing ju wei hui	1
+星居委会	xing jv wei hui	1
 勤俭大桥	qin jian da qiao	1
 通达园社区	tong da yuan she qu	1
 达木珞巴族乡	da mu luo ba zu xiang	1
@@ -44281,13 +44281,13 @@ sort: by_weight
 大德山林场	da de shan lin chang	1
 五方院	wu fang yuan	1
 沙坝河乡	sha ba he xiang	1
-中咀岭乡	zhong ju ling xiang	1
+中咀岭乡	zhong jv ling xiang	1
 巴久乡	ba jiu xiang	1
 贾家村村委会	jia jia cun cun wei hui	1
 南章客村	nan zhang ke cun	1
-密云工商局	mi yun gong shang ju	1
+密云工商局	mi yun gong shang jv	1
 张林乡	zhang lin xiang	1
-香河公安局	xiang he gong an ju	1
+香河公安局	xiang he gong an jv	1
 中央新影社区	zhong yang xin ying she qu	1
 南娄底乡	nan lou di xiang	1
 常辛村	chang xin cun	1
@@ -44341,7 +44341,7 @@ sort: by_weight
 大河塘	da he tang	1
 前曹各庄	qian cao ge zhuang	1
 大楠镇	da nan zhen	1
-河北居委会	he bei ju wei hui	1
+河北居委会	he bei jv wei hui	1
 鹿圈乡	lu quan xiang	1
 范沟村	fan gou cun	1
 黄舣乡	huang yi xiang	1
@@ -44353,7 +44353,7 @@ sort: by_weight
 三苏木乡	san su mu xiang	1
 徐中乡	xu zhong xiang	1
 鞑子桥	da zi qiao	1
-商场居委会	shang chang ju wei hui	1
+商场居委会	shang chang jv wei hui	1
 小庄科	xiao zhuang ke	1
 塔下街社区	ta xia jie she qu	1
 共乐街道	gong le jie dao	1
@@ -44379,7 +44379,7 @@ sort: by_weight
 腊窝乡	la wo xiang	1
 祥龙乡	xiang long xiang	1
 大际乡	da ji xiang	1
-金城郡	jin cheng jun	1
+金城郡	jin cheng jvn	1
 檀村	tan cun	1
 镇岗塔路	zhen gang ta lu	1
 国营东平农场	guo ying dong ping nong chang	1
@@ -44437,7 +44437,7 @@ sort: by_weight
 五尺乡	wu chi xiang	1
 通灵桥	tong ling qiao	1
 丁陂乡	ding bei xiang	1
-居安坊	ju an fang	1
+居安坊	jv an fang	1
 湖广馆街	hu guang guan jie	1
 宝界村	bao jie cun	1
 梅埠街道	mei bu jie dao	1
@@ -44527,13 +44527,13 @@ sort: by_weight
 洄水镇	hui shui zhen	1
 桂花胡同	gui hua hu tong	1
 哈哈乡	ha ha xiang	1
-胜利居委会	sheng li ju wei hui	1
+胜利居委会	sheng li jv wei hui	1
 裕湘路	yu xiang lu	1
 澳丽家园	ao li jia yuan	1
 麦苋街	mai xian jie	1
 大家润购物广场	da jia run gou wu guang chang	1
-景区居委会	jing qu ju wei hui	1
-石狮市公安局交警大队	shi shi shi gong an ju jiao jing da dui	1
+景区居委会	jing qu jv wei hui	1
+石狮市公安局交警大队	shi shi shi gong an jv jiao jing da dui	1
 魏庄村委会	wei zhuang cun wei hui	1
 新烟街道	xin yan jie dao	1
 浙江嘉善县陶庄镇	zhe jiang jia shan xian tao zhuang zhen	1
@@ -44556,7 +44556,7 @@ sort: by_weight
 康雄乡	kang xiong xiang	1
 藕池新村	ou chi xin cun	1
 常营北站	chang ying bei zhan	1
-胜利街居委会	sheng li jie ju wei hui	1
+胜利街居委会	sheng li jie jv wei hui	1
 苏洋村	su yang cun	1
 双龙大桥北	shuang long da qiao bei	1
 蔡东村	cai dong cun	1
@@ -44564,7 +44564,7 @@ sort: by_weight
 景湖苑	jing hu yuan	1
 芳亭村	fang ting cun	1
 园荫道	yuan yin dao	1
-河滩居委会	he tan ju wei hui	1
+河滩居委会	he tan jv wei hui	1
 谢港	xie gang	1
 坊前村	fang qian cun	1
 西马厂北口	xi ma chang bei kou	1
@@ -44642,7 +44642,7 @@ sort: by_weight
 浙江平阳县萧江镇	zhe jiang ping yang xian xiao jiang zhen	1
 名山乡	ming shan xiang	1
 登峰大酒店	deng feng da jiu dian	1
-石狮市审计局	shi shi shi shen ji ju	1
+石狮市审计局	shi shi shi shen ji jv	1
 金沟河社区	jin gou he she qu	1
 东利市营	dong li shi ying	1
 同义庄村	tong yi zhuang cun	1
@@ -44653,7 +44653,7 @@ sort: by_weight
 人民南路四段南	ren min nan lu si duan nan	1
 王龙口村	wang long kou cun	1
 沃柄村	wo bing cun	1
-和平街居委会	he ping jie ju wei hui	1
+和平街居委会	he ping jie jv wei hui	1
 飞凤镇	fei feng zhen	1
 苏坪	su ping	1
 刁汊湖养殖场	diao cha hu yang zhi chang	1
@@ -44708,7 +44708,7 @@ sort: by_weight
 江西街乡	jiang xi jie xiang	1
 巴沟村西口	ba gou cun xi kou	1
 高碑胡同	gao bei hu tong	1
-迁善居胡同	qian shan ju hu tong	1
+迁善居胡同	qian shan jv hu tong	1
 四医院社区	si yi yuan she qu	1
 红莫依达乡	hong mo yi da xiang	1
 丹河道	dan he dao	1
@@ -44792,13 +44792,13 @@ sort: by_weight
 五湖新区	wu hu xin qu	1
 云簇镇	yun cu zhen	1
 双涵路	shuang han lu	1
-红居社区	hong ju she qu	1
+红居社区	hong jv she qu	1
 朝里瑶族乡	chao li yao zu xiang	1
 箭厂	jian chang	1
 南湖路北口	nan hu lu bei kou	1
 宏大小区	hong da xiao qu	1
 安厦世纪城	an sha shi ji cheng	1
-东湖居委会	dong hu ju wei hui	1
+东湖居委会	dong hu jv wei hui	1
 四道口南	si dao kou nan	1
 羊毛胡同	yang mao hu tong	1
 景洪县	jing hong xian	1
