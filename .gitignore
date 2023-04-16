@@ -9,7 +9,7 @@ installation.yaml
 
 # themes
 weasel.custom.yaml
-squirrel.custom.yaml
+# squirrel.custom.yaml
 
 # unused dictionaries
 dicts/emotions
