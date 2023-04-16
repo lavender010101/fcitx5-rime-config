@@ -141,13 +141,13 @@ use_preset_vocabulary: true
 保护方式	bao hu fang shi	1
 包加密	bao jia mi	1
 包交换	bao jiao huan	1
-包交换数据网	bao jiao huan shu ju wang	1
+包交换数据网	bao jiao huan shu jv wang	1
 包交换网	bao jiao huan wang	1
 包交换总线	bao jiao huan zong xian	1
 报警显示	bao jing xian shi	1
 报警信号	bao jing xin hao	1
 堡垒主机	bao lei zhu ji	1
-保留卷	bao liu juan	1
+保留卷	bao liu jvan	1
 保留内存	bao liu nei cun	1
 保留页选项	bao liu ye xuan xiang	1
 保留站	bao liu zhan	1
@@ -260,7 +260,7 @@ use_preset_vocabulary: true
 变换中心	bian huan zhong xin	1
 编辑程序	bian ji cheng xu	1
 编辑过滤列表	bian ji guo lv lie biao	1
-编辑距离	bian ji ju li	1
+编辑距离	bian ji jv li	1
 编辑器	bian ji qi	1
 编辑页面	bian ji ye mian	1
 便笺式存储器	bian jian shi cun chu qi	1
@@ -326,7 +326,7 @@ use_preset_vocabulary: true
 边缘操作	bian yuan cao zuo	1
 边缘测试	bian yuan ce shi	1
 边缘触发时钟	bian yuan chu fa shi zhong	1
-边缘错觉	bian yuan cuo jue	1
+边缘错觉	bian yuan cuo jve	1
 边缘泛化	bian yuan fan hua	1
 边缘分割	bian yuan fen ge	1
 边缘故障	bian yuan gu zhang	1
@@ -334,7 +334,7 @@ use_preset_vocabulary: true
 边缘简化	bian yuan jian hua	1
 边缘检验	bian yuan jian yan	1
 边缘精度	bian yuan jing du	1
-边缘聚焦	bian yuan ju jiao	1
+边缘聚焦	bian yuan jv jiao	1
 边缘连接	bian yuan lian jie	1
 边缘连接器	bian yuan lian jie qi	1
 边缘拟合	bian yuan ni he	1
@@ -348,7 +348,7 @@ use_preset_vocabulary: true
 变址	bian zhi	1
 编址	bian zhi	1
 变址寄存器	bian zhi ji cun qi	1
-表布局	biao bu ju	1
+表布局	biao bu jv	1
 表层格	biao ceng ge	1
 表处理	biao chu li	1
 表调度	biao diao du	1
@@ -361,8 +361,8 @@ use_preset_vocabulary: true
 标记类型	biao ji lei xing	1
 标记流路	biao ji liu lu	1
 标记阅读机	biao ji yue du ji	1
-表决器	biao jue qi	1
-表决系统	biao jue xi tong	1
+表决器	biao jve qi	1
+表决系统	biao jve xi tong	1
 标量	biao liang	1
 标量处理器	biao liang chu li qi	1
 标量计算机	biao liang ji suan ji	1
@@ -397,7 +397,7 @@ use_preset_vocabulary: true
 标准单元	biao zhun dan yuan	1
 标准对象	biao zhun dui xiang	1
 标准幅度带	biao zhun fu du dai	1
-标准工具栏	biao zhun gong ju lan	1
+标准工具栏	biao zhun gong jv lan	1
 标准扭斜带	biao zhun niu xie dai	1
 标准实施器	biao zhun shi shi qi	1
 标准输出	biao zhun shu chu	1
@@ -460,7 +460,7 @@ use_preset_vocabulary: true
 并行计算论题	bing xing ji suan lun ti	1
 并行加法器	bing xing jia fa qi	1
 并行建模	bing xing jian mo	1
-并行句法剖析	bing xing ju fa pou xi	1
+并行句法剖析	bing xing jv fa pou xi	1
 并行联结	bing xing lian jie	1
 并行连接	bing xing lian jie	1
 并行模拟	bing xing mo ni	1
@@ -468,7 +468,7 @@ use_preset_vocabulary: true
 并行任务	bing xing ren wu	1
 并行任务派生	bing xing ren wu pai sheng	1
 并行实时处理	bing xing shi shi chu li	1
-并行数据库	bing xing shu ju ku	1
+并行数据库	bing xing shu jv ku	1
 并行搜索	bing xing sou suo	1
 并行算法	bing xing suan fa	1
 饼形图	bing xing tu	1
@@ -534,10 +534,10 @@ use_preset_vocabulary: true
 步进	bu jin	1
 步进电机	bu jin dian ji	1
 步进控制	bu jin kong zhi	1
-布局	bu ju	1
-布局策略	bu ju ce lue	1
-布局规则	bu ju gui ze	1
-布局接地规则	bu ju jie di gui ze	1
+布局	bu jv	1
+布局策略	bu jv ce lue	1
+布局规则	bu jv gui ze	1
+布局接地规则	bu jv jie di gui ze	1
 不可抵赖	bu ke di lai	1
 不可靠进程	bu ke kao jin cheng	1
 不可判定问题	bu ke pan ding wen ti	1
@@ -590,7 +590,7 @@ use_preset_vocabulary: true
 参考监控	can kao jian kong	1
 参考码	can kao ma	1
 参考帧	can kao zhen	1
-残留数据	can liu shu ju	1
+残留数据	can liu shu jv	1
 参数	can shu	1
 参数测试	can shu ce shi	1
 参数传递	can shu chuan di	1
@@ -658,11 +658,11 @@ use_preset_vocabulary: true
 测试设备	ce shi she bei	1
 测试生成	ce shi sheng cheng	1
 测试时间	ce shi shi jian	1
-测试数据	ce shi shu ju	1
+测试数据	ce shi shu jv	1
 测试顺序	ce shi shun xu	1
 测试台	ce shi tai	1
 测试探针	ce shi tan zhen	1
-测试套具	ce shi tao ju	1
+测试套具	ce shi tao jv	1
 测试提示	ce shi ti shi	1
 测试文本	ce shi wen ben	1
 测试响应	ce shi xiang ying	1
@@ -683,8 +683,8 @@ use_preset_vocabulary: true
 层次分析处理	ceng ci fen xi chu li	1
 层次结构	ceng ci jie gou	1
 层次模型	ceng ci mo xing	1
-层次数据库	ceng ci shu ju ku	1
-层次数据模型	ceng ci shu ju mo xing	1
+层次数据库	ceng ci shu jv ku	1
+层次数据模型	ceng ci shu jv mo xing	1
 层次网	ceng ci wang	1
 层次序列键码	ceng ci xu lie jian ma	1
 层叠样式表	ceng die yang shi biao	1
@@ -750,7 +750,7 @@ use_preset_vocabulary: true
 产品规约	chan pin gui yue	1
 产品库	chan pin ku	1
 产品认证	chan pin ren zheng	1
-产品数据管理	chan pin shu ju guan li	1
+产品数据管理	chan pin shu jv guan li	1
 缠绕形式	chan rao xing shi	1
 产生式规则	chan sheng shi gui ze	1
 产生式系统	chan sheng shi xi tong	1
@@ -805,7 +805,7 @@ use_preset_vocabulary: true
 超时	chao shi	1
 超时控制	chao shi kong zhi	1
 超视频	chao shi pin	1
-超图数据结构	chao tu shu ju jie gou	1
+超图数据结构	chao tu shu jv jie gou	1
 超文本	chao wen ben	1
 超文件超文本	chao wen jian chao wen ben	1
 超线程	chao xian cheng	1
@@ -858,9 +858,9 @@ use_preset_vocabulary: true
 程序集缓存	cheng xu ji huan cun	1
 程序集清单	cheng xu ji qing dan	1
 程序计数器	cheng xu ji shu qi	1
-程序集元数据	cheng xu ji yuan shu ju	1
+程序集元数据	cheng xu ji yuan shu jv	1
 程序界限监控	cheng xu jie xian jian kong	1
-程序局部性	cheng xu ju bu xing	1
+程序局部性	cheng xu jv bu xing	1
 程序控制	cheng xu kong zhi	1
 程序库	cheng xu ku	1
 程序块	cheng xu kuai	1
@@ -972,7 +972,7 @@ use_preset_vocabulary: true
 抽象函数	chou xiang han shu	1
 抽象机	chou xiang ji	1
 抽象类	chou xiang lei	1
-抽象数据类型	chou xiang shu ju lei xing	1
+抽象数据类型	chou xiang shu jv lei xing	1
 储存库	chu cun ku	1
 除错	chu cuo	1
 出错处理	chu cuo chu li	1
@@ -986,17 +986,17 @@ use_preset_vocabulary: true
 触点	chu dian	1
 出点	chu dian	1
 触点插拔力	chu dian cha ba li	1
-触点间距	chu dian jian ju	1
+触点间距	chu dian jian jv	1
 出度	chu du	1
 除法	chu fa	1
 触发对象	chu fa dui xiang	1
 除法回路	chu fa hui lu	1
 触发器	chu fa qi	1
 除法器	chu fa qi	1
-初级视觉	chu ji shi jue	1
+初级视觉	chu ji shi jve	1
 初级输出	chu ji shu chu	1
 初级输入	chu ji shu ru	1
-触觉通道	chu jue tong dao	1
+触觉通道	chu jve tong dao	1
 处理部件	chu li bu jian	1
 处理单元	chu li dan yuan	1
 处理黑版	chu li hei ban	1
@@ -1096,7 +1096,7 @@ use_preset_vocabulary: true
 窗口构件	chuang kou gou jian	1
 窗口管理器	chuang kou guan li qi	1
 窗口函数	chuang kou han shu	1
-窗口句柄	chuang kou ju bing	1
+窗口句柄	chuang kou jv bing	1
 窗口透明载入	chuang kou tou ming zai ru	1
 窗口状态控制	chuang kou zhuang tai kong zhi	1
 窗口组件	chuang kou zu jian	1
@@ -1107,7 +1107,7 @@ use_preset_vocabulary: true
 垂直磁记录	chui zhi ci ji lu	1
 垂直翻转	chui zhi fan zhuan	1
 垂直分片	chui zhi fen pian	1
-垂直居中	chui zhi ju zhong	1
+垂直居中	chui zhi jv zhong	1
 垂直刻度	chui zhi ke du	1
 纯真版	chun zhen ban	1
 纯正可归约性	chun zheng ke gui yue xing	1
@@ -1131,7 +1131,7 @@ use_preset_vocabulary: true
 磁道	ci dao	1
 磁道格式	ci dao ge shi	1
 磁道宽度	ci dao kuan du	1
-磁道中心距	ci dao zhong xin ju	1
+磁道中心距	ci dao zhong xin jv	1
 次递归性	ci di gui xing	1
 辞典条目	ci dian tiao mu	1
 词典学	ci dian xue	1
@@ -1155,7 +1155,7 @@ use_preset_vocabulary: true
 词汇语义学	ci hui yu yi xue	1
 词汇语意学	ci hui yu yi xue	1
 磁记录介质	ci ji lu jie zhi	1
-词句法	ci ju fa	1
+词句法	ci jv fa	1
 磁卡	ci ka	1
 词类	ci lei	1
 词类标记	ci lei biao ji	1
@@ -1228,7 +1228,7 @@ use_preset_vocabulary: true
 存储管理策略	cun chu guan li ce lue	1
 存储管理服务	cun chu guan li fu wu	1
 存储过程	cun chu guo cheng	1
-存储矩阵	cun chu ju zhen	1
+存储矩阵	cun chu jv zhen	1
 存储空间	cun chu kong jian	1
 存储媒体	cun chu mei ti	1
 存储密度	cun chu mi du	1
@@ -1274,8 +1274,8 @@ use_preset_vocabulary: true
 存取管理程序	cun qu guan li cheng xu	1
 存取级别	cun qu ji bie	1
 存取机构	cun qu ji gou	1
-存取拒绝	cun qu ju jue	1
-存取矩阵	cun qu ju zhen	1
+存取拒绝	cun qu jv jue	1
+存取矩阵	cun qu jv zhen	1
 存取控制	cun qu kong zhi	1
 存取控制机制	cun qu kong zhi ji zhi	1
 存取类型	cun qu lei xing	1
@@ -1304,7 +1304,7 @@ use_preset_vocabulary: true
 错误模式	cuo wu mo shi	1
 错误模型	cuo wu mo xing	1
 错误撒播	cuo wu sa bo	1
-错误数据	cuo wu shu ju	1
+错误数据	cuo wu shu jv	1
 错误条件	cuo wu tiao jian	1
 错误预测	cuo wu yu ce	1
 错误预测模型	cuo wu yu ce mo xing	1
@@ -1331,7 +1331,7 @@ use_preset_vocabulary: true
 大于搜索	da yu sou suo	1
 大语种	da yu zhong	1
 大蜘蛛	da zhi zhu	1
-待编码数据	dai bian ma shu ju	1
+待编码数据	dai bian ma shu jv	1
 带标号复用	dai biao hao fu yong	1
 带标号信道	dai biao hao xin dao	1
 带符号	dai fu hao	1
@@ -1369,7 +1369,7 @@ use_preset_vocabulary: true
 代数规约	dai shu gui yue	1
 代数简化	dai shu jian hua	1
 代数逻辑	dai shu luo ji	1
-代数数据类型	dai shu shu ju lei xing	1
+代数数据类型	dai shu shu jv lei xing	1
 代数语言	dai shu yu yan	1
 代数语义	dai shu yu yi	1
 带头	dai tou	1
@@ -1408,7 +1408,7 @@ use_preset_vocabulary: true
 单进程	dan jin cheng	1
 单例模式	dan li mo shi	1
 单列直插封装	dan lie zhi cha feng zhuang	1
-单目视觉	dan mu shi jue	1
+单目视觉	dan mu shi jve	1
 单片存储器	dan pian cun chu qi	1
 单片机	dan pian ji	1
 单片计算机	dan pian ji suan ji	1
@@ -1420,9 +1420,9 @@ use_preset_vocabulary: true
 单事件翻转	dan shi jian fan zhuan	1
 单事件锁定	dan shi jian suo ding	1
 单事件效应	dan shi jian xiao ying	1
-单数据流	dan shu ju liu	1
-单数据速率	dan shu ju su lv	1
-单条语句	dan tiao yu ju	1
+单数据流	dan shu jv liu	1
+单数据速率	dan shu jv su lv	1
+单条语句	dan tiao yu jv	1
 单位	dan wei	1
 单稳触发电路	dan wen chu fa dian lu	1
 单系统映像	dan xi tong ying xiang	1
@@ -1454,7 +1454,7 @@ use_preset_vocabulary: true
 单总线	dan zong xian	1
 当前版本	dang qian ban ben	1
 当前活动栈	dang qian huo dong zhan	1
-当前进程句柄	dang qian jin cheng ju bing	1
+当前进程句柄	dang qian jin cheng jv bing	1
 当前路径	dang qian lu jing	1
 当前默认目录	dang qian mo ren mu lu	1
 当前目录	dang qian mu lu	1
@@ -1632,7 +1632,7 @@ use_preset_vocabulary: true
 电子设计规则	dian zi she ji gui ze	1
 电子渗入	dian zi shen ru	1
 电子市场	dian zi shi chang	1
-电子数据交换	dian zi shu ju jiao huan	1
+电子数据交换	dian zi shu jv jiao huan	1
 电子图书馆	dian zi tu shu guan	1
 电子文本	dian zi wen ben	1
 电子消息处理	dian zi xiao xi chu li	1
@@ -1701,7 +1701,7 @@ use_preset_vocabulary: true
 定义符	ding yi fu	1
 定义机器智能	ding yi ji qi zhi neng	1
 定义阶段	ding yi jie duan	1
-定义数据类型	ding yi shu ju lei xing	1
+定义数据类型	ding yi shu jv lei xing	1
 定义性	ding yi xing	1
 定义性出现	ding yi xing chu xian	1
 定义域	ding yi yu	1
@@ -1770,7 +1770,7 @@ use_preset_vocabulary: true
 读访问	du fang wen	1
 读后写	du hou xie	1
 读环境变量	du huan jing bian liang	1
-读均衡	du jun heng	1
+读均衡	du jvn heng	1
 独立程序	du li cheng xu	1
 独立型故障	du li xing gu zhang	1
 度量	du liang	1
@@ -1783,13 +1783,13 @@ use_preset_vocabulary: true
 读配置项	du pei zhi xiang	1
 读取	du qu	1
 读日期属性	du ri qi shu xing	1
-读入数据	du ru shu ju	1
+读入数据	du ru shu jv	1
 读入文本	du ru wen ben	1
 读入文件	du ru wen jian	1
 读入一行	du ru yi hang	1
 读入原语	du ru yuan yu	1
 读入字节集	du ru zi jie ji	1
-读数据线	du shu ju xian	1
+读数据线	du shu jv xian	1
 读属性	du shu xing	1
 读数值属性	du shu zhi shu xing	1
 读锁	du suo	1
@@ -1901,7 +1901,7 @@ use_preset_vocabulary: true
 对谐	dui xie	1
 对应点	dui ying dian	1
 堆栈	dui zhan	1
-堆栈布局	dui zhan bu ju	1
+堆栈布局	dui zhan bu jv	1
 对准网络	dui zhun wang luo	1
 多变量控制器	duo bian liang kong zhi qi	1
 多遍排序	duo bian pai xu	1
@@ -1986,7 +1986,7 @@ use_preset_vocabulary: true
 多媒体技术	duo mei ti ji shu	1
 多媒体计算机	duo mei ti ji suan ji	1
 多媒体扩展	duo mei ti kuo zhan	1
-多媒体数据库	duo mei ti shu ju ku	1
+多媒体数据库	duo mei ti shu jv ku	1
 多媒体通信	duo mei ti tong xin	1
 多媒体通讯	duo mei ti tong xun	1
 多媒体系统	duo mei ti xi tong	1
@@ -2001,20 +2001,20 @@ use_preset_vocabulary: true
 多任务处理	duo ren wu chu li	1
 多任务管理	duo ren wu guan li	1
 多色调分法	duo se diao fen fa	1
-多数据	duo shu ju	1
-多数据流	duo shu ju liu	1
-多数决定门	duo shu jue ding men	1
+多数据	duo shu jv	1
+多数据流	duo shu jv liu	1
+多数决定门	duo shu jve ding men	1
 多态	duo tai	1
 多态编程语言	duo tai bian cheng yu yan	1
 多态逻辑	duo tai luo ji	1
 多态性	duo tai xing	1
-多条语句	duo tiao yu ju	1
+多条语句	duo tiao yu jv	1
 多通道	duo tong dao	1
 多通道传输	duo tong dao chuan shu	1
 多头图灵机	duo tou tu ling ji	1
 多维存取	duo wei cun qu	1
 多维分析	duo wei fen xi	1
-多维数据结构	duo wei shu ju jie gou	1
+多维数据结构	duo wei shu jv jie gou	1
 多维图灵机	duo wei tu ling ji	1
 多文件对话框	duo wen jian dui hua kuang	1
 多线程	duo xian cheng	1
@@ -2096,7 +2096,7 @@ use_preset_vocabulary: true
 二元预解式	er yuan yu jie shi	1
 二值图像	er zhi tu xiang	1
 发光尺寸	fa guang chi cun	1
-发散束卷积法	fa san shu juan ji fa	1
+发散束卷积法	fa san shu jvan ji fa	1
 发射	fa she	1
 发射极点接	fa she ji dian jie	1
 发射上	fa she shang	1
@@ -2179,7 +2179,7 @@ use_preset_vocabulary: true
 反应主体	fan ying zhu ti	1
 范域词	fan yu ci	1
 范域作用域	fan yu zuo yong yu	1
-翻转矩形区	fan zhuan ju xing qu	1
+翻转矩形区	fan zhuan jv xing qu	1
 防病毒	fang bing du	1
 防病毒程序	fang bing du cheng xu	1
 方法多态	fang fa duo tai	1
@@ -2202,9 +2202,9 @@ use_preset_vocabulary: true
 访问范畴	fang wen fan chou	1
 访问共享	fang wen gong xiang	1
 访问级别	fang wen ji bie	1
-访问局部性	fang wen ju bu xing	1
-访问局守性	fang wen ju shou xing	1
-访问矩阵	fang wen ju zhen	1
+访问局部性	fang wen jv bu xing	1
+访问局守性	fang wen jv shou xing	1
+访问矩阵	fang wen jv zhen	1
 访问控制	fang wen kong zhi	1
 访问控制列表	fang wen kong zhi lie biao	1
 访问控制字段	fang wen kong zhi zi duan	1
@@ -2243,7 +2243,7 @@ use_preset_vocabulary: true
 非激活页面	fei ji huo ye mian	1
 非计算延迟	fei ji suan yan chi	1
 非交换连接	fei jiao huan lian jie	1
-非均匀有理	fei jun yun you li	1
+非均匀有理	fei jvn yun you li	1
 飞客空间	fei ke kong jian	1
 飞客排行	fei ke pai hang	1
 飞客频道	fei ke pin dao	1
@@ -2263,7 +2263,7 @@ use_preset_vocabulary: true
 飞塔杀毒软件	fei ta sha du ruan jian	1
 非特	fei te	1
 非托管代码	fei tuo guan dai ma	1
-非限定式子句	fei xian ding shi zi ju	1
+非限定式子句	fei xian ding shi zi jv	1
 非线性	fei xian xing	1
 非线性编辑	fei xian xing bian ji	1
 非线性导航	fei xian xing dao hang	1
@@ -2300,7 +2300,7 @@ use_preset_vocabulary: true
 分布式计算机	fen bu shi ji suan ji	1
 分布式控制	fen bu shi kong zhi	1
 分布式容错	fen bu shi rong cuo	1
-分布式数据库	fen bu shi shu ju ku	1
+分布式数据库	fen bu shi shu jv ku	1
 分布式算法	fen bu shi suan fa	1
 分布式网	fen bu shi wang	1
 分布式系统	fen bu shi xi tong	1
@@ -2335,7 +2335,7 @@ use_preset_vocabulary: true
 分立电路	fen li dian lu	1
 分立元件	fen li yuan jian	1
 分量	fen liang	1
-分裂句	fen lie ju	1
+分裂句	fen lie jv	1
 分派	fen pai	1
 分派程序	fen pai cheng xu	1
 分派优先级	fen pai you xian ji	1
@@ -2343,7 +2343,7 @@ use_preset_vocabulary: true
 分配模式	fen pei mo shi	1
 分片模式	fen pian mo shi	1
 分片透明	fen pian tou ming	1
-分情况语句	fen qing kuang yu ju	1
+分情况语句	fen qing kuang yu jv	1
 分区	fen qu	1
 分区表	fen qu biao	1
 分区存取法	fen qu cun qu fa	1
@@ -2457,7 +2457,7 @@ use_preset_vocabulary: true
 复合控制	fu he kong zhi	1
 符合停机	fu he ting ji	1
 复合序列	fu he xu lie	1
-复合语句	fu he yu ju	1
+复合语句	fu he yu jv	1
 附加备注	fu jia bei zhu	1
 附加任务	fu jia ren wu	1
 附加维修	fu jia wei xiu	1
@@ -2496,7 +2496,7 @@ use_preset_vocabulary: true
 服务器配置	fu wu qi pei zhi	1
 服务请求块	fu wu qing qiu kuai	1
 服务请求中断	fu wu qing qiu zhong duan	1
-服务数据单元	fu wu shu ju dan yuan	1
+服务数据单元	fu wu shu jv dan yuan	1
 服务提供者	fu wu ti gong zhe	1
 服务性程序	fu wu xing cheng xu	1
 服务原语	fu wu yuan yu	1
@@ -2509,7 +2509,7 @@ use_preset_vocabulary: true
 负跃变	fu yue bian	1
 复杂符号	fu za fu hao	1
 复杂事务	fu za shi wu	1
-复杂数据类型	fu za shu ju lei xing	1
+复杂数据类型	fu za shu jv lei xing	1
 复杂特征集	fu za te zheng ji	1
 复杂谓语	fu za wei yu	1
 复杂性	fu za xing	1
@@ -2529,8 +2529,8 @@ use_preset_vocabulary: true
 复指代词	fu zhi dai ci	1
 复制当前页	fu zhi dang qian ye	1
 复制数组	fu zhi shu zu	1
-复制型数据库	fu zhi xing shu ju ku	1
-赋值语句	fu zhi yu ju	1
+复制型数据库	fu zhi xing shu jv ku	1
+赋值语句	fu zhi yu jv	1
 赋值运算符	fu zhi yun suan fu	1
 辅助存储器	fu zhu cun chu qi	1
 辅助副本	fu zhu fu ben	1
@@ -2583,8 +2583,8 @@ use_preset_vocabulary: true
 概要设计	gai yao she ji	1
 改正性活动	gai zheng xing huo dong	1
 改字段名	gai zi duan ming	1
-感觉器感知器	gan jue qi gan zhi qi	1
-感觉运动期	gan jue yun dong qi	1
+感觉器感知器	gan jve qi gan zhi qi	1
+感觉运动期	gan jve yun dong qi	1
 干扰信号	gan rao xin hao	1
 干涉技术	gan she ji shu	1
 干线电缆	gan xian dian lan	1
@@ -2632,7 +2632,7 @@ use_preset_vocabulary: true
 割点	ge dian	1
 隔行	ge hang	1
 隔行扫描	ge hang sao miao	1
-格局	ge ju	1
+格局	ge jv	1
 格框架	ge kuang jia	1
 格雷巴赫范式	ge lei ba he fan shi	1
 隔离级	ge li ji	1
@@ -2645,7 +2645,7 @@ use_preset_vocabulary: true
 个人通信系统	ge ren tong xin xi tong	1
 格式化	ge shi hua	1
 格式化容量	ge shi hua rong liang	1
-格式化数据	ge shi hua shu ju	1
+格式化数据	ge shi hua shu jv	1
 格式结构	ge shi jie gou	1
 个体编码	ge ti bian ma	1
 个体标识	ge ti biao zhi	1
@@ -2674,7 +2674,7 @@ use_preset_vocabulary: true
 更新索引	geng xin suo yin	1
 更新网站图标	geng xin wang zhan tu biao	1
 更新异常	geng xin yi chang	1
-工程数据库	gong cheng shu ju ku	1
+工程数据库	gong cheng shu jv ku	1
 工程图	gong cheng tu	1
 供方	gong fang	1
 公告板服务	gong gao ban fu wu	1
@@ -2685,8 +2685,8 @@ use_preset_vocabulary: true
 公共接地点	gong gong jie di dian	1
 公共模数	gong gong mo shu	1
 公共事件标志	gong gong shi jian biao zhi	1
-公共数据	gong gong shu ju	1
-公共数据模型	gong gong shu ju mo xing	1
+公共数据	gong gong shu jv	1
+公共数据模型	gong gong shu jv mo xing	1
 公共网关接口	gong gong wang guan jie kou	1
 公共系统区	gong gong xi tong qu	1
 公共信息模型	gong gong xin xi mo xing	1
@@ -2697,10 +2697,10 @@ use_preset_vocabulary: true
 公共总线	gong gong zong xian	1
 功耗	gong hao	1
 攻击程序	gong ji cheng xu	1
-工具栏	gong ju lan	1
-工具栏模式	gong ju lan mo shi	1
-工具提示	gong ju ti shi	1
-工具箱	gong ju xiang	1
+工具栏	gong jv lan	1
+工具栏模式	gong jv lan mo shi	1
+工具提示	gong jv ti shi	1
+工具箱	gong jv xiang	1
 公理复杂性	gong li fu za xing	1
 公理语义	gong li yu yi	1
 功率密度	gong lv mi du	1
@@ -2713,7 +2713,7 @@ use_preset_vocabulary: true
 功能规约	gong neng gui yue	1
 功能合一语法	gong neng he yi yu fa	1
 功能结构	gong neng jie gou	1
-功能句子观	gong neng ju zi guan	1
+功能句子观	gong neng jv zi guan	1
 功能块	gong neng kuai	1
 功能模型	gong neng mo xing	1
 功能软盘	gong neng ruan pan	1
@@ -2724,7 +2724,7 @@ use_preset_vocabulary: true
 功能语言学	gong neng yu yan xue	1
 公平网	gong ping wang	1
 公平性	gong ping xing	1
-共生矩阵	gong sheng ju zhen	1
+共生矩阵	gong sheng jv zhen	1
 共同介质段	gong tong jie zhi duan	1
 共享白板	gong xiang bai ban	1
 共享变量	gong xiang bian liang	1
@@ -2749,7 +2749,7 @@ use_preset_vocabulary: true
 工业自动化	gong ye zi dong hua	1
 工艺图	gong yi tu	1
 供应过程	gong ying guo cheng	1
-公用数据网	gong yong shu ju wang	1
+公用数据网	gong yong shu jv wang	1
 公有成员	gong you cheng yuan	1
 公有域	gong you yu	1
 公正	gong zheng	1
@@ -2845,7 +2845,7 @@ use_preset_vocabulary: true
 故障记录	gu zhang ji lu	1
 故障检测	gu zhang jian ce	1
 故障禁闭	gu zhang jin bi	1
-故障矩阵	gu zhang ju zhen	1
+故障矩阵	gu zhang jv zhen	1
 故障控制	gu zhang kong zhi	1
 故障类别	gu zhang lei bie	1
 故障模拟	gu zhang mo ni	1
@@ -2876,8 +2876,8 @@ use_preset_vocabulary: true
 关闭标签	guan bi biao qian	1
 关闭并保存	guan bi bing bao cun	1
 关闭记录集	guan bi ji lu ji	1
-关闭进程句柄	guan bi jin cheng ju bing	1
-关闭句柄	guan bi ju bing	1
+关闭进程句柄	guan bi jin cheng jv bing	1
+关闭句柄	guan bi jv bing	1
 关闭其它标签	guan bi qi ta biao qian	1
 关闭全部	guan bi quan bu	1
 关闭所有标签	guan bi suo you biao qian	1
@@ -2895,14 +2895,14 @@ use_preset_vocabulary: true
 关键程度	guan jian cheng du	1
 关键成功因素	guan jian cheng gong yin su	1
 关键词	guan jian ci	1
-关键词布局	guan jian ci bu ju	1
+关键词布局	guan jian ci bu jv	1
 关键词前后文	guan jian ci qian hou wen	1
 关键计算	guan jian ji suan	1
 关键路径	guan jian lu jing	1
 关键帧	guan jian zhen	1
 关键字	guan jian zi	1
 关节点	guan jie dian	1
-管理表单数据	guan li biao dan shu ju	1
+管理表单数据	guan li biao dan shu jv	1
 管理程序	guan li cheng xu	1
 管理程序调用	guan li cheng xu diao yong	1
 管理过程	guan li guo cheng	1
@@ -2919,21 +2919,21 @@ use_preset_vocabulary: true
 管理员帐号	guan li yuan zhang hao	1
 关联处理机	guan lian chu li ji	1
 关联规则	guan lian gui ze	1
-关联矩阵	guan lian ju zhen	1
+关联矩阵	guan lian jv zhen	1
 关联类	guan lian lei	1
 关联失效	guan lian shi xiao	1
 关系代数	guan xi dai shu	1
 关系逻辑	guan xi luo ji	1
 关系模式分解	guan xi mo shi fen jie	1
-关系数据库	guan xi shu ju ku	1
-关系数据模型	guan xi shu ju mo xing	1
+关系数据库	guan xi shu jv ku	1
+关系数据模型	guan xi shu jv mo xing	1
 关系网	guan xi wang	1
 关系系统	guan xi xi tong	1
 关系演算	guan xi yan suan	1
-关系子句	guan xi zi ju	1
+关系子句	guan xi zi jv	1
 管辖约束	guan xia yue shu	1
 管辖约束理论	guan xia yue shu li lun	1
-惯性矩	guan xing ju	1
+惯性矩	guan xing jv	1
 惯用型词典	guan yong xing ci dian	1
 关于傲游	guan yu ao you	1
 光笔	guang bi	1
@@ -2956,7 +2956,7 @@ use_preset_vocabulary: true
 广告猎手	guang gao lie shou	1
 广告猎手设置	guang gao lie shou she zhi	1
 光隔离器	guang ge li qi	1
-光轨间距	guang gui jian ju	1
+光轨间距	guang gui jian jv	1
 光记录	guang ji lu	1
 光记录介质	guang ji lu jie zhi	1
 光计算机	guang ji suan ji	1
@@ -3032,7 +3032,7 @@ use_preset_vocabulary: true
 规则集	gui ze ji	1
 规则库	gui ze ku	1
 规则推理	gui ze tui li	1
-规则子句	gui ze zi ju	1
+规则子句	gui ze zi jv	1
 滚动条	gun dong tiao	1
 滚轮切换标签	gun lun qie huan biao qian	1
 滚筒绘图机	gun tong hui tu ji	1
@@ -3043,7 +3043,7 @@ use_preset_vocabulary: true
 过程逻辑	guo cheng luo ji	1
 过程模型	guo cheng mo xing	1
 过程实现方法	guo cheng shi xian fang fa	1
-过程数据	guo cheng shu ju	1
+过程数据	guo cheng shu jv	1
 过程同步	guo cheng tong bu	1
 过程性知识	guo cheng xing zhi shi	1
 过程语言	guo cheng yu yan	1
@@ -3060,7 +3060,7 @@ use_preset_vocabulary: true
 过滤提示	guo lv ti shi	1
 过滤页面内容	guo lv ye mian nei rong	1
 过期检查点	guo qi jian cha dian	1
-过期数据	guo qi shu ju	1
+过期数据	guo qi shu jv	1
 哈佛结构	ha fo jie gou	1
 哈密顿回路	ha mi dun hui lu	1
 哈密顿路径	ha mi dun lu jing	1
@@ -3069,7 +3069,7 @@ use_preset_vocabulary: true
 海量存储器	hai liang cun chu qi	1
 海阳顶端	hai yang ding duan	1
 汉卡	han ka	1
-汉明距离	han ming ju li	1
+汉明距离	han ming jv li	1
 汉明码	han ming ma	1
 焊盘	han pan	1
 函数	han shu	1
@@ -3280,9 +3280,9 @@ use_preset_vocabulary: true
 划代原则	hua dai yuan ze	1
 华东承启	hua dong cheng qi	1
 划分算法	hua fen suan fa	1
-画渐变矩形	hua jian bian ju xing	1
-画矩形	hua ju xing	1
-华军软件	hua jun ruan jian	1
+画渐变矩形	hua jian bian jv xing	1
+画矩形	hua jv xing	1
+华军软件	hua jvn ruan jian	1
 华莱士树	hua lai shi shu	1
 话题小组	hua ti xiao zu	1
 华途	hua tu	1
@@ -3294,8 +3294,8 @@ use_preset_vocabulary: true
 话语分析	hua yu fen xi	1
 话语模型	hua yu mo xing	1
 话语生成	hua yu sheng cheng	1
-画圆角矩形	hua yuan jiao ju xing	1
-花园路径句	hua yuan lu jing ju	1
+画圆角矩形	hua yuan jiao jv xing	1
+花园路径句	hua yuan lu jing jv	1
 画中画	hua zhong hua	1
 坏扇区法	huai shan qu fa	1
 缓冲池	huan chong chi	1
@@ -3367,7 +3367,7 @@ use_preset_vocabulary: true
 回路	hui lu	1
 会面时间	hui mian shi jian	1
 回扫时间	hui sao shi jian	1
-回声句	hui sheng ju	1
+回声句	hui sheng jv	1
 回收程序	hui shou cheng xu	1
 回送	hui song	1
 回送测试	hui song ce shi	1
@@ -3412,7 +3412,7 @@ use_preset_vocabulary: true
 活动页	huo dong ye	1
 活动主体	huo dong zhu ti	1
 活动状态	huo dong zhuang tai	1
-霍恩子句	huo en zi ju	1
+霍恩子句	huo en zi jv	1
 霍尔逻辑	huo er luo ji	1
 或非门	huo fei men	1
 霍夫变换	huo fu bian huan	1
@@ -3458,7 +3458,7 @@ use_preset_vocabulary: true
 击打式打印机	ji da shi da yin ji	1
 击打噪声	ji da zao sheng	1
 基带传输	ji dai chuan shu	1
-基带局	ji dai ju	1
+基带局	ji dai jv	1
 基底结构	ji di jie gou	1
 基底凸线	ji di tu xian	1
 基底型式	ji di xing shi	1
@@ -3486,7 +3486,7 @@ use_preset_vocabulary: true
 几何校正	ji he jiao zheng	1
 集合类	ji he lei	1
 几何连续性	ji he lian xu xing	1
-几何平均	ji he ping jun	1
+几何平均	ji he ping jvn	1
 集合语言	ji he yu yan	1
 几何造型	ji he zao xing	1
 激活	ji huo	1
@@ -3525,7 +3525,7 @@ use_preset_vocabulary: true
 机器人	ji qi ren	1
 机器人工程	ji qi ren gong cheng	1
 机器人学	ji qi ren xue	1
-机器视觉	ji qi shi jue	1
+机器视觉	ji qi shi jve	1
 机器学习	ji qi xue xi	1
 机器语言	ji qi yu yan	1
 机器运行	ji qi yun xing	1
@@ -3581,10 +3581,10 @@ use_preset_vocabulary: true
 计算机乱用	ji suan ji luan yong	1
 计算机密码学	ji suan ji mi ma xue	1
 计算机软件	ji suan ji ruan jian	1
-计算机视觉	ji suan ji shi jue	1
+计算机视觉	ji suan ji shi jve	1
 计算机实现	ji suan ji shi xian	1
 计算技术	ji suan ji shu	1
-计算机数据	ji suan ji shu ju	1
+计算机数据	ji suan ji shu jv	1
 计算机数控	ji suan ji shu kong	1
 计算机图像	ji suan ji tu xiang	1
 计算机图形学	ji suan ji tu xing xue	1
@@ -3603,7 +3603,7 @@ use_preset_vocabulary: true
 计算机制图	ji suan ji zhi tu	1
 计算机字	ji suan ji zi	1
 计算机资源	ji suan ji zi yuan	1
-计算句法学	ji suan ju fa xue	1
+计算句法学	ji suan jv fa xue	1
 计算零知识	ji suan ling zhi shi	1
 计算逻辑	ji suan luo ji	1
 计算排序	ji suan pai xu	1
@@ -3661,7 +3661,7 @@ use_preset_vocabulary: true
 基准码	ji zhun ma	1
 基准网络	ji zhun wang luo	1
 基准线	ji zhun xian	1
-基子句	ji zi ju	1
+基子句	ji zi jv	1
 加标图	jia biao tu	1
 加博变换	jia bo bian huan	1
 加粗当前标签	jia cu dang qian biao qian	1
@@ -3669,7 +3669,7 @@ use_preset_vocabulary: true
 加急传送	jia ji chuan song	1
 加记录	jia ji lu	1
 加减器	jia jian qi	1
-夹具	jia ju	1
+夹具	jia jv	1
 加空记录	jia kong ji lu	1
 加亮	jia liang	1
 假冒攻击	jia mao gong ji	1
@@ -3682,7 +3682,7 @@ use_preset_vocabulary: true
 加强成分	jia qiang cheng fen	1
 加强模糊	jia qiang mo hu	1
 加权	jia quan	1
-加权同步距离	jia quan tong bu ju li	1
+加权同步距离	jia quan tong bu jv li	1
 加权图	jia quan tu	1
 加入项目	jia ru xiang mu	1
 加入杂色	jia ru za se	1
@@ -3718,7 +3718,7 @@ use_preset_vocabulary: true
 鉴别	jian bie	1
 鉴别交换	jian bie jiao huan	1
 鉴别逻辑	jian bie luo ji	1
-鉴别数据	jian bie shu ju	1
+鉴别数据	jian bie shu jv	1
 鉴别头	jian bie tou	1
 鉴别信息	jian bie xin xi	1
 剪裁过程	jian cai guo cheng	1
@@ -3784,7 +3784,7 @@ use_preset_vocabulary: true
 剑网木马	jian wang mu ma	1
 键位	jian wei	1
 键位表	jian wei biao	1
-键位布局	jian wei bu ju	1
+键位布局	jian wei bu jv	1
 间协议	jian xie yi	1
 检验板测试	jian yan ban ce shi	1
 检验步骤	jian yan bu zhou	1
@@ -3899,7 +3899,7 @@ use_preset_vocabulary: true
 结构化分析	jie gou hua fen xi	1
 结构化规约	jie gou hua gui yue	1
 结构化设计	jie gou hua she ji	1
-结构理据	jie gou li ju	1
+结构理据	jie gou li jv	1
 结构模式识别	jie gou mo shi shi bie	1
 结构歧义	jie gou qi yi	1
 结构图	jie gou tu	1
@@ -3909,7 +3909,7 @@ use_preset_vocabulary: true
 结合价	jie he jia	1
 结合价理论	jie he jia li lun	1
 结合价语法	jie he jia yu fa	1
-解决方案	jie jue fang an	1
+解决方案	jie jve fang an	1
 接口	jie kou	1
 接口测试	jie kou ce shi	1
 接口程序集	jie kou cheng xu ji	1
@@ -3948,7 +3948,7 @@ use_preset_vocabulary: true
 结束坐标	jie shu zuo biao	1
 解锁	jie suo	1
 解锁记录	jie suo ji lu	1
-解锁数据库	jie suo shu ju ku	1
+解锁数据库	jie suo shu jv ku	1
 解图	jie tu	1
 结温	jie wen	1
 接线	jie xian	1
@@ -3972,7 +3972,7 @@ use_preset_vocabulary: true
 进程调度	jin cheng diao du	1
 进程定性推理	jin cheng ding xing tui li	1
 进程间通信	jin cheng jian tong xin	1
-进程句柄	jin cheng ju bing	1
+进程句柄	jin cheng jv bing	1
 进程名	jin cheng ming	1
 进程迁移	jin cheng qian yi	1
 进程同步	jin cheng tong bu	1
@@ -4070,7 +4070,7 @@ use_preset_vocabulary: true
 静态内部类	jing tai nei bu lei	1
 静态扭斜	jing tai niu xie	1
 静态冗余	jing tai rong yu	1
-静态数据区	jing tai shu ju qu	1
+静态数据区	jing tai shu jv qu	1
 静态属性表	jing tai shu xing biao	1
 静态刷新	jing tai shua xin	1
 静态网络	jing tai wang luo	1
@@ -4096,96 +4096,96 @@ use_preset_vocabulary: true
 纠错码	jiu cuo ma	1
 就绪	jiu xu	1
 就绪状态	jiu xu zhuang tai	1
-句柄	ju bing	1
-局部变量	ju bu bian liang	1
-局部存储	ju bu cun chu	1
-局部等待图	ju bu deng dai tu	1
-局部故障	ju bu gu zhang	1
-局部光照模型	ju bu guang zhao mo xing	1
-局部过程调用	ju bu guo cheng diao yong	1
-局部模式	ju bu mo shi	1
-局部确定	ju bu que ding	1
-局部失效	ju bu shi xiao	1
-局部死锁	ju bu si suo	1
-局部性	ju bu xing	1
-局部应用	ju bu ying yong	1
-局部总线	ju bu zong xian	1
-局部坐标系	ju bu zuo biao xi	1
-巨磁变阻头	ju ci bian zu tou	1
-聚簇索引	ju cu suo yin	1
-句法	ju fa	1
-句法范畴	ju fa fan chou	1
-句法分析	ju fa fen xi	1
-句法关系	ju fa guan xi	1
-句法规则	ju fa gui ze	1
-句法结构	ju fa jie gou	1
-句法类别	ju fa lei bie	1
-句法理论	ju fa li lun	1
-句法模式识别	ju fa mo shi shi bie	1
-句法歧义	ju fa qi yi	1
-句法生成	ju fa sheng cheng	1
-句法树	ju fa shu	1
-句法语义学	ju fa yu yi xue	1
-句法语意学	ju fa yu yi xue	1
-句构语法	ju gou yu fa	1
-聚光	ju guang	1
-句核	ju he	1
-聚合关系	ju he guan xi	1
-聚合事件	ju he shi jian	1
-菊花链	ju hua lian	1
-聚集	ju ji	1
-聚焦伺服	ju jiao ci fu	1
-拒绝服务	ju jue fu wu	1
-聚类	ju lei	1
-聚类分析	ju lei fen xi	1
-距离向量	ju li xiang liang	1
-矩描述子	ju miao shu zi	1
-句型	ju xing	1
-矩形波浪	ju xing bo lang	1
-巨型计算机	ju xing ji suan ji	1
-局域网	ju yu wang	1
-局域网单	ju yu wang dan	1
-局域网多播	ju yu wang duo bo	1
-局域网服务器	ju yu wang fu wu qi	1
-局域网广播	ju yu wang guang bo	1
-局域网交换机	ju yu wang jiao huan ji	1
-局域网网关	ju yu wang wang guan	1
-聚酯色带	ju zhi se dai	1
-句子产生器	ju zi chan sheng qi	1
-句子片段	ju zi pian duan	1
-句子歧义消除	ju zi qi yi xiao chu	1
-句子生成程序	ju zi sheng cheng cheng xu	1
-卷回传播	juan hui chuan bo	1
-卷回恢复	juan hui hui fu	1
-卷积	juan ji	1
-卷积核	juan ji he	1
-卷积投影数据	juan ji tou ying shu ju	1
-决策表	jue ce biao	1
-决策规则	jue ce gui ze	1
-决策过程	jue ce guo cheng	1
-决策函数	jue ce han shu	1
-决策计划	jue ce ji hua	1
-决策矩阵	jue ce ju zhen	1
-决策空间	jue ce kong jian	1
-决策控制	jue ce kong zhi	1
-决策论	jue ce lun	1
-决策模型	jue ce mo xing	1
-决策树	jue ce shu	1
-决策树系统	jue ce shu xi tong	1
-决策问题	jue ce wen ti	1
-决策语句	jue ce yu ju	1
-决策支持系统	jue ce zhi chi xi tong	1
-决策支持中心	jue ce zhi chi zhong xin	1
-决策制定	jue ce zhi ding	1
-决策准则	jue ce zhun ze	1
-绝对地址	jue dui di zhi	1
-绝对分辨率	jue dui fen bian lv	1
-绝对机器代码	jue dui ji qi dai ma	1
-绝对取整	jue dui qu zheng	1
-绝密级	jue mi ji	1
-角色模型	jue se mo xing	1
-均衡器	jun heng qi	1
-龟裂空隙	jun lie kong xi	1
+句柄	jv bing	1
+局部变量	jv bu bian liang	1
+局部存储	jv bu cun chu	1
+局部等待图	jv bu deng dai tu	1
+局部故障	jv bu gu zhang	1
+局部光照模型	jv bu guang zhao mo xing	1
+局部过程调用	jv bu guo cheng diao yong	1
+局部模式	jv bu mo shi	1
+局部确定	jv bu que ding	1
+局部失效	jv bu shi xiao	1
+局部死锁	jv bu si suo	1
+局部性	jv bu xing	1
+局部应用	jv bu ying yong	1
+局部总线	jv bu zong xian	1
+局部坐标系	jv bu zuo biao xi	1
+巨磁变阻头	jv ci bian zu tou	1
+聚簇索引	jv cu suo yin	1
+句法	jv fa	1
+句法范畴	jv fa fan chou	1
+句法分析	jv fa fen xi	1
+句法关系	jv fa guan xi	1
+句法规则	jv fa gui ze	1
+句法结构	jv fa jie gou	1
+句法类别	jv fa lei bie	1
+句法理论	jv fa li lun	1
+句法模式识别	jv fa mo shi shi bie	1
+句法歧义	jv fa qi yi	1
+句法生成	jv fa sheng cheng	1
+句法树	jv fa shu	1
+句法语义学	jv fa yu yi xue	1
+句法语意学	jv fa yu yi xue	1
+句构语法	jv gou yu fa	1
+聚光	jv guang	1
+句核	jv he	1
+聚合关系	jv he guan xi	1
+聚合事件	jv he shi jian	1
+菊花链	jv hua lian	1
+聚集	jv ji	1
+聚焦伺服	jv jiao ci fu	1
+拒绝服务	jv jue fu wu	1
+聚类	jv lei	1
+聚类分析	jv lei fen xi	1
+距离向量	jv li xiang liang	1
+矩描述子	jv miao shu zi	1
+句型	jv xing	1
+矩形波浪	jv xing bo lang	1
+巨型计算机	jv xing ji suan ji	1
+局域网	jv yu wang	1
+局域网单	jv yu wang dan	1
+局域网多播	jv yu wang duo bo	1
+局域网服务器	jv yu wang fu wu qi	1
+局域网广播	jv yu wang guang bo	1
+局域网交换机	jv yu wang jiao huan ji	1
+局域网网关	jv yu wang wang guan	1
+聚酯色带	jv zhi se dai	1
+句子产生器	jv zi chan sheng qi	1
+句子片段	jv zi pian duan	1
+句子歧义消除	jv zi qi yi xiao chu	1
+句子生成程序	jv zi sheng cheng cheng xu	1
+卷回传播	jvan hui chuan bo	1
+卷回恢复	jvan hui hui fu	1
+卷积	jvan ji	1
+卷积核	jvan ji he	1
+卷积投影数据	jvan ji tou ying shu ju	1
+决策表	jve ce biao	1
+决策规则	jve ce gui ze	1
+决策过程	jve ce guo cheng	1
+决策函数	jve ce han shu	1
+决策计划	jve ce ji hua	1
+决策矩阵	jve ce ju zhen	1
+决策空间	jve ce kong jian	1
+决策控制	jve ce kong zhi	1
+决策论	jve ce lun	1
+决策模型	jve ce mo xing	1
+决策树	jve ce shu	1
+决策树系统	jve ce shu xi tong	1
+决策问题	jve ce wen ti	1
+决策语句	jve ce yu ju	1
+决策支持系统	jve ce zhi chi xi tong	1
+决策支持中心	jve ce zhi chi zhong xin	1
+决策制定	jve ce zhi ding	1
+决策准则	jve ce zhun ze	1
+绝对地址	jve dui di zhi	1
+绝对分辨率	jve dui fen bian lv	1
+绝对机器代码	jve dui ji qi dai ma	1
+绝对取整	jve dui qu zheng	1
+绝密级	jve mi ji	1
+角色模型	jve se mo xing	1
+均衡器	jvn heng qi	1
+龟裂空隙	jvn lie kong xi	1
 卡巴斯基	ka ba si ji	1
 卡尔曼滤波	ka er man lv bo	1
 卡洛变换	ka luo bian huan	1
@@ -4196,7 +4196,7 @@ use_preset_vocabulary: true
 卡纸	ka zhi	1
 开窗口	kai chuang kou	1
 开发方法学	kai fa fang fa xue	1
-开发工具箱	kai fa gong ju xiang	1
+开发工具箱	kai fa gong jv xiang	1
 开发规约	kai fa gui yue	1
 开发过程	kai fa guo cheng	1
 开发环境模型	kai fa huan jing mo xing	1
@@ -4287,7 +4287,7 @@ use_preset_vocabulary: true
 可靠性评价	ke kao xing ping jia	1
 可靠性认证	ke kao xing ren zheng	1
 可靠性设计	ke kao xing she ji	1
-可靠性数据	ke kao xing shu ju	1
+可靠性数据	ke kao xing shu jv	1
 可控制性	ke kong zhi xing	1
 可扩充性	ke kuo chong xing	1
 可扩缩性	ke kuo suo xing	1
@@ -4327,7 +4327,7 @@ use_preset_vocabulary: true
 可行性	ke xing xing	1
 可行性研究	ke xing xing yan jiu	1
 可修改性	ke xiu gai xing	1
-科学数据库	ke xue shu ju ku	1
+科学数据库	ke xue shu jv ku	1
 可移植	ke yi zhi	1
 可移植性	ke yi zhi xing	1
 可用性	ke yong xing	1
@@ -4345,15 +4345,15 @@ use_preset_vocabulary: true
 空地址	kong di zhi	1
 空集	kong ji	1
 空间	kong jian	1
-空间布局	kong jian bu ju	1
+空间布局	kong jian bu jv	1
 空间分割	kong jian fen ge	1
 空间复杂度	kong jian fu za du	1
 空间复杂性	kong jian fu za xing	1
 空间检索	kong jian jian suo	1
-空间局部性	kong jian ju bu xing	1
+空间局部性	kong jian jv bu xing	1
 空间控制	kong jian kong zhi	1
 空间谱系	kong jian pu xi	1
-空间数据库	kong jian shu ju ku	1
+空间数据库	kong jian shu jv ku	1
 空间索引	kong jian suo yin	1
 空间推理	kong jian tui li	1
 空间拓扑关系	kong jian tuo pu guan xi	1
@@ -4401,7 +4401,7 @@ use_preset_vocabulary: true
 控制器接口	kong zhi qi jie kou	1
 控制驱动	kong zhi qu dong	1
 控制软件	kong zhi ruan jian	1
-控制数据	kong zhi shu ju	1
+控制数据	kong zhi shu jv	1
 控制输入位置	kong zhi shu ru wei zhi	1
 控制算法	kong zhi suan fa	1
 控制台	kong zhi tai	1
@@ -4411,7 +4411,7 @@ use_preset_vocabulary: true
 控制箱	kong zhi xiang	1
 控制依赖	kong zhi yi lai	1
 控制一致原理	kong zhi yi zhi yuan li	1
-控制语句	kong zhi yu ju	1
+控制语句	kong zhi yu jv	1
 控制站	kong zhi zhan	1
 控制帧	kong zhi zhen	1
 空指针	kong zhi zhen	1
@@ -4420,7 +4420,7 @@ use_preset_vocabulary: true
 控制总线	kong zhi zong xian	1
 口令	kou ling	1
 口令攻击	kou ling gong ji	1
-口令句	kou ling ju	1
+口令句	kou ling jv	1
 口语	kou yu	1
 库函数	ku han shu	1
 库克可归约性	ku ke ke gui yue xing	1
@@ -4458,7 +4458,7 @@ use_preset_vocabulary: true
 困难问题	kun nan wen ti	1
 扩充	kuo chong	1
 扩充槽	kuo chong cao	1
-扩充数据输出	kuo chong shu ju shu chu	1
+扩充数据输出	kuo chong shu jv shu chu	1
 扩充转移网路	kuo chong zhuan yi wang lu	1
 扩充转移网络	kuo chong zhuan yi wang luo	1
 扩散分化	kuo san fen hua	1
@@ -4522,7 +4522,7 @@ use_preset_vocabulary: true
 离散重建问题	li san chong jian wen ti	1
 离散对数	li san dui shu	1
 离散对数问题	li san dui shu wen ti	1
-离散卷积	li san juan ji	1
+离散卷积	li san jvan ji	1
 离散控制系统	li san kong zhi xi tong	1
 离散时间算法	li san shi jian suan fa	1
 离散松弛法	li san song chi fa	1
@@ -4530,12 +4530,12 @@ use_preset_vocabulary: true
 例示	li shi	1
 历史规则	li shi gui ze	1
 历史记录天数	li shi ji lu tian shu	1
-历史数据	li shi shu ju	1
-历史数据库	li shi shu ju ku	1
+历史数据	li shi shu jv	1
+历史数据库	li shi shu jv ku	1
 历史状态	li shi zhuang tai	1
 立体匹配	li ti pi pei	1
 立体声	li ti sheng	1
-立体视觉	li ti shi jue	1
+立体视觉	li ti shi jve	1
 立体显示	li ti xian shi	1
 立体印刷设备	li ti yin shua she bei	1
 立体映射	li ti ying she	1
@@ -4551,7 +4551,7 @@ use_preset_vocabulary: true
 粒子场	li zi chang	1
 粒子系统	li zi xi tong	1
 联邦模式	lian bang mo shi	1
-联邦数据库	lian bang shu ju ku	1
+联邦数据库	lian bang shu jv ku	1
 链表	lian biao	1
 连并合	lian bing he	1
 连词模型	lian ci mo xing	1
@@ -4565,7 +4565,7 @@ use_preset_vocabulary: true
 联机登录	lian ji deng lu	1
 联机分析处理	lian ji fen xi chu li	1
 联机分析过程	lian ji fen xi guo cheng	1
-联机分析挖掘	lian ji fen xi wa jue	1
+联机分析挖掘	lian ji fen xi wa jve	1
 联机故障检测	lian ji gu zhang jian ce	1
 联机命令语言	lian ji ming ling yu yan	1
 联机排错	lian ji pai cuo	1
@@ -4660,7 +4660,7 @@ use_preset_vocabulary: true
 邻接表结构	lin jie biao jie gou	1
 临界负载线	lin jie fu zai xian	1
 邻接关系	lin jie guan xi	1
-邻接矩阵	lin jie ju zhen	1
+邻接矩阵	lin jie jv zhen	1
 临界控制	lin jie kong zhi	1
 临界路径	lin jie lu jing	1
 临界区	lin jie qu	1
@@ -4698,7 +4698,7 @@ use_preset_vocabulary: true
 领域主体	ling yu zhu ti	1
 领域专家	ling yu zhuan jia	1
 零知识	ling zhi shi	1
-流布局	liu bu ju	1
+流布局	liu bu jv	1
 流程模型	liu cheng mo xing	1
 流程图	liu cheng tu	1
 流方式	liu fang shi	1
@@ -4842,16 +4842,16 @@ use_preset_vocabulary: true
 美国	mei guo	1
 美国微软公司	mei guo wei ruan gong si	1
 媒介语	mei jie yu	1
-枚举	mei ju	1
-枚举变量	mei ju bian liang	1
-枚举进程	mei ju jin cheng	1
-枚举子程序	mei ju zi cheng xu	1
+枚举	mei jv	1
+枚举变量	mei jv bian liang	1
+枚举进程	mei jv jin cheng	1
+枚举子程序	mei jv zi cheng xu	1
 梅勒斯木马	mei le si mu ma	1
 美丽秀	mei li xiu	1
 媒体	mei ti	1
 媒体访问控制	mei ti fang wen kong zhi	1
 媒体控制接口	mei ti kong zhi jie kou	1
-美亚军事	mei ya jun shi	1
+美亚军事	mei ya jvn shi	1
 门延迟	men yan chi	1
 门阵列	men zhen lie	1
 蒙古文	meng gu wen	1
@@ -4866,7 +4866,7 @@ use_preset_vocabulary: true
 密封连接器	mi feng lian jie qi	1
 密封器	mi feng qi	1
 密级	mi ji	1
-密级数据	mi ji shu ju	1
+密级数据	mi ji shu jv	1
 密级信息	mi ji xin xi	1
 米利机	mi li ji	1
 密码保密	mi ma bao mi	1
@@ -4949,7 +4949,7 @@ use_preset_vocabulary: true
 灭点	mie dian	1
 敏感度	min gan du	1
 敏感故障	min gan gu zhang	1
-敏感数据	min gan shu ju	1
+敏感数据	min gan shu jv	1
 敏感图案	min gan tu an	1
 敏感性	min gan xing	1
 敏感元件	min gan yuan jian	1
@@ -4999,8 +4999,8 @@ use_preset_vocabulary: true
 模糊控制	mo hu kong zhi	1
 模糊逻辑	mo hu luo ji	1
 模糊神经网络	mo hu shen jing wang luo	1
-模糊数据	mo hu shu ju	1
-模糊数据库	mo hu shu ju ku	1
+模糊数据	mo hu shu jv	1
+模糊数据库	mo hu shu jv ku	1
 模糊数学	mo hu shu xue	1
 模糊松弛法	mo hu song chi fa	1
 模糊搜索	mo hu sou suo	1
@@ -5091,8 +5091,8 @@ use_preset_vocabulary: true
 目标语输出	mu biao yu shu chu	1
 目标语言	mu biao yu yan	1
 目标语言词典	mu biao yu yan ci dian	1
-目标子句	mu biao zi ju	1
-模具设计	mu ju she ji	1
+目标子句	mu biao zi jv	1
+模具设计	mu jv she ji	1
 目录服务	mu lu fu wu	1
 目录排序	mu lu pai xu	1
 木马克星	mu ma ke xing	1
@@ -5123,21 +5123,21 @@ use_preset_vocabulary: true
 内存条	nei cun tiao	1
 内含类型	nei han lei xing	1
 内含逻辑	nei han luo ji	1
-内涵数据库	nei han shu ju ku	1
+内涵数据库	nei han shu jv ku	1
 内涵语意学	nei han yu yi xue	1
 内核	nei he	1
 内核程序	nei he cheng xu	1
 内核服务	nei he fu wu	1
 内核进程	nei he jin cheng	1
 内核模块	nei he mo kuai	1
-内核数据结构	nei he shu ju jie gou	1
+内核数据结构	nei he shu jv jie gou	1
 内核语言	nei he yu yan	1
 内核原语	nei he yuan yu	1
 内核栈	nei he zhan	1
 内环	nei huan	1
 内建函数	nei jian han shu	1
 内建自测试	nei jian zi ce shi	1
-内聚性	nei ju xing	1
+内聚性	nei jv xing	1
 内联网	nei lian wang	1
 内连网	nei lian wang	1
 内联网安全	nei lian wang an quan	1
@@ -5178,7 +5178,7 @@ use_preset_vocabulary: true
 年在	nian zai	1
 粘着位	nian zhe wei	1
 凝结性粘着性	ning jie xing nian zhuo xing	1
-凝聚	ning ju	1
+凝聚	ning jv	1
 凝逸反毒	ning yi fan du	1
 诺顿	nuo dun	1
 诺尔形式	nuo er xing shi	1
@@ -5197,7 +5197,7 @@ use_preset_vocabulary: true
 偶然事故	ou ran shi gu	1
 偶然威胁	ou ran wei xie	1
 偶然中断	ou ran zhong duan	1
-欧氏距离	ou shi ju li	1
+欧氏距离	ou shi jv li	1
 偶数场	ou shu chang	1
 偶数扫描	ou shu sao miao	1
 排错	pai cuo	1
@@ -5303,13 +5303,13 @@ use_preset_vocabulary: true
 平滑程度	ping hua cheng du	1
 评价	ping jia	1
 评价函数	ping jia han shu	1
-平均存取时间	ping jun cun qu shi jian	1
-平均等待时间	ping jun deng dai shi jian	1
-平均访问时间	ping jun fang wen shi jian	1
-平均归约	ping jun gui yue	1
-平均性态分析	ping jun xing tai fen xi	1
-平均修复时间	ping jun xiu fu shi jian	1
-平均寻道时间	ping jun xun dao shi jian	1
+平均存取时间	ping jvn cun qu shi jian	1
+平均等待时间	ping jvn deng dai shi jian	1
+平均访问时间	ping jvn fang wen shi jian	1
+平均归约	ping jvn gui yue	1
+平均性态分析	ping jvn xing tai fen xi	1
+平均修复时间	ping jvn xiu fu shi jian	1
+平均寻道时间	ping jvn xun dao shi jian	1
 平面	ping mian	1
 平面八位	ping mian ba wei	1
 平面地址空间	ping mian di zhi kong jian	1
@@ -5330,7 +5330,7 @@ use_preset_vocabulary: true
 平台	ping tai	1
 平台调用	ping tai diao yong	1
 平行分布处理	ping xing fen bu chu li	1
-平行束卷积法	ping xing shu juan ji fa	1
+平行束卷积法	ping xing shu jvan ji fa	1
 平行投影	ping xing tou ying	1
 平行语料库	ping xing yu liao ku	1
 平移变换	ping yi bian huan	1
@@ -5488,7 +5488,7 @@ use_preset_vocabulary: true
 清除忽略列表	qing chu hu lue lie biao	1
 清除剪辑板	qing chu jian ji ban	1
 清除历史记录	qing chu li shi ji lu	1
-清除内存数据	qing chu nei cun shu ju	1
+清除内存数据	qing chu nei cun shu jv	1
 清除切片	qing chu qie pian	1
 清除请求	qing chu qing qiu	1
 清除数组	qing chu shu zu	1
@@ -5505,7 +5505,7 @@ use_preset_vocabulary: true
 情景主体	qing jing zhu ti	1
 情景自动机	qing jing zi dong ji	1
 情况	qing kuang	1
-情况语句	qing kuang yu ju	1
+情况语句	qing kuang yu jv	1
 请求	qing qiu	1
 请求参数表	qing qiu can shu biao	1
 请求处理	qing qiu chu li	1
@@ -5524,7 +5524,7 @@ use_preset_vocabulary: true
 求正切	qiu zheng qie	1
 求自然对数	qiu zi ran dui shu	1
 取背景色	qu bei jing se	1
-取边距	qu bian ju	1
+取边距	qu bian jv	1
 取变体型	qu bian ti xing	1
 取标记组件	qu biao ji zu jian	1
 取表头行数	qu biao tou hang shu	1
@@ -5533,8 +5533,8 @@ use_preset_vocabulary: true
 取重复文本	qu chong fu wen ben	1
 取重复字节集	qu chong fu zi jie ji	1
 取创建时间	qu chuang jian shi jian	1
-取窗口句柄	qu chuang kou ju bing	1
-取磁盘卷标	qu ci pan juan biao	1
+取窗口句柄	qu chuang kou jv bing	1
+取磁盘卷标	qu ci pan jvan biao	1
 取磁盘总空间	qu ci pan zong kong jian	1
 取错误	qu cuo wu	1
 取错误码	qu cuo wu ma	1
@@ -5563,7 +5563,7 @@ use_preset_vocabulary: true
 去焊枪	qu han qiang	1
 取行高	qu hang gao	1
 取回客户	qu hui ke hu	1
-取回数据	qu hui shu ju	1
+取回数据	qu hui shu jv	1
 取回图片	qu hui tu pian	1
 取回字体	qu hui zi ti	1
 取记录号	qu ji lu hao	1
@@ -5575,9 +5575,9 @@ use_preset_vocabulary: true
 取焦点项目	qu jiao dian xiang mu	1
 取接口	qu jie kou	1
 取进程	qu jin cheng	1
-取进程句柄	qu jin cheng ju bing	1
+取进程句柄	qu jin cheng jv bing	1
 取景变换	qu jing bian huan	1
-取绝对值	qu jue dui zhi	1
+取绝对值	qu jve dui zhi	1
 取空白文本	qu kong bai wen ben	1
 取空白字节集	qu kong bai zi jie ji	1
 取库文件名	qu ku wen jian ming	1
@@ -5612,7 +5612,7 @@ use_preset_vocabulary: true
 取屏幕宽度	qu ping mu kuan du	1
 取日	qu ri	1
 取日期	qu ri qi	1
-取设备句柄	qu she bei ju bing	1
+取设备句柄	qu she bei jv bing	1
 取声母	qu sheng mu	1
 取时间	qu shi jian	1
 取时间部分	qu shi jian bu fen	1
@@ -5669,7 +5669,7 @@ use_preset_vocabulary: true
 区域标定	qu yu biao ding	1
 区域分割	qu yu fen ge	1
 区域合并	qu yu he bing	1
-区域聚类	qu yu ju lei	1
+区域聚类	qu yu jv lei	1
 区域控制任务	qu yu kong zhi ren wu	1
 区域描述	qu yu miao shu	1
 区域生长	qu yu sheng zhang	1
@@ -5713,19 +5713,19 @@ use_preset_vocabulary: true
 全混洗	quan hun xi	1
 全加器	quan jia qi	1
 全减器	quan jian qi	1
-全局变量	quan ju bian liang	1
-全局查询	quan ju cha xun	1
-全局查询优化	quan ju cha xun you hua	1
-全局存储器	quan ju cun chu qi	1
-全局共享资源	quan ju gong xiang zi yuan	1
-全局故障	quan ju gu zhang	1
-全局设置	quan ju she zhi	1
-全局事务	quan ju shi wu	1
-全局死锁	quan ju si suo	1
-全局搜索	quan ju sou suo	1
-全局应用	quan ju ying yong	1
-全局优化	quan ju you hua	1
-全局知识	quan ju zhi shi	1
+全局变量	quan jv bian liang	1
+全局查询	quan jv cha xun	1
+全局查询优化	quan jv cha xun you hua	1
+全局存储器	quan jv cun chu qi	1
+全局共享资源	quan jv gong xiang zi yuan	1
+全局故障	quan jv gu zhang	1
+全局设置	quan jv she zhi	1
+全局事务	quan jv shi wu	1
+全局死锁	quan jv si suo	1
+全局搜索	quan jv sou suo	1
+全局应用	quan jv ying yong	1
+全局优化	quan jv you hua	1
+全局知识	quan jv zhi shi	1
 全连接网	quan lian jie wang	1
 全面质量管理	quan mian zhi liang guan li	1
 全名	quan ming	1
@@ -5752,7 +5752,7 @@ use_preset_vocabulary: true
 确定性调度	que ding xing diao du	1
 确定性算法	que ding xing suan fa	1
 确定型图灵机	que ding xing tu ling ji	1
-确定子句语法	que ding zi ju yu fa	1
+确定子句语法	que ding zi jv yu fa	1
 确界	que jie	1
 确认	que ren	1
 缺省共享	que sheng gong xiang	1
@@ -5942,7 +5942,7 @@ use_preset_vocabulary: true
 软件更改报告	ruan jian geng gai bao gao	1
 软件工程	ruan jian gong cheng	1
 软件工程环境	ruan jian gong cheng huan jing	1
-软件工具	ruan jian gong ju	1
+软件工具	ruan jian gong jv	1
 软件构件	ruan jian gou jian	1
 软件故障	ruan jian gu zhang	1
 软件过程	ruan jian guo cheng	1
@@ -5951,7 +5951,7 @@ use_preset_vocabulary: true
 软件架构师	ruan jian jia gou shi	1
 软件监控程序	ruan jian jian kong cheng xu	1
 软件结构	ruan jian jie gou	1
-软件经验数据	ruan jian jing yan shu ju	1
+软件经验数据	ruan jian jing yan shu jv	1
 软件开发方法	ruan jian kai fa fang fa	1
 软件开发过程	ruan jian kai fa guo cheng	1
 软件开发环境	ruan jian kai fa huan jing	1
@@ -5979,7 +5979,7 @@ use_preset_vocabulary: true
 软件生存周期	ruan jian sheng cun zhou qi	1
 软件事故	ruan jian shi gu	1
 软件失效	ruan jian shi xiao	1
-软件数据库	ruan jian shu ju ku	1
+软件数据库	ruan jian shu jv ku	1
 软件体系结构	ruan jian ti xi jie gou	1
 软件维护	ruan jian wei hu	1
 软件维护环境	ruan jian wei hu huan jing	1
@@ -6029,8 +6029,8 @@ use_preset_vocabulary: true
 三点透视	san dian tou shi	1
 三段论	san duan lun	1
 三级网络	san ji wang luo	1
-三角测距	san jiao ce ju	1
-散焦测距	san jiao ce ju	1
+三角测距	san jiao ce jv	1
+散焦测距	san jiao ce jv	1
 三角面片	san jiao mian pian	1
 三角剖分	san jiao pou fen	1
 三角形波浪	san jiao xing bo lang	1
@@ -6038,7 +6038,7 @@ use_preset_vocabulary: true
 三连通分支	san lian tong fen zhi	1
 散列函数	san lie han shu	1
 散列索引	san lie suo yin	1
-散乱数据点	san luan shu ju dian	1
+散乱数据点	san luan shu jv dian	1
 三模冗余	san mo rong yu	1
 三目运算符	san mu yun suan fu	1
 散热技术	san re ji shu	1
@@ -6073,12 +6073,12 @@ use_preset_vocabulary: true
 扫描转换	sao miao zhuan huan	1
 色饱和度	se bao he du	1
 色彩范围	se cai fan wei	1
-色彩均化	se cai jun hua	1
+色彩均化	se cai jvn hua	1
 色纯度	se chun du	1
 色带	se dai	1
 色调	se diao	1
 色调分离	se diao fen li	1
-色调均化	se diao jun hua	1
+色调均化	se diao jvn hua	1
 色度	se du	1
 色度图	se du tu	1
 色度学	se du xue	1
@@ -6113,7 +6113,7 @@ use_preset_vocabulary: true
 删除异常	shan chu yi chang	1
 删除自身	shan chu zi shen	1
 扇段	shan duan	1
-栅格数据结构	shan ge shu ju jie gou	1
+栅格数据结构	shan ge shu jv jie gou	1
 扇区	shan qu	1
 扇区伺服	shan qu ci fu	1
 扇区对准	shan qu dui zhun	1
@@ -6150,8 +6150,8 @@ use_preset_vocabulary: true
 上下文分析	shang xia wen fen xi	1
 上下文切换	shang xia wen qie huan	1
 上行链路	shang xing lian lu	1
-上行数据流	shang xing shu ju liu	1
-商业数据交换	shang ye shu ju jiao huan	1
+上行数据流	shang xing shu jv liu	1
+商业数据交换	shang ye shu jv jiao huan	1
 商用企业	shang yong qi ye	1
 上载	shang zai	1
 设备存储器	she bei cun chu qi	1
@@ -6312,7 +6312,7 @@ use_preset_vocabulary: true
 事件过滤器	shi jian guo lv qi	1
 事件检测程序	shi jian jian ce cheng xu	1
 事件检测器	shi jian jian ce qi	1
-时间局部性	shi jian ju bu xing	1
+时间局部性	shi jian jv bu xing	1
 事件控制块	shi jian kong zhi kuai	1
 时间量子	shi jian liang zi	1
 事件描述	shi jian miao shu	1
@@ -6340,8 +6340,8 @@ use_preset_vocabulary: true
 世界坐标系	shi jie zuo biao xi	1
 十进制	shi jin zhi	1
 十进制数字	shi jin zhi shu zi	1
-视觉	shi jue	1
-视觉模型	shi jue mo xing	1
+视觉	shi jve	1
+视觉模型	shi jve mo xing	1
 时空权衡	shi kong quan heng	1
 时空图	shi kong tu	1
 视口	shi kou	1
@@ -6396,7 +6396,7 @@ use_preset_vocabulary: true
 实时视频	shi shi shi pin	1
 实时时钟分时	shi shi shi zhong fen shi	1
 实时输出	shi shi shu chu	1
-实时数据库	shi shi shu ju ku	1
+实时数据库	shi shi shu jv ku	1
 实时输入	shi shi shu ru	1
 实时系统	shi shi xi tong	1
 实施向量	shi shi xiang liang	1
@@ -6408,7 +6408,7 @@ use_preset_vocabulary: true
 时态查询语言	shi tai cha xun yu yan	1
 事态代数	shi tai dai shu	1
 时态关系代数	shi tai guan xi dai shu	1
-时态数据库	shi tai shu ju ku	1
+时态数据库	shi tai shu jv ku	1
 试探法	shi tan fa	1
 视体	shi ti	1
 实体	shi ti	1
@@ -6446,7 +6446,7 @@ use_preset_vocabulary: true
 失效类别	shi xiao lei bie	1
 失效率	shi xiao lv	1
 石效瑞	shi xiao rui	1
-失效数据	shi xiao shu ju	1
+失效数据	shi xiao shu jv	1
 失效预测	shi xiao yu ce	1
 实型变量	shi xing bian liang	1
 实型常量	shi xing chang liang	1
@@ -6559,127 +6559,127 @@ use_preset_vocabulary: true
 述词计算	shu ci ji suan	1
 述词论元结构	shu ci lun yuan jie gou	1
 属格标记	shu ge biao ji	1
-数据	shu ju	1
-数据安全	shu ju an quan	1
-数据绑定	shu ju bang ding	1
-数据报	shu ju bao	1
-数据保护	shu ju bao hu	1
-数据表示	shu ju biao shi	1
-数据并行性	shu ju bing xing xing	1
-数据采集	shu ju cai ji	1
-数据采集系统	shu ju cai ji xi tong	1
-数据采掘	shu ju cai jue	1
-数据仓库	shu ju cang ku	1
-数据操纵	shu ju cao zong	1
-数据操纵网	shu ju cao zong wang	1
-数据操纵语言	shu ju cao zong yu yan	1
-数据测试	shu ju ce shi	1
-数据差错	shu ju cha cuo	1
-数据重建	shu ju chong jian	1
-数据冲突	shu ju chong tu	1
-数据重组	shu ju chong zu	1
-数据抽象	shu ju chou xiang	1
-数据处理	shu ju chu li	1
-数据处理系统	shu ju chu li xi tong	1
-数据初始加工	shu ju chu shi jia gong	1
-数据传输	shu ju chuan shu	1
-数据传输指令	shu ju chuan shu zhi ling	1
-数据存取路径	shu ju cun qu lu jing	1
-数据独立性	shu ju du li xing	1
-数据多样性	shu ju duo yang xing	1
-数据访问路径	shu ju fang wen lu jing	1
-数据分布	shu ju fen bu	1
-数据分析	shu ju fen xi	1
-数据分析系统	shu ju fen xi xi tong	1
-数据封装	shu ju feng zhuang	1
-数据腐烂	shu ju fu lan	1
-数据服装	shu ju fu zhuang	1
-数据高速缓存	shu ju gao su huan cun	1
-数据高速通道	shu ju gao su tong dao	1
-数据格式	shu ju ge shi	1
-数据格式转换	shu ju ge shi zhuan huan	1
-数据共享	shu ju gong xiang	1
-数据管理	shu ju guan li	1
-数据管理程序	shu ju guan li cheng xu	1
-数据和信息	shu ju he xin xi	1
-数据划分	shu ju hua fen	1
-数据环境	shu ju huan jing	1
-数据汇	shu ju hui	1
-数据恢复	shu ju hui fu	1
-数据获取	shu ju huo qu	1
-数据集	shu ju ji	1
-数据寄存器	shu ju ji cun qi	1
-数据集市	shu ju ji shi	1
-数据集中器	shu ju ji zhong qi	1
-数据加密标准	shu ju jia mi biao zhun	1
-数据加密密钥	shu ju jia mi mi yue	1
-数据加密算法	shu ju jia mi suan fa	1
-数据交换机	shu ju jiao huan ji	1
-数据结构	shu ju jie gou	1
-数据局部性	shu ju ju bu xing	1
-数据空间	shu ju kong jian	1
-数据控制语言	shu ju kong zhi yu yan	1
-数据库	shu ju ku	1
-数据库安全	shu ju ku an quan	1
-数据库保密	shu ju ku bao mi	1
-数据库重构	shu ju ku chong gou	1
-数据库重组	shu ju ku chong zu	1
-数据库管理员	shu ju ku guan li yuan	1
-数据库环境	shu ju ku huan jing	1
-数据库机	shu ju ku ji	1
-数据库集成	shu ju ku ji cheng	1
-数据库键码	shu ju ku jian ma	1
-数据库连接	shu ju ku lian jie	1
-数据库模型	shu ju ku mo xing	1
-数据库完整性	shu ju ku wan zheng xing	1
-数据库系统	shu ju ku xi tong	1
-数据类型	shu ju lei xing	1
-数据链路	shu ju lian lu	1
-数据链路层	shu ju lian lu ceng	1
-数据链路控制	shu ju lian lu kong zhi	1
-数据流	shu ju liu	1
-数据流分析	shu ju liu fen xi	1
-数据流计算机	shu ju liu ji suan ji	1
-数据流图	shu ju liu tu	1
-数据流语言	shu ju liu yu yan	1
-数据录入	shu ju lu ru	1
-数据媒体	shu ju mei ti	1
-数据描述语言	shu ju miao shu yu yan	1
-数据模型	shu ju mo xing	1
-数据目录	shu ju mu lu	1
-数据偏斜	shu ju pian xie	1
-数据欺诈	shu ju qi zha	1
-数据清洗	shu ju qing xi	1
-数据驱动	shu ju qu dong	1
-数据权标	shu ju quan biao	1
-数据确认	shu ju que ren	1
-数据冗余	shu ju rong yu	1
-数据手套	shu ju shou tao	1
-数据属性	shu ju shu xing	1
-数据宿	shu ju su	1
-数据通道	shu ju tong dao	1
-数据通路	shu ju tong lu	1
-数据通信	shu ju tong xin	1
-数据通信中	shu ju tong xin zhong	1
-数据挖掘	shu ju wa jue	1
-数据完整性	shu ju wan zheng xing	1
-数据网	shu ju wang	1
-数据网标识码	shu ju wang biao shi ma	1
-数据项	shu ju xiang	1
-数据相关冲突	shu ju xiang guan chong tu	1
-数据信号	shu ju xin hao	1
-数据依赖	shu ju yi lai	1
-数据一致性	shu ju yi zhi xing	1
-数据隐私	shu ju yin si	1
-数据有效性	shu ju you xiao xing	1
-数据源	shu ju yuan	1
-数据源控件	shu ju yuan kong jian	1
-数据站	shu ju zhan	1
-数据帧	shu ju zhen	1
-数据终端设备	shu ju zhong duan she bei	1
-数据字典	shu ju zi dian	1
-数据总线	shu ju zong xian	1
-数据组织	shu ju zu zhi	1
+数据	shu jv	1
+数据安全	shu jv an quan	1
+数据绑定	shu jv bang ding	1
+数据报	shu jv bao	1
+数据保护	shu jv bao hu	1
+数据表示	shu jv biao shi	1
+数据并行性	shu jv bing xing xing	1
+数据采集	shu jv cai ji	1
+数据采集系统	shu jv cai ji xi tong	1
+数据采掘	shu jv cai jue	1
+数据仓库	shu jv cang ku	1
+数据操纵	shu jv cao zong	1
+数据操纵网	shu jv cao zong wang	1
+数据操纵语言	shu jv cao zong yu yan	1
+数据测试	shu jv ce shi	1
+数据差错	shu jv cha cuo	1
+数据重建	shu jv chong jian	1
+数据冲突	shu jv chong tu	1
+数据重组	shu jv chong zu	1
+数据抽象	shu jv chou xiang	1
+数据处理	shu jv chu li	1
+数据处理系统	shu jv chu li xi tong	1
+数据初始加工	shu jv chu shi jia gong	1
+数据传输	shu jv chuan shu	1
+数据传输指令	shu jv chuan shu zhi ling	1
+数据存取路径	shu jv cun qu lu jing	1
+数据独立性	shu jv du li xing	1
+数据多样性	shu jv duo yang xing	1
+数据访问路径	shu jv fang wen lu jing	1
+数据分布	shu jv fen bu	1
+数据分析	shu jv fen xi	1
+数据分析系统	shu jv fen xi xi tong	1
+数据封装	shu jv feng zhuang	1
+数据腐烂	shu jv fu lan	1
+数据服装	shu jv fu zhuang	1
+数据高速缓存	shu jv gao su huan cun	1
+数据高速通道	shu jv gao su tong dao	1
+数据格式	shu jv ge shi	1
+数据格式转换	shu jv ge shi zhuan huan	1
+数据共享	shu jv gong xiang	1
+数据管理	shu jv guan li	1
+数据管理程序	shu jv guan li cheng xu	1
+数据和信息	shu jv he xin xi	1
+数据划分	shu jv hua fen	1
+数据环境	shu jv huan jing	1
+数据汇	shu jv hui	1
+数据恢复	shu jv hui fu	1
+数据获取	shu jv huo qu	1
+数据集	shu jv ji	1
+数据寄存器	shu jv ji cun qi	1
+数据集市	shu jv ji shi	1
+数据集中器	shu jv ji zhong qi	1
+数据加密标准	shu jv jia mi biao zhun	1
+数据加密密钥	shu jv jia mi mi yue	1
+数据加密算法	shu jv jia mi suan fa	1
+数据交换机	shu jv jiao huan ji	1
+数据结构	shu jv jie gou	1
+数据局部性	shu jv ju bu xing	1
+数据空间	shu jv kong jian	1
+数据控制语言	shu jv kong zhi yu yan	1
+数据库	shu jv ku	1
+数据库安全	shu jv ku an quan	1
+数据库保密	shu jv ku bao mi	1
+数据库重构	shu jv ku chong gou	1
+数据库重组	shu jv ku chong zu	1
+数据库管理员	shu jv ku guan li yuan	1
+数据库环境	shu jv ku huan jing	1
+数据库机	shu jv ku ji	1
+数据库集成	shu jv ku ji cheng	1
+数据库键码	shu jv ku jian ma	1
+数据库连接	shu jv ku lian jie	1
+数据库模型	shu jv ku mo xing	1
+数据库完整性	shu jv ku wan zheng xing	1
+数据库系统	shu jv ku xi tong	1
+数据类型	shu jv lei xing	1
+数据链路	shu jv lian lu	1
+数据链路层	shu jv lian lu ceng	1
+数据链路控制	shu jv lian lu kong zhi	1
+数据流	shu jv liu	1
+数据流分析	shu jv liu fen xi	1
+数据流计算机	shu jv liu ji suan ji	1
+数据流图	shu jv liu tu	1
+数据流语言	shu jv liu yu yan	1
+数据录入	shu jv lu ru	1
+数据媒体	shu jv mei ti	1
+数据描述语言	shu jv miao shu yu yan	1
+数据模型	shu jv mo xing	1
+数据目录	shu jv mu lu	1
+数据偏斜	shu jv pian xie	1
+数据欺诈	shu jv qi zha	1
+数据清洗	shu jv qing xi	1
+数据驱动	shu jv qu dong	1
+数据权标	shu jv quan biao	1
+数据确认	shu jv que ren	1
+数据冗余	shu jv rong yu	1
+数据手套	shu jv shou tao	1
+数据属性	shu jv shu xing	1
+数据宿	shu jv su	1
+数据通道	shu jv tong dao	1
+数据通路	shu jv tong lu	1
+数据通信	shu jv tong xin	1
+数据通信中	shu jv tong xin zhong	1
+数据挖掘	shu jv wa jue	1
+数据完整性	shu jv wan zheng xing	1
+数据网	shu jv wang	1
+数据网标识码	shu jv wang biao shi ma	1
+数据项	shu jv xiang	1
+数据相关冲突	shu jv xiang guan chong tu	1
+数据信号	shu jv xin hao	1
+数据依赖	shu jv yi lai	1
+数据一致性	shu jv yi zhi xing	1
+数据隐私	shu jv yin si	1
+数据有效性	shu jv you xiao xing	1
+数据源	shu jv yuan	1
+数据源控件	shu jv yuan kong jian	1
+数据站	shu jv zhan	1
+数据帧	shu jv zhen	1
+数据终端设备	shu jv zhong duan she bei	1
+数据字典	shu jv zi dian	1
+数据总线	shu jv zong xian	1
+数据组织	shu jv zu zhi	1
 数控系统	shu kong xi tong	1
 数理语言学	shu li yu yan xue	1
 树连接结构	shu lian jie jie gou	1
@@ -6739,7 +6739,7 @@ use_preset_vocabulary: true
 输纸孔	shu zhi kong	1
 竖直喷射	shu zhi pen she	1
 输纸器	shu zhi qi	1
-数值数据	shu zhi shu ju	1
+数值数据	shu zhi shu jv	1
 枢轴语法	shu zhou yu fa	1
 树状结构树	shu zhuang jie gou shu	1
 数字	shu zi	1
@@ -6763,7 +6763,7 @@ use_preset_vocabulary: true
 数字签名标准	shu zi qian ming biao zhun	1
 数字式	shu zi shi	1
 数字输出	shu zi shu chu	1
-数字数据网	shu zi shu ju wang	1
+数字数据网	shu zi shu jv wang	1
 数字输入	shu zi shu ru	1
 数字水印	shu zi shui yin	1
 数字图书馆	shu zi tu shu guan	1
@@ -6822,7 +6822,7 @@ use_preset_vocabulary: true
 双三次曲面	shuang san ci qu mian	1
 双三次曲面片	shuang san ci qu mian pian	1
 双色球霸主	shuang se qiu ba zhu	1
-双数据速率	shuang shu ju su lv	1
+双数据速率	shuang shu jv su lv	1
 双位编码	shuang wei bian ma	1
 双稳触发电路	shuang wen chu fa dian lu	1
 双线性内插	shuang xian xing nei cha	1
@@ -6848,7 +6848,7 @@ use_preset_vocabulary: true
 双栈系统	shuang zhan xi tong	1
 水平处理	shui ping chu li	1
 水平分片	shui ping fen pian	1
-水平居中	shui ping ju zhong	1
+水平居中	shui ping jv zhong	1
 水平喷射	shui ping pen she	1
 顺串	shun chuan	1
 瞬时变迁	shun shi bian qian	1
@@ -6868,7 +6868,7 @@ use_preset_vocabulary: true
 顺序号	shun xu hao	1
 顺序加电	shun xu jia dian	1
 顺序进程	shun xu jin cheng	1
-顺序局部性	shun xu ju bu xing	1
+顺序局部性	shun xu jv bu xing	1
 顺序控制	shun xu kong zhi	1
 顺序批处理	shun xu pi chu li	1
 顺序搜索	shun xu sou suo	1
@@ -6954,8 +6954,8 @@ use_preset_vocabulary: true
 算术操作符	suan shu cao zuo fu	1
 算术交叉	suan shu jiao cha	1
 算术逻辑部件	suan shu luo ji bu jian	1
-算术平均	suan shu ping jun	1
-算术平均测试	suan shu ping jun ce shi	1
+算术平均	suan shu ping jvn	1
+算术平均测试	suan shu ping jvn ce shi	1
 算术上溢	suan shu shang yi	1
 算术下溢	suan shu xia yi	1
 算术移位	suan shu yi wei	1
@@ -6998,17 +6998,17 @@ use_preset_vocabulary: true
 锁存器	suo cun qi	1
 锁定	suo ding	1
 锁定参考线	suo ding can kao xian	1
-锁定工具栏	suo ding gong ju lan	1
+锁定工具栏	suo ding gong jv lan	1
 锁定浏览器	suo ding liu lan qi	1
 锁定切片	suo ding qie pian	1
 缩放	suo fang	1
 缩放比例	suo fang bi li	1
-缩放工具	suo fang gong ju	1
+缩放工具	suo fang gong jv	1
 锁归结	suo gui jie	1
 所见即所得	suo jian ji suo de	1
 缩进	suo jin	1
 缩水显卡	suo shui xian ka	1
-缩微胶卷	suo wei jiao juan	1
+缩微胶卷	suo wei jiao jvan	1
 缩微胶片	suo wei jiao pian	1
 缩微平片	suo wei ping pian	1
 锁相容性	suo xiang rong xing	1
@@ -7025,7 +7025,7 @@ use_preset_vocabulary: true
 所有帐户	suo you zhang hu	1
 缩址呼叫	suo zhi hu jiao	1
 锁住记录	suo zhu ji lu	1
-锁住数据库	suo zhu shu ju ku	1
+锁住数据库	suo zhu shu jv ku	1
 锁住文件	suo zhu wen jian	1
 锁住增删	suo zhu zeng shan	1
 踏步测试	ta bu ce shi	1
@@ -7045,7 +7045,7 @@ use_preset_vocabulary: true
 贪心	tan xin	1
 探询	tan xun	1
 套件	tao jian	1
-套具驱动器	tao ju qu dong qi	1
+套具驱动器	tao jv qu dong qi	1
 特洛伊木马	te luo yi mu ma	1
 特权	te quan	1
 特权方式	te quan fang shi	1
@@ -7078,7 +7078,7 @@ use_preset_vocabulary: true
 替代密码	ti dai mi ma	1
 替代选择	ti dai xuan ze	1
 梯格图	ti ge tu	1
-提供数据	ti gong shu ju	1
+提供数据	ti gong shu jv	1
 替换	ti huan	1
 替换策略	ti huan ce lue	1
 替换打开	ti huan da kai	1
@@ -7088,7 +7088,7 @@ use_preset_vocabulary: true
 提交单元	ti jiao dan yuan	1
 提交事务	ti jiao shi wu	1
 提交状态	ti jiao zhuang tai	1
-体矩阵	ti ju zhen	1
+体矩阵	ti jv zhen	1
 体可视化	ti ke shi hua	1
 体模型	ti mo xing	1
 提取	ti qu	1
@@ -7104,9 +7104,9 @@ use_preset_vocabulary: true
 梯形图	ti xing tu	1
 体元	ti yuan	1
 题旨结构	ti zhi jie gou	1
-题旨角色	ti zhi jue se	1
+题旨角色	ti zhi jve se	1
 填充	tian chong	1
-填充矩形	tian chong ju xing	1
+填充矩形	tian chong jv xing	1
 填充空白	tian chong kong bai	1
 填充亮度	tian chong liang du	1
 添加删除按钮	tian jia shan chu an niu	1
@@ -7136,7 +7136,7 @@ use_preset_vocabulary: true
 调试	tiao shi	1
 调试程序	tiao shi cheng xu	1
 调试程序包	tiao shi cheng xu bao	1
-调试工具	tiao shi gong ju	1
+调试工具	tiao shi gong jv	1
 调试例程	tiao shi li cheng	1
 调试模型	tiao shi mo xing	1
 调相	tiao xiang	1
@@ -7165,7 +7165,7 @@ use_preset_vocabulary: true
 同步传输	tong bu chuan shu	1
 同步传送模式	tong bu chuan song mo shi	1
 同步方法	tong bu fang fa	1
-同步距离	tong bu ju li	1
+同步距离	tong bu jv li	1
 同步控制	tong bu kong zhi	1
 同步路由选择	tong bu lu you xuan ze	1
 同步时分复用	tong bu shi fen fu yong	1
@@ -7189,13 +7189,13 @@ use_preset_vocabulary: true
 统计编码	tong ji bian ma	1
 统计测试模型	tong ji ce shi mo xing	1
 统计假设	tong ji jia she	1
-统计决策方法	tong ji jue ce fang fa	1
-统计决策理论	tong ji jue ce li lun	1
+统计决策方法	tong ji jve ce fang fa	1
+统计决策理论	tong ji jve ce li lun	1
 统计零知识	tong ji ling zhi shi	1
 统计模式识别	tong ji mo shi shi bie	1
 统计模型	tong ji mo xing	1
 统计时分复用	tong ji shi fen fu yong	1
-统计数据库	tong ji shu ju ku	1
+统计数据库	tong ji shu jv ku	1
 统计推理	tong ji tui li	1
 统计语言学	tong ji yu yan xue	1
 统计仲裁	tong ji zhong cai	1
@@ -7298,7 +7298,7 @@ use_preset_vocabulary: true
 图灵可归约性	tu ling ke gui yue xing	1
 图灵完备	tu ling wan bei	1
 突然失效	tu ran shi xiao	1
-图示化工具	tu shi hua gong ju	1
+图示化工具	tu shi hua gong jv	1
 图搜索	tu sou suo	1
 凸体	tu ti	1
 图同构	tu tong gou	1
@@ -7328,7 +7328,7 @@ use_preset_vocabulary: true
 图像平面	tu xiang ping mian	1
 图像去噪	tu xiang qu zao	1
 图像识别	tu xiang shi bie	1
-图像数据库	tu xiang shu ju ku	1
+图像数据库	tu xiang shu jv ku	1
 图像输入设备	tu xiang shu ru she bei	1
 图像序列	tu xiang xu lie	1
 图像压缩	tu xiang ya suo	1
@@ -7349,7 +7349,7 @@ use_preset_vocabulary: true
 图形识别	tu xing shi bie	1
 图形适配器	tu xing shi pei qi	1
 图形失真	tu xing shi zhen	1
-图形数据库	tu xing shu ju ku	1
+图形数据库	tu xing shu jv ku	1
 图形输入板	tu xing shu ru ban	1
 图形图表	tu xing tu biao	1
 图形系统	tu xing xi tong	1
@@ -7387,7 +7387,7 @@ use_preset_vocabulary: true
 推理模型	tui li mo xing	1
 推理网络	tui li wang luo	1
 推理系统	tui li xi tong	1
-推理子句	tui li zi ju	1
+推理子句	tui li zi jv	1
 退役	tui yi	1
 退栈	tui zhan	1
 吞吐量	tun tu liang	1
@@ -7398,7 +7398,7 @@ use_preset_vocabulary: true
 托管对象格式	tuo guan dui xiang ge shi	1
 托管跟租用	tuo guan gen zu yong	1
 托管加密标准	tuo guan jia mi biao zhun	1
-托管数据	tuo guan shu ju	1
+托管数据	tuo guan shu jv	1
 脱机	tuo ji	1
 脱机测试	tuo ji ce shi	1
 脱机处理	tuo ji chu li	1
@@ -7417,7 +7417,7 @@ use_preset_vocabulary: true
 托瓦兹	tuo wa zi	1
 挖切	wa qie	1
 外部调用	wai bu diao yong	1
-外部工具	wai bu gong ju	1
+外部工具	wai bu gong jv	1
 外部设备	wai bu she bei	1
 外部网关协议	wai bu wang guan xie yi	1
 外部威胁	wai bu wei xie	1
@@ -7448,7 +7448,7 @@ use_preset_vocabulary: true
 外围设备	wai wei she bei	1
 外延	wai yan	1
 外延公理	wai yan gong li	1
-外延数据库	wai yan shu ju ku	1
+外延数据库	wai yan shu jv ku	1
 外延网	wai yan wang	1
 完备化	wan bei hua	1
 完美零知识	wan mei ling zhi shi	1
@@ -7555,7 +7555,7 @@ use_preset_vocabulary: true
 网系统	wang xi tong	1
 网页	wang ye	1
 网页感染器	wang ye gan ran qi	1
-网页工具栏	wang ye gong ju lan	1
+网页工具栏	wang ye gong jv lan	1
 网页木马	wang ye mu ma	1
 网页内容	wang ye nei rong	1
 网页内容过滤	wang ye nei rong guo lv	1
@@ -7573,8 +7573,8 @@ use_preset_vocabulary: true
 网展开	wang zhan kai	1
 网站名	wang zhan ming	1
 网址一键通	wang zhi yi jian tong	1
-网状数据库	wang zhuang shu ju ku	1
-网状数据模型	wang zhuang shu ju mo xing	1
+网状数据库	wang zhuang shu jv ku	1
+网状数据模型	wang zhuang shu jv mo xing	1
 网状网	wang zhuang wang	1
 微编程语言	wei bian cheng yu yan	1
 位标识	wei biao zhi	1
@@ -7681,16 +7681,16 @@ use_preset_vocabulary: true
 文本编辑程序	wen ben bian ji cheng xu	1
 文本编写器	wen ben bian xie qi	1
 文本标签	wen ben biao qian	1
-文本采掘	wen ben cai jue	1
+文本采掘	wen ben cai jve	1
 文本方法	wen ben fang fa	1
 文本规划	wen ben gui hua	1
 文本过滤	wen ben guo lv	1
 文本检索	wen ben jian suo	1
 文本校对	wen ben jiao dui	1
 文本库	wen ben ku	1
-文本数据库	wen ben shu ju ku	1
+文本数据库	wen ben shu jv ku	1
 文本替换	wen ben ti huan	1
-文本挖掘	wen ben wa jue	1
+文本挖掘	wen ben wa jve	1
 文本一致性	wen ben yi zhi xing	1
 文本语言学	wen ben yu yan xue	1
 问答系统	wen da xi tong	1
@@ -7700,7 +7700,7 @@ use_preset_vocabulary: true
 文档翻译	wen dang fan yi	1
 文档级别	wen dang ji bie	1
 文档检索	wen dang jian suo	1
-文档数据库	wen dang shu ju ku	1
+文档数据库	wen dang shu jv ku	1
 稳定化协议	wen ding hua xie yi	1
 稳定时间	wen ding shi jian	1
 稳定性	wen ding xing	1
@@ -7741,7 +7741,7 @@ use_preset_vocabulary: true
 文件规约	wen jian gui yue	1
 文件检验程序	wen jian jian yan cheng xu	1
 文件结构	wen jian jie gou	1
-文件句柄	wen jian ju bing	1
+文件句柄	wen jian jv bing	1
 文件空间	wen jian kong jian	1
 文件控制	wen jian kong zhi	1
 文件控制块	wen jian kong zhi kuai	1
@@ -7779,7 +7779,7 @@ use_preset_vocabulary: true
 问题求解系统	wen ti qiu jie xi tong	1
 问题诊断	wen ti zhen duan	1
 问题状态	wen ti zhuang tai	1
-文献数据库	wen xian shu ju ku	1
+文献数据库	wen xian shu jv ku	1
 稳压电源	wen ya dian yuan	1
 稳压稳频	wen ya wen pin	1
 稳压稳频电源	wen ya wen pin dian yuan	1
@@ -7813,15 +7813,15 @@ use_preset_vocabulary: true
 无界限依存	wu jie xian yi cun	1
 无类地址	wu lei di zhi	1
 物理安全	wu li an quan	1
-物理布局	wu li bu ju	1
+物理布局	wu li bu jv	1
 物理布线	wu li bu xian	1
 物理层	wu li ceng	1
 物理地址	wu li di zhi	1
 物理访问控制	wu li fang wen kong zhi	1
 物理分页	wu li fen ye	1
 物理符号系统	wu li fu hao xi tong	1
-物理隔绝	wu li ge jue	1
-物理隔绝网络	wu li ge jue wang luo	1
+物理隔绝	wu li ge jve	1
+物理隔绝网络	wu li ge jve wang luo	1
 物理故障	wu li gu zhang	1
 物理介质	wu li jie zhi	1
 物理媒体连接	wu li mei ti lian jie	1
@@ -7876,7 +7876,7 @@ use_preset_vocabulary: true
 析取范式	xi qu fan shi	1
 膝上计算机	xi shang ji suan ji	1
 稀疏集	xi shu ji	1
-稀疏数据	xi shu shu ju	1
+稀疏数据	xi shu shu jv	1
 细索引	xi suo yin	1
 系统	xi tong	1
 系统安装	xi tong an zhuang	1
@@ -7977,7 +7977,7 @@ use_preset_vocabulary: true
 系统执行程序	xi tong zhi xing cheng xu	1
 系统中断	xi tong zhong duan	1
 系统中断请求	xi tong zhong duan qing qiu	1
-系统驻留卷	xi tong zhu liu juan	1
+系统驻留卷	xi tong zhu liu jvan	1
 系统驻留区	xi tong zhu liu qu	1
 系统转轨	xi tong zhuan gui	1
 系统状况	xi tong zhuang kuang	1
@@ -8008,7 +8008,7 @@ use_preset_vocabulary: true
 下行链路	xia xing lian lu	1
 下溢	xia yi	1
 下一状态	xia yi zhuang tai	1
-下载工具设置	xia zai gong ju she zhi	1
+下载工具设置	xia zai gong jv she zhi	1
 下载管理器	xia zai guan li qi	1
 下载收藏	xia zai shou cang	1
 下载收集内容	xia zai shou ji nei rong	1
@@ -8069,7 +8069,7 @@ use_preset_vocabulary: true
 显示延时	xian shi yan shi	1
 显示隐藏导航	xian shi yin cang dao hang	1
 显示隐藏段落	xian shi yin cang duan luo	1
-显示隐藏工具	xian shi yin cang gong ju	1
+显示隐藏工具	xian shi yin cang gong jv	1
 显示隐藏路径	xian shi yin cang lu jing	1
 显示隐藏色板	xian shi yin cang se ban	1
 显示隐藏通道	xian shi yin cang tong dao	1
@@ -8135,7 +8135,7 @@ use_preset_vocabulary: true
 向量量化	xiang liang liang hua	1
 向量流水线	xiang liang liu shui xian	1
 向量屏蔽	xiang liang ping bi	1
-向量数据结构	xiang liang shu ju jie gou	1
+向量数据结构	xiang liang shu jv jie gou	1
 向量搜索	xiang liang sou suo	1
 向量显示	xiang liang xian shi	1
 向量指令	xiang liang zhi ling	1
@@ -8173,17 +8173,17 @@ use_preset_vocabulary: true
 小波包基	xiao bo bao ji	1
 小波变换	xiao bo bian huan	1
 小波基	xiao bo ji	1
-消除锯齿明晰	xiao chu ju chi ming xi	1
-消除锯齿平滑	xiao chu ju chi ping hua	1
-消除锯齿强	xiao chu ju chi qiang	1
-消除锯齿无	xiao chu ju chi wu	1
+消除锯齿明晰	xiao chu jv chi ming xi	1
+消除锯齿平滑	xiao chu jv chi ping hua	1
+消除锯齿强	xiao chu jv chi qiang	1
+消除锯齿无	xiao chu jv chi wu	1
 消磁	xiao ci	1
 小服务程序	xiao fu wu cheng xu	1
 小红伞	xiao hong san	1
 笑话广场	xiao hua guang chang	1
 小键盘	xiao jian pan	1
 消解规则	xiao jie gui ze	1
-小巨型计算机	xiao ju xing ji suan ji	1
+小巨型计算机	xiao jv xing ji suan ji	1
 小平面	xiao ping mian	1
 消失状态	xiao shi zhuang tai	1
 消息处理	xiao xi chu li	1
@@ -8206,7 +8206,7 @@ use_preset_vocabulary: true
 谐波信号	xie bo xin hao	1
 写出缓存	xie chu huan cun	1
 协处理器	xie chu li qi	1
-写出数据	xie chu shu ju	1
+写出数据	xie chu shu jv	1
 写出所有缓存	xie chu suo you huan cun	1
 写出文本	xie chu wen ben	1
 写到内存	xie dao nei cun	1
@@ -8224,7 +8224,7 @@ use_preset_vocabulary: true
 写内存	xie nei cun	1
 斜坡函数	xie po han shu	1
 写前补偿	xie qian bu chang	1
-写数据线	xie shu ju xian	1
+写数据线	xie shu jv xian	1
 写锁	xie suo	1
 斜体	xie ti	1
 协调	xie tiao	1
@@ -8252,7 +8252,7 @@ use_preset_vocabulary: true
 协议鉴别符	xie yi jian bie fu	1
 协议失败	xie yi shi bai	1
 协议实体	xie yi shi ti	1
-协议数据单元	xie yi shu ju dan yuan	1
+协议数据单元	xie yi shu jv dan yuan	1
 协议套	xie yi tao	1
 协议映射	xie yi ying she	1
 协议栈	xie yi zhan	1
@@ -8407,7 +8407,7 @@ use_preset_vocabulary: true
 性态	xing tai	1
 形态音位规则	xing tai yin wei gui ze	1
 星特性	xing te xing	1
-行为句	xing wei ju	1
+行为句	xing wei jv	1
 行为模型	xing wei mo xing	1
 行位偏斜	xing wei pian xie	1
 行为主体	xing wei zhu ti	1
@@ -8431,7 +8431,7 @@ use_preset_vocabulary: true
 修复脚本	xiu fu jiao ben	1
 修改检测	xiu gai jian ce	1
 修改检测码	xiu gai jian ce ma	1
-修改全局设置	xiu gai quan ju she zhi	1
+修改全局设置	xiu gai quan jv she zhi	1
 修剪	xiu jian	1
 修理时间	xiu li shi jian	1
 修理延误时间	xiu li yan wu shi jian	1
@@ -8483,7 +8483,7 @@ use_preset_vocabulary: true
 虚拟机	xu ni ji	1
 虚拟计算机	xu ni ji suan ji	1
 虚拟教室	xu ni jiao shi	1
-虚拟局域网	xu ni ju yu wang	1
+虚拟局域网	xu ni jv yu wang	1
 虚拟空间	xu ni kong jian	1
 虚拟控制台	xu ni kong zhi tai	1
 虚拟库	xu ni ku	1
@@ -8575,7 +8575,7 @@ use_preset_vocabulary: true
 循环冗余检验	xun huan rong yu jian yan	1
 循环移位	xun huan yi wei	1
 循环展开	xun huan zhan kai	1
-循环执行语句	xun huan zhi xing yu ju	1
+循环执行语句	xun huan zhi xing yu jv	1
 寻径函数	xun jing han shu	1
 迅雷	xun lei	1
 讯四笔记本	xun si bi ji ben	1
@@ -8627,8 +8627,8 @@ use_preset_vocabulary: true
 演绎规则	yan yi gui ze	1
 演绎模拟	yan yi mo ni	1
 演绎树	yan yi shu	1
-演绎数据	yan yi shu ju	1
-演绎数据库	yan yi shu ju ku	1
+演绎数据	yan yi shu jv	1
+演绎数据库	yan yi shu jv ku	1
 演绎数学	yan yi shu xue	1
 演绎推理	yan yi tui li	1
 演绎综合方法	yan yi zong he fang fa	1
@@ -8644,7 +8644,7 @@ use_preset_vocabulary: true
 样本	yang ben	1
 样本分布	yang ben fen bu	1
 样本集	yang ben ji	1
-样本均值	yang ben jun zhi	1
+样本均值	yang ben jvn zhi	1
 样本空间	yang ben kong jian	1
 样本离差	yang ben li cha	1
 样本区间	yang ben qu jian	1
@@ -8673,7 +8673,7 @@ use_preset_vocabulary: true
 页控制块	ye kong zhi kuai	1
 液冷	ye leng	1
 页面存取时间	ye mian cun qu shi jian	1
-页面居中	ye mian ju zhong	1
+页面居中	ye mian jv zhong	1
 页面描述语言	ye mian miao shu yu yan	1
 页面内查找	ye mian nei cha zhao	1
 页面设置	ye mian she zhi	1
@@ -8764,7 +8764,7 @@ use_preset_vocabulary: true
 易管理性	yi guan li xing	1
 异或门	yi huo men	1
 一阶参数连续	yi jie can shu lian xu	1
-一阶矩	yi jie ju	1
+一阶矩	yi jie jv	1
 一阶理论	yi jie li lun	1
 一阶逻辑	yi jie luo ji	1
 已开文件	yi kai wen jian	1
@@ -8838,12 +8838,12 @@ use_preset_vocabulary: true
 引脚分配	yin jiao fen pei	1
 引脚阵列封装	yin jiao zhen lie feng zhuang	1
 音节结构限制	yin jie jie gou xian zhi	1
-引介句	yin jie ju	1
+引介句	yin jie jv	1
 印欧语言	yin ou yu yan	1
 音频	yin pin	1
 音频合成	yin pin he cheng	1
 音频流	yin pin liu	1
-音频数据库	yin pin shu ju ku	1
+音频数据库	yin pin shu jv ku	1
 隐式并行性	yin shi bing xing xing	1
 隐式栈	yin shi zhan	1
 印刷机	yin shua ji	1
@@ -8864,7 +8864,7 @@ use_preset_vocabulary: true
 引用类型	yin yong lei xing	1
 引用名	yin yong ming	1
 印制板	yin zhi ban	1
-印制板布局	yin zhi ban bu ju	1
+印制板布局	yin zhi ban bu jv	1
 印制板布线	yin zhi ban bu xian	1
 印制板测试	yin zhi ban ce shi	1
 印制电路板	yin zhi dian lu ban	1
@@ -8925,13 +8925,13 @@ use_preset_vocabulary: true
 应用服务要素	ying yong fu wu yao su	1
 应用环境	ying yong huan jing	1
 应用进程	ying yong jin cheng	1
-应用开发工具	ying yong kai fa gong ju	1
+应用开发工具	ying yong kai fa gong jv	1
 应用领域	ying yong ling yu	1
 应用逻辑	ying yong luo ji	1
 应用软件	ying yong ruan jian	1
 应用生成程序	ying yong sheng cheng cheng xu	1
 应用生成器	ying yong sheng cheng qi	1
-应用数据组	ying yong shu ju zu	1
+应用数据组	ying yong shu jv zu	1
 应用协议实体	ying yong xie yi shi ti	1
 应用状况	ying yong zhuang kuang	1
 用户标识码	yong hu biao shi ma	1
@@ -9001,10 +9001,10 @@ use_preset_vocabulary: true
 邮件管理员	you jian guan li yuan	1
 有界网	you jie wang	1
 有界性	you jie xing	1
-邮局协议	you ju xie yi	1
-右句型	you ju xing	1
+邮局协议	you jv xie yi	1
+右句型	you jv xing	1
 有类地址	you lei di zhi	1
-有理据拆分	you li ju chai fen	1
+有理据拆分	you li jv chai fen	1
 油墨边缘效果	you mo bian yuan xiao guo	1
 油墨概况	you mo gai kuang	1
 右匹配	you pi pei	1
@@ -9060,7 +9060,7 @@ use_preset_vocabulary: true
 右移	you yi	1
 友元	you yuan	1
 有源底板	you yuan di ban	1
-邮政局长	you zheng ju zhang	1
+邮政局长	you zheng jv zhang	1
 预编码	yu bian ma	1
 预编译程序	yu bian yi cheng xu	1
 预测编码	yu ce bian ma	1
@@ -9090,9 +9090,9 @@ use_preset_vocabulary: true
 语境分析	yu jing fen xi	1
 语境机制	yu jing ji zhi	1
 语境照应	yu jing zhao ying	1
-语句	yu ju	1
-语句定义符	yu ju ding yi fu	1
-语句平均长度	yu ju ping jun chang du	1
+语句	yu jv	1
+语句定义符	yu jv ding yi fu	1
+语句平均长度	yu jv ping jvn chang du	1
 预览并打印	yu lan bing da yin	1
 语料库	yu liao ku	1
 语料库语言学	yu liao ku yu yan xue	1
@@ -9148,10 +9148,10 @@ use_preset_vocabulary: true
 语意架构	yu yi jia gou	1
 语义检查	yu yi jian cha	1
 语意结构	yu yi jie gou	1
-语义距离	yu yi ju li	1
+语义距离	yu yi jv li	1
 语义理论	yu yi li lun	1
 语义树	yu yi shu	1
-语义数据模型	yu yi shu ju mo xing	1
+语义数据模型	yu yi shu jv mo xing	1
 语义属性	yu yi shu xing	1
 语意网路	yu yi wang lu	1
 语义网络	yu yi wang luo	1
@@ -9212,7 +9212,7 @@ use_preset_vocabulary: true
 元规则	yuan gui ze	1
 元件数小时	yuan jian shu xiao shi	1
 圆角	yuan jiao	1
-圆角窗口句柄	yuan jiao chuang kou ju bing	1
+圆角窗口句柄	yuan jiao chuang kou jv bing	1
 元可满足性	yuan ke man zu xing	1
 远控王	yuan kong wang	1
 原理图	yuan li tu	1
@@ -9224,10 +9224,10 @@ use_preset_vocabulary: true
 原色	yuan se	1
 原生四核	yuan sheng si he	1
 原始递归函数	yuan shi di gui han shu	1
-原始数据	yuan shi shu ju	1
-元数据	yuan shu ju	1
-源数据鉴别	yuan shu ju jian bie	1
-元数据库	yuan shu ju ku	1
+原始数据	yuan shi shu jv	1
+元数据	yuan shu jv	1
+源数据鉴别	yuan shu jv jian bie	1
+元数据库	yuan shu jv ku	1
 元推理	yuan tui li	1
 元文件	yuan wen jian	1
 元信令	yuan xin ling	1
@@ -9262,7 +9262,7 @@ use_preset_vocabulary: true
 约束方程	yue shu fang cheng	1
 约束规则	yue shu gui ze	1
 约束函数	yue shu han shu	1
-约束矩阵	yue shu ju zhen	1
+约束矩阵	yue shu jv zhen	1
 约束满足	yue shu man zu	1
 约束条件	yue shu tiao jian	1
 约束推理	yue shu tui li	1
@@ -9312,7 +9312,7 @@ use_preset_vocabulary: true
 再工程	zai gong cheng	1
 在画吗	zai hua ma	1
 再见日语	zai jian ri yu	1
-再聚合	zai ju he	1
+再聚合	zai jv he	1
 在媒体上显示	zai mei ti shang xian shi	1
 灾难恢复	zai nan hui fu	1
 灾难恢复计划	zai nan hui fu ji hua	1
@@ -9372,7 +9372,7 @@ use_preset_vocabulary: true
 栈控制	zhan kong zhi	1
 战略规划	zhan lue gui hua	1
 战略情报	zhan lue qing bao	1
-战略数据规划	zhan lue shu ju gui hua	1
+战略数据规划	zhan lue shu jv gui hua	1
 栈内容	zhan nei rong	1
 栈区	zhan qu	1
 栈容量	zhan rong liang	1
@@ -9455,12 +9455,12 @@ use_preset_vocabulary: true
 正常运行	zheng chang yun xing	1
 正二测投影	zheng er ce tou ying	1
 蒸发冷却	zheng fa leng que	1
-正反问句	zheng fan wen ju	1
+正反问句	zheng fan wen jv	1
 正规文法	zheng gui wen fa	1
 正交树	zheng jiao shu	1
 正交小波变换	zheng jiao xiao bo bian huan	1
-证据理论	zheng ju li lun	1
-证据推理	zheng ju tui li	1
+证据理论	zheng jv li lun	1
+证据推理	zheng jv tui li	1
 正例	zheng li	1
 整流器	zheng liu qi	1
 正逻辑转换	zheng luo ji zhuan huan	1
@@ -9492,7 +9492,7 @@ use_preset_vocabulary: true
 正文编辑器	zheng wen bian ji qi	1
 正文格式语言	zheng wen ge shi yu yan	1
 正文检索	zheng wen jian suo	1
-正文数据库	zheng wen shu ju ku	1
+正文数据库	zheng wen shu jv ku	1
 正向恢复	zheng xiang hui fu	1
 正向推理	zheng xiang tui li	1
 正向信道	zheng xiang xin dao	1
@@ -9514,7 +9514,7 @@ use_preset_vocabulary: true
 整直器	zheng zhi qi	1
 整字分解	zheng zi fen jie	1
 置背景色	zhi bei jing se	1
-置边距	zhi bian ju	1
+置边距	zhi bian jv	1
 置表头行数	zhi biao tou hang shu	1
 置表头列数	zhi biao tou lie shu	1
 置标语言	zhi biao yu yan	1
@@ -9528,7 +9528,7 @@ use_preset_vocabulary: true
 置初始属性	zhi chu shi shu xing	1
 值传	zhi chuan	1
 址传	zhi chuan	1
-置磁盘卷标	zhi ci pan juan biao	1
+置磁盘卷标	zhi ci pan jvan biao	1
 置打印设置	zhi da yin she zhi	1
 纸带穿孔	zhi dai chuan kong	1
 纸带读入机	zhi dai du ru ji	1
@@ -9563,7 +9563,7 @@ use_preset_vocabulary: true
 直接液冷	zhi jie ye leng	1
 直接映射	zhi jie ying she	1
 直接组织	zhi jie zu zhi	1
-直觉主义逻辑	zhi jue zhu yi luo ji	1
+直觉主义逻辑	zhi jve zhu yi luo ji	1
 置类型	zhi lei xing	1
 智力处理	zhi li chu li	1
 智力犯罪	zhi li fan zui	1
@@ -9583,7 +9583,7 @@ use_preset_vocabulary: true
 指令高速缓存	zhi ling gao su huan cun	1
 指令格式	zhi ling ge shi	1
 指令跟踪	zhi ling gen zong	1
-指令和数据	zhi ling he shu ju	1
+指令和数据	zhi ling he shu jv	1
 指令集	zhi ling ji	1
 指令级并行	zhi ling ji bing xing	1
 指令寄存器	zhi ling ji cun qi	1
@@ -9607,12 +9607,12 @@ use_preset_vocabulary: true
 智能代理	zhi neng dai li	1
 智能放大器	zhi neng fang da qi	1
 智能仿真	zhi neng fang zhen	1
-智能化工具	zhi neng hua gong ju	1
+智能化工具	zhi neng hua gong jv	1
 智能机器人	zhi neng ji qi ren	1
 智能计算机	zhi neng ji suan ji	1
 智能加速	zhi neng jia su	1
 智能检索	zhi neng jian suo	1
-智能决策系统	zhi neng jue ce xi tong	1
+智能决策系统	zhi neng jve ce xi tong	1
 智能卡	zhi neng ka	1
 智能科学	zhi neng ke xue	1
 智能控制	zhi neng kong zhi	1
@@ -9668,8 +9668,8 @@ use_preset_vocabulary: true
 知识子系统	zhi shi zi xi tong	1
 知识组织	zhi shi zu zhi	1
 指数变迁	zhi shu bian qian	1
-置数据	zhi shu ju	1
-置数据库密码	zhi shu ju ku mi ma	1
+置数据	zhi shu jv	1
+置数据库密码	zhi shu jv ku mi ma	1
 指数密码体制	zhi shu mi ma ti zhi	1
 指数时间	zhi shu shi jian	1
 置托盘图标	zhi tuo pan tu biao	1
@@ -9753,7 +9753,7 @@ use_preset_vocabulary: true
 中华爱情网	zhong hua ai qing wang	1
 中华交友	zhong hua jiao you	1
 中华特攻	zhong hua te gong	1
-重汇聚扇出	zhong hui ju shan chu	1
+重汇聚扇出	zhong hui jv shan chu	1
 终极符	zhong ji fu	1
 中继器	zhong ji qi	1
 中继站	zhong ji zhan	1
@@ -9817,7 +9817,7 @@ use_preset_vocabulary: true
 主存	zhu cun	1
 主存储器	zhu cun chu qi	1
 主存储器分区	zhu cun chu qi fen qu	1
-主存数据库	zhu cun shu ju ku	1
+主存数据库	zhu cun shu jv ku	1
 主存栈	zhu cun zhan	1
 主调度程序	zhu diao du cheng xu	1
 主动查询	zhu dong cha xun	1
@@ -9825,8 +9825,8 @@ use_preset_vocabulary: true
 主动防御	zhu dong fang yu	1
 主动攻击	zhu dong gong ji	1
 主动轮	zhu dong lun	1
-主动视觉	zhu dong shi jue	1
-主动数据库	zhu dong shu ju ku	1
+主动视觉	zhu dong shi jve	1
+主动数据库	zhu dong shu jv ku	1
 主动威胁	zhu dong wei xie	1
 主动知识	zhu dong zhi shi	1
 主段	zhu duan	1
@@ -9881,7 +9881,7 @@ use_preset_vocabulary: true
 转换为主机名	zhuan huan wei zhu ji ming	1
 专家经验	zhuan jia jing yan	1
 专家系统	zhuan jia xi tong	1
-专家系统工具	zhuan jia xi tong gong ju	1
+专家系统工具	zhuan jia xi tong gong jv	1
 专家系统外壳	zhuan jia xi tong wai ke	1
 转接板	zhuan jie ban	1
 转接网	zhuan jie wang	1
@@ -9893,7 +9893,7 @@ use_preset_vocabulary: true
 转速传感器	zhuan su chuan gan qi	1
 专线	zhuan xian	1
 专线接入	zhuan xian jie ru	1
-转向语句	zhuan xiang yu ju	1
+转向语句	zhuan xiang yu jv	1
 转写抄写	zhuan xie chao xie	1
 专业词典	zhuan ye ci dian	1
 专业词库	zhuan ye ci ku	1
@@ -9914,7 +9914,7 @@ use_preset_vocabulary: true
 专用集成电路	zhuan yong ji cheng dian lu	1
 专用计算机	zhuan yong ji suan ji	1
 专用平面	zhuan yong ping mian	1
-专用数据网	zhuan yong shu ju wang	1
+专用数据网	zhuan yong shu jv wang	1
 专用文件	zhuan yong wen jian	1
 专用线路	zhuan yong xian lu	1
 转置	zhuan zhi	1
@@ -9943,7 +9943,7 @@ use_preset_vocabulary: true
 装置	zhuang zhi	1
 追加	zhui jia	1
 追踪程序	zhui zong cheng xu	1
-准分裂句	zhun fen lie ju	1
+准分裂句	zhun fen lie jv	1
 桌面	zhuo mian	1
 桌面操作系统	zhuo mian cao zuo xi tong	1
 桌面出版系统	zhuo mian chu ban xi tong	1
@@ -10000,7 +10000,7 @@ use_preset_vocabulary: true
 自动标引	zi dong biao yin	1
 自动并行化	zi dong bing xing hua	1
 自动补偿	zi dong bu chang	1
-自动布局	zi dong bu ju	1
+自动布局	zi dong bu jv	1
 自动测试设备	zi dong ce shi she bei	1
 自动测试生成	zi dong ce shi sheng cheng	1
 自动程序设计	zi dong cheng xu she ji	1
@@ -10031,13 +10031,13 @@ use_preset_vocabulary: true
 自动切分	zi dong qie fen	1
 自动任务化	zi dong ren wu hua	1
 自动上传	zi dong shang chuan	1
-自动设计工具	zi dong she ji gong ju	1
+自动设计工具	zi dong she ji gong jv	1
 自动刷新频率	zi dong shua xin pin lv	1
 自动送纸器	zi dong song zhi qi	1
 自动搜索服务	zi dong sou suo fu wu	1
 自动同步器	zi dong tong bu qi	1
 自动文件分类	zi dong wen jian fen lei	1
-自动验证工具	zi dong yan zheng gong ju	1
+自动验证工具	zi dong yan zheng gong jv	1
 自动验证系统	zi dong yan zheng xi tong	1
 自动运行蠕虫	zi dong yun xing ru chong	1
 子段	zi duan	1
@@ -10075,8 +10075,8 @@ use_preset_vocabulary: true
 字节流报	zi jie liu bao	1
 自解压	zi jie ya	1
 子进程	zi jin cheng	1
-子句	zi ju	1
-子句语法	zi ju yu fa	1
+子句	zi jv	1
+子句语法	zi jv yu fa	1
 自考中国网	zi kao zhong guo wang	1
 子块编码	zi kuai bian ma	1
 子类	zi lei	1
@@ -10084,7 +10084,7 @@ use_preset_vocabulary: true
 自联结	zi lian jie	1
 自连接	zi lian jie	1
 字量	zi liang	1
-资料库数据库	zi liao ku shu ju ku	1
+资料库数据库	zi liao ku shu jv ku	1
 资料员	zi liao yuan	1
 字面常量	zi mian chang liang	1
 字面值	zi mian zhi	1
@@ -10275,7 +10275,7 @@ use_preset_vocabulary: true
 作格动词	zuo ge dong ci	1
 作格性	zuo ge xing	1
 左击	zuo ji	1
-左角句法剖析	zuo jiao ju fa pou xi	1
+左角句法剖析	zuo jiao jv fa pou xi	1
 左角落剖析	zuo jiao luo pou xi	1
 左匹配	zuo pi pei	1
 作业步	zuo ye bu	1
