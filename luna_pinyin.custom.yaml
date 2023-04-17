@@ -37,21 +37,21 @@ patch:
   #  '`': [ '`', 'ASC_8384', 'ASC_8384@foxmail.com']
   # end
   # 扩充词库
-  translator/dictionary: luna_pinyin.extended
+  translator/dictionary: luna_pinyin_simp.extended
   # 改寫拼寫運算，使得含西文的詞彙（位於 luna_pinyin.cn_en.dict.yaml 中）不影響簡拼功能
   "speller/algebra/@before 0": xform/^([b-df-np-z])$/$1_/
   # end
   # 加載 easy_en 依賴，英文聯想輸入
-  "schema/dependencies/@next": easy_en
+  # "schema/dependencies/@next": easy_en
   # 載入翻譯英文的碼表翻譯器，取名爲 english
-  "engine/translators/@next": table_translator@english
+  # "engine/translators/@next": table_translator@english
   # english 翻譯器的設定項
-  english:
-    dictionary: easy_en
-    spelling_hints: 9
-    enable_completion: true
-    enable_sentence: false
-    initial_quality: -1
+  # english:
+  #   dictionary: easy_en
+  #   spelling_hints: 9
+  #   enable_completion: true
+  #   enable_sentence: false
+  #   initial_quality: -1
   # end
   #模糊音
   #'speller/algebra':
