@@ -16,6 +16,11 @@ translator 的输出是若干候选项。
 请看如下示例：
 --]]
 
+
+-- local weekday_en_simp = {["0"]="Sun", ["1"]="Mon", ["2"]="Tue", ["3"]="Wed", ["4"]="Thu", ["5"]="Fri", ["6"]="Sat"}
+local weekday_cn_off = {["0"]="星期日", ["1"]="星期一", ["2"]="星期二", ["3"]="星期三", ["4"]="星期四", ["5"]="星期五", ["6"]="星期六"}
+
+
 local function translator(input, seg)
    -- 如果输入串为 `date` 则翻译
    if (input == "date") then
@@ -27,11 +32,15 @@ local function translator(input, seg)
             - text:  候选项的文本
             - comment: 候选项的注释
        --]]
-      yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日"), ""))
+	  local date_cn = string.format("%s年%s月%s日 %s",os.date("%Y"),os.date("%m"),os.date("%d"),weekday_cn_off[os.date("%w")])
+
+      yield(Candidate("date", seg.start, seg._end, os.date("%a,%b %d,%Y"), ""))	-- 美式日期
       --[[ 用 `yield` 再产生一个候选项
            最终的效果是输入法候选框中出现两个格式不同的当前日期的候选项。
       --]]
+      yield(Candidate("date", seg.start, seg._end, date_cn, ""))	-- 中式日期
       yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d"), ""))
+      yield(Candidate("date", seg.start, seg._end, os.date("%x"), ""))
    end
 end
 
