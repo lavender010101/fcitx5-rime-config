@@ -19,7 +19,7 @@ patch:
   #"key_binder/bindings":
   #  - { when: paging, accept: bracketleft, send: Page_Up }
   #  - { when: has_menu, accept: bracketright, send: Page_Down }
-  "switches/@0/reset": 1  #表示将 switcher 列表中的第一个元素（即 ascii_mode 开关）的初始值重设为状态1（即“英文”）。
+  # "switches/@0/reset": 1  #表示将 switcher 列表中的第一个元素（即 ascii_mode 开关）的初始值重设为状态1（即“英文”）。
   #表情'/'输入
   punctuator/import_preset: symbols #表情
   recognizer/patterns/punct: "^\\\\([a-z]+|[0-9])$" #输入‘/’
@@ -37,9 +37,61 @@ patch:
   #  '`': [ '`', 'ASC_8384', 'ASC_8384@foxmail.com']
   # end
   # 扩充词库
-  translator/dictionary: luna_pinyin_simp.extended
+  translator/dictionary: luna_pinyin.extended
   # 改寫拼寫運算，使得含西文的詞彙（位於 luna_pinyin.cn_en.dict.yaml 中）不影響簡拼功能
   "speller/algebra/@before 0": xform/^([b-df-np-z])$/$1_/
+
+
+
+
+  # 过滤生僻字
+  switches:
+    - options: ["gbk+emoji","utf8"] # 字符集选单
+  reset: 0 # 默认gbk，UTF-8原生支持Emoji
+  states:
+    - GBK
+    - UTF-8
+
+  engine/translators:
+    - lua_translator@date_translator
+    - lua_translator@time_translator
+    - lua_translator@week_translator
+      # - lua_translator@easy_en_translator
+    - punct_translator
+    - script_translator
+    - table_translator@custom_phrase
+
+  engine/filters:
+      # - simplifier@emoji_suggestion
+      # - simplifier@zh_simp # 简体
+    - simplifier
+    - uniquifier
+    - charset_filter@gbk+emoji # GBK过滤 
+      # - charset_filter@gbk
+      # - single_char_filter
+      # engine/processors:
+      #   - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+
+
+  engine/segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  emoji_suggestion:
+    opencc_config: emoji.json
+    option_name: emoji_suggestion
+    # tips: all
+  reverse_lookup: {}
+
   # end
   # 加載 easy_en 依賴，英文聯想輸入
   # "schema/dependencies/@next": easy_en

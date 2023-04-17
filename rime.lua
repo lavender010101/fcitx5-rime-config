@@ -42,6 +42,11 @@ librime-lua 样例
 -- 详见 `lua/date.lua`:
 date_translator = require("date")
 
+
+-- week_translator: 将 `week` 翻译为当前星期
+-- 详见 `lua/week.lua`:
+week_translator = require("week")
+
 -- time_translator: 将 `time` 翻译为当前时间
 -- 详见 `lua/time.lua`
 time_translator = require("time")
